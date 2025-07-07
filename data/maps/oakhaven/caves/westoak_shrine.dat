@@ -1,0 +1,10848 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1248,
+  height = 480,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "temple_2",
+  music = "ruins_1",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 1248,
+  height = 480,
+  pattern = "ground1.1",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 272,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 272,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 448,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 448,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 304,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 336,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 384,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 368,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 416,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 432,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 304,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 336,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 384,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 368,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 416,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 432,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 304,
+  width = 224,
+  height = 144,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 240,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 240,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 272,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 272,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 272,
+  width = 32,
+  height = 32,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 208,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 208,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 208,
+  width = 16,
+  height = 64,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 208,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 208,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 192,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.4",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 144,
+  width = 32,
+  height = 64,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 208,
+  width = 8,
+  height = 32,
+  pattern = "door.down.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "door.down.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 208,
+  width = 8,
+  height = 32,
+  pattern = "door.down.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 240,
+  width = 8,
+  height = 32,
+  pattern = "door.up.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 240,
+  width = 8,
+  height = 32,
+  pattern = "door.up.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "door.up.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "1",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 448,
+  width = 8,
+  height = 32,
+  pattern = "door.down.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "door.down.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 448,
+  width = 8,
+  height = 32,
+  pattern = "door.down.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 48,
+  width = 96,
+  height = 96,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "219",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "159",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "161",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 48,
+  width = 16,
+  height = 8,
+  pattern = "187",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 40,
+  width = 16,
+  height = 8,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 40,
+  width = 8,
+  height = 24,
+  pattern = "185",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "186",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 40,
+  width = 8,
+  height = 24,
+  pattern = "184",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 320,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 384,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.4",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 352,
+  width = 64,
+  height = 32,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 320,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 384,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 384,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 384,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 320,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 320,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 368,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 336,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 384,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 288,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 416,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 288,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.2",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 336,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 256,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 288,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 288,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.2",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 256,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 256,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 320,
+  width = 256,
+  height = 96,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 192,
+  width = 32,
+  height = 128,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 192,
+  width = 32,
+  height = 128,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 336,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.4",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 368,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.2",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 336,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 368,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.4",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.4",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 160,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 160,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 64,
+  width = 288,
+  height = 128,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 360,
+  width = 64,
+  height = 16,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 352,
+  width = 32,
+  height = 8,
+  pattern = "door.right.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "3",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "door.right.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 376,
+  width = 32,
+  height = 8,
+  pattern = "door.right.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 352,
+  width = 32,
+  height = 8,
+  pattern = "door.left.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "door.left.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 376,
+  width = 32,
+  height = 8,
+  pattern = "door.left.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "4",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "175",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 272,
+  width = 192,
+  height = 16,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 400,
+  width = 192,
+  height = 16,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 944,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 960,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 976,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 1008,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 1024,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 1040,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 1056,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 1072,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 1088,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 1104,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 1136,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 1152,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 1168,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 448,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 432,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 416,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 384,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 368,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 336,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 304,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 256,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 208,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 192,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 160,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 1168,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 1152,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 1136,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 1104,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 1088,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 1072,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 1056,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 1040,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 1024,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 1008,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 976,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 960,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 944,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 1184,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 160,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 208,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 192,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 336,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 240,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 288,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 416,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 368,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.2",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 448,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 240,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 368,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 288,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.4",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 32,
+  width = 288,
+  height = 416,
+  pattern = "35",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 256,
+  width = 32,
+  height = 48,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 384,
+  width = 32,
+  height = 64,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 376,
+  width = 32,
+  height = 8,
+  pattern = "29",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 248,
+  width = 32,
+  height = 8,
+  pattern = "29",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 256,
+  width = 8,
+  height = 48,
+  pattern = "28",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 384,
+  width = 8,
+  height = 64,
+  pattern = "28",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "33",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "33",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "31",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 304,
+  width = 32,
+  height = 8,
+  pattern = "27",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 32,
+  width = 64,
+  height = 64,
+  pattern = "ground1.1",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 1168,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 1152,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 1136,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1160,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1168,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 96,
+  width = 64,
+  height = 8,
+  pattern = "27",
+}
+
+tile{
+  layer = 0,
+  x = 1112,
+  y = 32,
+  width = 8,
+  height = 64,
+  pattern = "30",
+}
+
+tile{
+  layer = 0,
+  x = 1112,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "32",
+}
+
+tile{
+  layer = 0,
+  x = 1136,
+  y = 16,
+  width = 32,
+  height = 16,
+  pattern = "ground1.1",
+}
+
+tile{
+  layer = 0,
+  x = 1160,
+  y = 0,
+  width = 8,
+  height = 32,
+  pattern = "47",
+  tileset = "bear_catacombs_cave",
+}
+
+tile{
+  layer = 0,
+  x = 1136,
+  y = 0,
+  width = 8,
+  height = 32,
+  pattern = "46",
+  tileset = "bear_catacombs_cave",
+}
+
+tile{
+  layer = 0,
+  x = 1144,
+  y = 0,
+  width = 16,
+  height = 24,
+  pattern = "48",
+  tileset = "bear_catacombs_cave",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 208,
+  width = 64,
+  height = 64,
+  pattern = "ground1.1",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 200,
+  width = 64,
+  height = 8,
+  pattern = "29",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 272,
+  width = 64,
+  height = 8,
+  pattern = "27",
+}
+
+tile{
+  layer = 0,
+  x = 1112,
+  y = 208,
+  width = 8,
+  height = 64,
+  pattern = "30",
+}
+
+tile{
+  layer = 0,
+  x = 1112,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "32",
+}
+
+tile{
+  layer = 0,
+  x = 1112,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "34",
+}
+
+tile{
+  layer = 0,
+  x = 1160,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1120,
+  y = 232,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1152,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 1136,
+  y = 248,
+  width = 16,
+  height = 16,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 1168,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 1128,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "ground1.3",
+}
+
+sensor{
+  name = "^save_solid_ground_sensor_4",
+  layer = 0,
+  x = 1128,
+  y = 221,
+  width = 64,
+  height = 64,
+}
+
+custom_entity{
+  name = "collapsing_floor_100",
+  layer = 0,
+  x = 1000,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_101",
+  layer = 0,
+  x = 1016,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_469",
+  layer = 0,
+  x = 1000,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_470",
+  layer = 0,
+  x = 1000,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_471",
+  layer = 0,
+  x = 1016,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_472",
+  layer = 0,
+  x = 1016,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_473",
+  layer = 0,
+  x = 1000,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_474",
+  layer = 0,
+  x = 1016,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_102",
+  layer = 0,
+  x = 1032,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_103",
+  layer = 0,
+  x = 1048,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_475",
+  layer = 0,
+  x = 1032,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_476",
+  layer = 0,
+  x = 1032,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_477",
+  layer = 0,
+  x = 1048,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_478",
+  layer = 0,
+  x = 1048,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_479",
+  layer = 0,
+  x = 1032,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_480",
+  layer = 0,
+  x = 1048,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_92",
+  layer = 0,
+  x = 1128,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_93",
+  layer = 0,
+  x = 1144,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_445",
+  layer = 0,
+  x = 1128,
+  y = 381,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_446",
+  layer = 0,
+  x = 1128,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_447",
+  layer = 0,
+  x = 1144,
+  y = 381,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_448",
+  layer = 0,
+  x = 1144,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_449",
+  layer = 0,
+  x = 1128,
+  y = 365,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_450",
+  layer = 0,
+  x = 1144,
+  y = 365,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_94",
+  layer = 0,
+  x = 1160,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_95",
+  layer = 0,
+  x = 1176,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_451",
+  layer = 0,
+  x = 1160,
+  y = 381,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_452",
+  layer = 0,
+  x = 1160,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_453",
+  layer = 0,
+  x = 1176,
+  y = 381,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_454",
+  layer = 0,
+  x = 1176,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_455",
+  layer = 0,
+  x = 1160,
+  y = 365,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_456",
+  layer = 0,
+  x = 1176,
+  y = 365,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+enemy{
+  layer = 0,
+  x = 960,
+  y = 165,
+  properties = {
+    {
+      key = "radius",
+      value = "56",
+    },
+    {
+      key = "clockwise",
+      value = "true",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+enemy{
+  layer = 0,
+  x = 960,
+  y = 93,
+  properties = {
+    {
+      key = "radius",
+      value = "56",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+custom_entity{
+  name = "collapsing_floor_24",
+  layer = 0,
+  x = 1000,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_25",
+  layer = 0,
+  x = 1000,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_26",
+  layer = 0,
+  x = 1016,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_27",
+  layer = 0,
+  x = 1016,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_28",
+  layer = 0,
+  x = 968,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_29",
+  layer = 0,
+  x = 968,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_30",
+  layer = 0,
+  x = 984,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_305",
+  layer = 0,
+  x = 984,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_306",
+  layer = 0,
+  x = 968,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_307",
+  layer = 0,
+  x = 968,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_308",
+  layer = 0,
+  x = 984,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_309",
+  layer = 0,
+  x = 984,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_310",
+  layer = 0,
+  x = 1000,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_311",
+  layer = 0,
+  x = 1000,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_312",
+  layer = 0,
+  x = 1016,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_313",
+  layer = 0,
+  x = 1016,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_31",
+  layer = 0,
+  x = 1000,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_32",
+  layer = 0,
+  x = 1000,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_33",
+  layer = 0,
+  x = 1016,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_34",
+  layer = 0,
+  x = 1016,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_35",
+  layer = 0,
+  x = 968,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_36",
+  layer = 0,
+  x = 968,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_37",
+  layer = 0,
+  x = 984,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_314",
+  layer = 0,
+  x = 984,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_315",
+  layer = 0,
+  x = 968,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_316",
+  layer = 0,
+  x = 968,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_317",
+  layer = 0,
+  x = 984,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_318",
+  layer = 0,
+  x = 984,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_319",
+  layer = 0,
+  x = 1000,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_320",
+  layer = 0,
+  x = 1000,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_321",
+  layer = 0,
+  x = 1016,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_322",
+  layer = 0,
+  x = 1016,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_38",
+  layer = 0,
+  x = 1000,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_39",
+  layer = 0,
+  x = 1000,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_40",
+  layer = 0,
+  x = 1016,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_41",
+  layer = 0,
+  x = 1016,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_42",
+  layer = 0,
+  x = 968,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_43",
+  layer = 0,
+  x = 968,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_44",
+  layer = 0,
+  x = 984,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_323",
+  layer = 0,
+  x = 984,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_324",
+  layer = 0,
+  x = 968,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_325",
+  layer = 0,
+  x = 968,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_326",
+  layer = 0,
+  x = 984,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_327",
+  layer = 0,
+  x = 984,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_328",
+  layer = 0,
+  x = 1000,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_329",
+  layer = 0,
+  x = 1000,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_330",
+  layer = 0,
+  x = 1016,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_331",
+  layer = 0,
+  x = 1016,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_45",
+  layer = 0,
+  x = 936,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_46",
+  layer = 0,
+  x = 936,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_47",
+  layer = 0,
+  x = 952,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_48",
+  layer = 0,
+  x = 952,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_49",
+  layer = 0,
+  x = 904,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_50",
+  layer = 0,
+  x = 904,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_51",
+  layer = 0,
+  x = 920,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_332",
+  layer = 0,
+  x = 920,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_333",
+  layer = 0,
+  x = 904,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_334",
+  layer = 0,
+  x = 904,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_335",
+  layer = 0,
+  x = 920,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_336",
+  layer = 0,
+  x = 920,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_337",
+  layer = 0,
+  x = 936,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_338",
+  layer = 0,
+  x = 936,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_339",
+  layer = 0,
+  x = 952,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_340",
+  layer = 0,
+  x = 952,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_52",
+  layer = 0,
+  x = 936,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_53",
+  layer = 0,
+  x = 936,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_54",
+  layer = 0,
+  x = 952,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_55",
+  layer = 0,
+  x = 952,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_56",
+  layer = 0,
+  x = 904,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_57",
+  layer = 0,
+  x = 904,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_58",
+  layer = 0,
+  x = 920,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_341",
+  layer = 0,
+  x = 920,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_342",
+  layer = 0,
+  x = 904,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_343",
+  layer = 0,
+  x = 904,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_344",
+  layer = 0,
+  x = 920,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_345",
+  layer = 0,
+  x = 920,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_346",
+  layer = 0,
+  x = 936,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_347",
+  layer = 0,
+  x = 936,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_348",
+  layer = 0,
+  x = 952,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_349",
+  layer = 0,
+  x = 952,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_59",
+  layer = 0,
+  x = 936,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_60",
+  layer = 0,
+  x = 936,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_61",
+  layer = 0,
+  x = 952,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_62",
+  layer = 0,
+  x = 952,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_63",
+  layer = 0,
+  x = 904,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_64",
+  layer = 0,
+  x = 904,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_65",
+  layer = 0,
+  x = 920,
+  y = 221,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_350",
+  layer = 0,
+  x = 920,
+  y = 237,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_351",
+  layer = 0,
+  x = 904,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_352",
+  layer = 0,
+  x = 904,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_353",
+  layer = 0,
+  x = 920,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_354",
+  layer = 0,
+  x = 920,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_355",
+  layer = 0,
+  x = 936,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_356",
+  layer = 0,
+  x = 936,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_357",
+  layer = 0,
+  x = 952,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_358",
+  layer = 0,
+  x = 952,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 232,
+  width = 1248,
+  height = 16,
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 208,
+  y = 461,
+  direction = 1,
+}
+
+teletransporter{
+  layer = 0,
+  x = 200,
+  y = 464,
+  width = 16,
+  height = 16,
+  destination_map = "oakhaven/west_oak",
+  destination = "from_ruins_vault",
+}
+
+pickable{
+  name = "westoak_shrine_health_upgrade",
+  layer = 0,
+  x = 208,
+  y = 53,
+  treasure_name = "health_upgrade",
+  treasure_savegame_variable = "westoak_shrine_health_upgrade",
+}
+
+separator{
+  layer = 0,
+  x = 408,
+  y = 0,
+  width = 16,
+  height = 480,
+}
+
+crystal_block{
+  layer = 0,
+  x = 608,
+  y = 320,
+  width = 32,
+  height = 16,
+  subtype = 1,
+}
+
+crystal_block{
+  layer = 0,
+  x = 608,
+  y = 400,
+  width = 32,
+  height = 16,
+  subtype = 1,
+}
+
+enemy{
+  layer = 0,
+  x = 624,
+  y = 77,
+  properties = {
+    {
+      key = "speed",
+      value = "90",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_linear",
+}
+
+enemy{
+  layer = 0,
+  x = 488,
+  y = 133,
+  properties = {
+    {
+      key = "direction",
+      value = "vertical",
+    },
+    {
+      key = "speed",
+      value = "90",
+    },
+  },
+  direction = 1,
+  breed = "normal_enemies/blade_trap_linear",
+}
+
+enemy{
+  layer = 0,
+  x = 760,
+  y = 133,
+  properties = {
+    {
+      key = "direction",
+      value = "vertical",
+    },
+    {
+      key = "speed",
+      value = "90",
+    },
+  },
+  direction = 3,
+  breed = "normal_enemies/blade_trap_linear",
+}
+
+enemy{
+  name = "enemy_a",
+  layer = 0,
+  x = 608,
+  y = 133,
+  direction = 3,
+  breed = "normal_enemies/ogre_knight",
+}
+
+sensor{
+  name = "entered_boss_room_sensor",
+  layer = 0,
+  x = 552,
+  y = 221,
+  width = 32,
+  height = 16,
+}
+
+door{
+  name = "boss_door",
+  layer = 0,
+  x = 672,
+  y = 208,
+  direction = 3,
+  sprite = "entities/door_post_stone",
+}
+
+door{
+  name = "boss_door_2",
+  layer = 0,
+  x = 688,
+  y = 208,
+  direction = 3,
+  sprite = "entities/door_post_stone",
+}
+
+crystal{
+  layer = 0,
+  x = 680,
+  y = 373,
+}
+
+crystal_block{
+  layer = 0,
+  x = 176,
+  y = 304,
+  width = 64,
+  height = 16,
+  subtype = 1,
+}
+
+enemy{
+  layer = 0,
+  x = 472,
+  y = 333,
+  direction = 3,
+  breed = "normal_enemies/blade_trap",
+}
+
+enemy{
+  layer = 0,
+  x = 504,
+  y = 413,
+  direction = 1,
+  breed = "normal_enemies/blade_trap",
+}
+
+door{
+  name = "boss_door_b_1",
+  layer = 0,
+  x = 544,
+  y = 224,
+  direction = 3,
+  sprite = "entities/door_post_stone",
+}
+
+door{
+  name = "boss_door_b_2",
+  layer = 0,
+  x = 560,
+  y = 224,
+  direction = 3,
+  sprite = "entities/door_post_stone",
+}
+
+enemy{
+  layer = 0,
+  x = 624,
+  y = 189,
+  properties = {
+    {
+      key = "speed",
+      value = "90",
+    },
+  },
+  direction = 2,
+  breed = "normal_enemies/blade_trap_linear",
+}
+
+enemy{
+  name = "bat_1",
+  layer = 0,
+  x = 144,
+  y = 333,
+  direction = 0,
+  breed = "normal_enemies/bat_2",
+}
+
+enemy{
+  name = "bat_2",
+  layer = 0,
+  x = 256,
+  y = 341,
+  direction = 0,
+  breed = "normal_enemies/bat_2",
+}
+
+enemy{
+  name = "bat_3",
+  layer = 0,
+  x = 112,
+  y = 397,
+  direction = 0,
+  breed = "normal_enemies/bat_2",
+}
+
+enemy{
+  name = "bat_4",
+  layer = 0,
+  x = 304,
+  y = 405,
+  direction = 0,
+  breed = "normal_enemies/bat_2",
+}
+
+door{
+  name = "first_door",
+  layer = 0,
+  x = 384,
+  y = 360,
+  direction = 2,
+  sprite = "entities/door_shutter",
+}
+
+enemy{
+  layer = 0,
+  x = 472,
+  y = 413,
+  direction = 1,
+  breed = "normal_enemies/blade_trap",
+}
+
+enemy{
+  layer = 0,
+  x = 504,
+  y = 333,
+  direction = 3,
+  breed = "normal_enemies/blade_trap",
+}
+
+wall{
+  layer = 0,
+  x = 544,
+  y = 192,
+  width = 32,
+  height = 8,
+  stops_enemies = true,
+}
+
+separator{
+  layer = 0,
+  x = 824,
+  y = 0,
+  width = 16,
+  height = 480,
+}
+
+crystal_block{
+  layer = 0,
+  x = 672,
+  y = 304,
+  width = 32,
+  height = 16,
+  subtype = 1,
+}
+
+custom_entity{
+  name = "collapsing_floor",
+  layer = 0,
+  x = 936,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+enemy{
+  layer = 0,
+  x = 1032,
+  y = 405,
+  properties = {
+    {
+      key = "radius",
+      value = "48",
+    },
+    {
+      key = "clockwise",
+      value = "true",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+enemy{
+  layer = 0,
+  x = 1136,
+  y = 405,
+  properties = {
+    {
+      key = "radius",
+      value = "48",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+enemy{
+  layer = 0,
+  x = 1064,
+  y = 349,
+  properties = {
+    {
+      key = "radius",
+      value = "80",
+    },
+    {
+      key = "clockwise",
+      value = "true",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+enemy{
+  layer = 0,
+  x = 1112,
+  y = 109,
+  properties = {
+    {
+      key = "radius",
+      value = "64",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+sensor{
+  name = "^save_solid_ground_sensor",
+  layer = 0,
+  x = 872,
+  y = 285,
+  width = 16,
+  height = 16,
+}
+
+sensor{
+  name = "^reset_solid_ground_sensor",
+  layer = 0,
+  x = 856,
+  y = 285,
+  width = 16,
+  height = 16,
+}
+
+sensor{
+  name = "^save_solid_ground_sensor_2",
+  layer = 0,
+  x = 872,
+  y = 413,
+  width = 16,
+  height = 16,
+}
+
+sensor{
+  name = "^reset_solid_ground_sensor_2",
+  layer = 0,
+  x = 856,
+  y = 413,
+  width = 16,
+  height = 16,
+}
+
+custom_entity{
+  name = "collapsing_floor_2",
+  layer = 0,
+  x = 936,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_3",
+  layer = 0,
+  x = 952,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_4",
+  layer = 0,
+  x = 952,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_5",
+  layer = 0,
+  x = 904,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_6",
+  layer = 0,
+  x = 904,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_7",
+  layer = 0,
+  x = 920,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_8",
+  layer = 0,
+  x = 920,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_9",
+  layer = 0,
+  x = 968,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_10",
+  layer = 0,
+  x = 968,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_11",
+  layer = 0,
+  x = 984,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_12",
+  layer = 0,
+  x = 984,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_13",
+  layer = 0,
+  x = 1000,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_14",
+  layer = 0,
+  x = 1000,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_15",
+  layer = 0,
+  x = 1016,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_16",
+  layer = 0,
+  x = 1016,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_17",
+  layer = 0,
+  x = 1000,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_18",
+  layer = 0,
+  x = 1000,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_19",
+  layer = 0,
+  x = 1016,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_20",
+  layer = 0,
+  x = 1016,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_21",
+  layer = 0,
+  x = 968,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_22",
+  layer = 0,
+  x = 968,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_23",
+  layer = 0,
+  x = 984,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_296",
+  layer = 0,
+  x = 984,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_297",
+  layer = 0,
+  x = 968,
+  y = 253,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_298",
+  layer = 0,
+  x = 968,
+  y = 269,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_299",
+  layer = 0,
+  x = 984,
+  y = 253,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_300",
+  layer = 0,
+  x = 984,
+  y = 269,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_301",
+  layer = 0,
+  x = 1000,
+  y = 253,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_302",
+  layer = 0,
+  x = 1000,
+  y = 269,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_303",
+  layer = 0,
+  x = 1016,
+  y = 253,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_304",
+  layer = 0,
+  x = 1016,
+  y = 269,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+enemy{
+  layer = 0,
+  x = 960,
+  y = 149,
+  properties = {
+    {
+      key = "radius",
+      value = "32",
+    },
+    {
+      key = "clockwise",
+      value = "true",
+    },
+    {
+      key = "speed",
+      value = "4",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+enemy{
+  layer = 0,
+  x = 960,
+  y = 93,
+  properties = {
+    {
+      key = "radius",
+      value = "56",
+    },
+  },
+  direction = 0,
+  breed = "normal_enemies/blade_trap_circle",
+}
+
+custom_entity{
+  name = "collapsing_floor_359",
+  layer = 0,
+  x = 968,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_360",
+  layer = 0,
+  x = 984,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_361",
+  layer = 0,
+  x = 1000,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_362",
+  layer = 0,
+  x = 1016,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_363",
+  layer = 0,
+  x = 904,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_364",
+  layer = 0,
+  x = 920,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_365",
+  layer = 0,
+  x = 936,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_366",
+  layer = 0,
+  x = 952,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_68",
+  layer = 0,
+  x = 1096,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_69",
+  layer = 0,
+  x = 1112,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_367",
+  layer = 0,
+  x = 1096,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_368",
+  layer = 0,
+  x = 1096,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_369",
+  layer = 0,
+  x = 1112,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_370",
+  layer = 0,
+  x = 1112,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_70",
+  layer = 0,
+  x = 1064,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_71",
+  layer = 0,
+  x = 1080,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_72",
+  layer = 0,
+  x = 1032,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_73",
+  layer = 0,
+  x = 1048,
+  y = 93,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_375",
+  layer = 0,
+  x = 1032,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_376",
+  layer = 0,
+  x = 1032,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_377",
+  layer = 0,
+  x = 1048,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_378",
+  layer = 0,
+  x = 1048,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_379",
+  layer = 0,
+  x = 1064,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_380",
+  layer = 0,
+  x = 1064,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_381",
+  layer = 0,
+  x = 1080,
+  y = 61,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_382",
+  layer = 0,
+  x = 1080,
+  y = 77,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_383",
+  layer = 0,
+  x = 1096,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_384",
+  layer = 0,
+  x = 1112,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_387",
+  layer = 0,
+  x = 1032,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_388",
+  layer = 0,
+  x = 1048,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_389",
+  layer = 0,
+  x = 1064,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_390",
+  layer = 0,
+  x = 1080,
+  y = 45,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_76",
+  layer = 0,
+  x = 1128,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_77",
+  layer = 0,
+  x = 1144,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_397",
+  layer = 0,
+  x = 1128,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_398",
+  layer = 0,
+  x = 1128,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_399",
+  layer = 0,
+  x = 1144,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_400",
+  layer = 0,
+  x = 1144,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_401",
+  layer = 0,
+  x = 1128,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_402",
+  layer = 0,
+  x = 1144,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_78",
+  layer = 0,
+  x = 1160,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_79",
+  layer = 0,
+  x = 1176,
+  y = 157,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_403",
+  layer = 0,
+  x = 1160,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_404",
+  layer = 0,
+  x = 1160,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_405",
+  layer = 0,
+  x = 1176,
+  y = 125,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_406",
+  layer = 0,
+  x = 1176,
+  y = 141,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_407",
+  layer = 0,
+  x = 1160,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_408",
+  layer = 0,
+  x = 1176,
+  y = 109,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_409",
+  layer = 0,
+  x = 1128,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_410",
+  layer = 0,
+  x = 1128,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_411",
+  layer = 0,
+  x = 1144,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_412",
+  layer = 0,
+  x = 1144,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_413",
+  layer = 0,
+  x = 1128,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_414",
+  layer = 0,
+  x = 1144,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_415",
+  layer = 0,
+  x = 1160,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_416",
+  layer = 0,
+  x = 1160,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_417",
+  layer = 0,
+  x = 1176,
+  y = 189,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_418",
+  layer = 0,
+  x = 1176,
+  y = 205,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_419",
+  layer = 0,
+  x = 1160,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_420",
+  layer = 0,
+  x = 1176,
+  y = 173,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_84",
+  layer = 0,
+  x = 1128,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_85",
+  layer = 0,
+  x = 1144,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_86",
+  layer = 0,
+  x = 1160,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_87",
+  layer = 0,
+  x = 1176,
+  y = 285,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_88",
+  layer = 0,
+  x = 1128,
+  y = 349,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_89",
+  layer = 0,
+  x = 1144,
+  y = 349,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_433",
+  layer = 0,
+  x = 1128,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_434",
+  layer = 0,
+  x = 1128,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_435",
+  layer = 0,
+  x = 1144,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_436",
+  layer = 0,
+  x = 1144,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_437",
+  layer = 0,
+  x = 1128,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_438",
+  layer = 0,
+  x = 1144,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_90",
+  layer = 0,
+  x = 1160,
+  y = 349,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_91",
+  layer = 0,
+  x = 1176,
+  y = 349,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_439",
+  layer = 0,
+  x = 1160,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_440",
+  layer = 0,
+  x = 1160,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_441",
+  layer = 0,
+  x = 1176,
+  y = 317,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_442",
+  layer = 0,
+  x = 1176,
+  y = 333,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_443",
+  layer = 0,
+  x = 1160,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_444",
+  layer = 0,
+  x = 1176,
+  y = 301,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_96",
+  layer = 0,
+  x = 1064,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_97",
+  layer = 0,
+  x = 1080,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_457",
+  layer = 0,
+  x = 1064,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_458",
+  layer = 0,
+  x = 1064,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_459",
+  layer = 0,
+  x = 1080,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_460",
+  layer = 0,
+  x = 1080,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_461",
+  layer = 0,
+  x = 1064,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_462",
+  layer = 0,
+  x = 1080,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_98",
+  layer = 0,
+  x = 1096,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_99",
+  layer = 0,
+  x = 1112,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_463",
+  layer = 0,
+  x = 1096,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_464",
+  layer = 0,
+  x = 1096,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_465",
+  layer = 0,
+  x = 1112,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_466",
+  layer = 0,
+  x = 1112,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_467",
+  layer = 0,
+  x = 1096,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_468",
+  layer = 0,
+  x = 1112,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_104",
+  layer = 0,
+  x = 936,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_105",
+  layer = 0,
+  x = 952,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_481",
+  layer = 0,
+  x = 936,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_482",
+  layer = 0,
+  x = 936,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_483",
+  layer = 0,
+  x = 952,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_484",
+  layer = 0,
+  x = 952,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_485",
+  layer = 0,
+  x = 936,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_486",
+  layer = 0,
+  x = 952,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_106",
+  layer = 0,
+  x = 968,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_107",
+  layer = 0,
+  x = 984,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_487",
+  layer = 0,
+  x = 968,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_488",
+  layer = 0,
+  x = 968,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_489",
+  layer = 0,
+  x = 984,
+  y = 413,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_490",
+  layer = 0,
+  x = 984,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_491",
+  layer = 0,
+  x = 968,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_492",
+  layer = 0,
+  x = 984,
+  y = 397,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_108",
+  layer = 0,
+  x = 1128,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_109",
+  layer = 0,
+  x = 1144,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_493",
+  layer = 0,
+  x = 1128,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_494",
+  layer = 0,
+  x = 1144,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_110",
+  layer = 0,
+  x = 1160,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_111",
+  layer = 0,
+  x = 1176,
+  y = 445,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_495",
+  layer = 0,
+  x = 1160,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "collapsing_floor_496",
+  layer = 0,
+  x = 1176,
+  y = 429,
+  properties = {
+    {
+      key = "can_respawn",
+      value = "true",
+    },
+    {
+      key = "respawn_delay",
+      value = "2500",
+    },
+  },
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_vault",
+  model = "collapsing_floor",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_candle_1",
+  layer = 0,
+  x = 1168,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "16",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_candle_2",
+  layer = 0,
+  x = 1120,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "16",
+}
+
+chest{
+  layer = 0,
+  x = 1152,
+  y = 29,
+  treasure_name = "monster_heart",
+  treasure_savegame_variable = "westoak_shrine_optional_chest",
+  sprite = "entities/chest",
+}
+
+sensor{
+  name = "^save_solid_ground_sensor_3",
+  layer = 0,
+  x = 1128,
+  y = 45,
+  width = 64,
+  height = 64,
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "door.down.high",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "door.up.high",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 464,
+  width = 32,
+  height = 16,
+  pattern = "door.down.high",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 24,
+  width = 16,
+  height = 32,
+  pattern = "160",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 24,
+  width = 16,
+  height = 32,
+  pattern = "162",
+}
+
+tile{
+  layer = 1,
+  x = 416,
+  y = 352,
+  width = 16,
+  height = 32,
+  pattern = "door.left.high",
+}
+
+tile{
+  layer = 1,
+  x = 400,
+  y = 352,
+  width = 16,
+  height = 32,
+  pattern = "door.right.high",
+}
+
+tile{
+  layer = 1,
+  x = 448,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 240,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 240,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 448,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 480,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+tile{
+  layer = 1,
+  x = 480,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "177",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_13",
+  layer = 1,
+  x = 288,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_14",
+  layer = 1,
+  x = 112,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_15",
+  layer = 1,
+  x = 112,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_16",
+  layer = 1,
+  x = 288,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_17",
+  layer = 1,
+  x = 224,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_18",
+  layer = 1,
+  x = 176,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_19",
+  layer = 1,
+  x = 176,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_20",
+  layer = 1,
+  x = 224,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_21",
+  layer = 1,
+  x = 552,
+  y = 344,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_22",
+  layer = 1,
+  x = 496,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_23",
+  layer = 1,
+  x = 736,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_24",
+  layer = 1,
+  x = 736,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+
+dynamic_tile{
+  name = "^lighting_effect_torch_25",
+  layer = 1,
+  x = 496,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "44",
+}
+

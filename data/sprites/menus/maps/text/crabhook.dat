@@ -1,0 +1,7 @@
+animation{
+  name = "default",
+  src_image = "menus/maps/text/crabhook.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 13, frame_height = 14, origin_x = 0, origin_y = 0 },
+  },
+}

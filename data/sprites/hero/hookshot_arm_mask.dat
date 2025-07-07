@@ -1,0 +1,10 @@
+animation{
+  name = "hookshot",
+  src_image = "hero/hookshot_arm_mask.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 8, frame_height = 8, origin_x = 4, origin_y = 5 },
+    { x = 0, y = 0, frame_width = 8, frame_height = 8, origin_x = 4, origin_y = 5 },
+    { x = 0, y = 0, frame_width = 8, frame_height = 8, origin_x = 4, origin_y = 5 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 29 },
+  },
+}

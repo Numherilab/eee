@@ -1,0 +1,318 @@
+--[[ ui.dat		3 Mar 2019
+	
+	This data file describes ui component presets used as a starting point when generating
+	a new component.
+]]
+
+text{
+	id = "text.small",
+	font = "enter_command",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	--shadow_color = "brown",
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "left",
+}
+text{
+	id = "text.location",
+	font = "proggy/ProggyTinySZ",
+	font_size = 16,
+	font_color = {255, 255, 0}, --yellow
+	font_color_disabled = {166, 166, 166}, --grey
+	--shadow_color = "brown",
+	horizontal_alignment = "right",
+}
+text{
+	id = "text.title",
+	font = "enter_command",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "center",
+}
+text{
+	id = "text.tab",
+	font = "pixolde/Pixolde",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "center",
+	vertical_alignment = "middle",
+}
+text{
+	id = "text.completed_status",
+	font = "proggy/ProggyTinySZ",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "center",
+}
+text{
+	id = "text.prompt",
+	font = "proggy/ProggyTinySZ",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "right",
+}
+frame{
+	id = "frame.dialog_box",
+	image = "menus/ui.png",
+	region_width = 24, region_height = 24,
+	region_x = 0, region_y = 0,
+	borders = 8,
+	is_hollow = true,
+}
+frame{ --just the top edge for frame.dialog_box
+	id = "frame.dialog_box_top_edge",
+	image = "menus/ui.png",
+	region_width = 8, region_height = 8,
+	region_x = 8, region_y = 0,
+	borders = {0,8,0,0},
+}
+frame{
+	id = "frame.list_highlight",
+	image = "menus/ui.png",
+	region_width = 16, region_height = 16,
+	region_x = 0, region_y = 24,
+	borders = 4,
+	is_hollow = true,
+}
+frame{
+	id = "frame.active_tab",
+	image = "menus/ui.png",
+	region_width = 28, region_height = 28,
+	region_x = 24, region_y = 0,
+	borders = {12, 12, 8, 8},
+}
+frame{
+	id = "frame.inactive_tab",
+	image = "menus/ui.png",
+	region_width = 28, region_height = 28,
+	region_x = 52, region_y = 0,
+	borders = {12, 12, 8, 8},
+}
+frame{
+	id = "frame.item_box",
+	image = "menus/ui.png",
+	region_width = 22, region_height = 22,
+	region_x = 58, region_y = 28,
+	borders = 5,
+}
+
+fill{
+	id = "fill.dialog",
+	color = {0, 0, 0, 204},
+}
+fill{
+	id = "fill.black",
+	color = {0, 0, 0},
+}
+fill{
+	id = "fill.title_bar",
+	color = {127, 127, 127},
+}
+
+image{
+	id = "image.checkmark",
+	image = "menus/ui.png",
+	region_width = 6, region_height = 6,
+	region_x = 48, region_y = 28,
+}
+image{
+	id = "image.arrow.up",
+	image = "menus/ui.png",
+	region_width = 12, region_height = 7,
+	region_x = 16, region_y = 28,
+}
+image{
+	id = "image.arrow.down",
+	image = "menus/ui.png",
+	region_width = 12, region_height = 7,
+	region_x = 16, region_y = 35,
+}
+image{
+	id = "image.arrow.left",
+	image = "menus/ui.png",
+	region_width = 7, region_height = 12,
+	region_x = 28, region_y = 29,
+}
+image{
+	id = "image.arrow.right",
+	image = "menus/ui.png",
+	region_width = 7, region_height = 12,
+	region_x = 35, region_y = 29,
+}
+image{
+	id = "image.complete",
+	image = "menus/complete.png",
+}
+
+
+sprite{
+	id = "sprite.checkmark",
+	sprite = "menus/checkmark",
+}
+sprite{
+	id = "sprite.arrow.up",
+	sprite = "menus/arrows",
+	animation = "arrow_up",
+}
+sprite{
+	id = "sprite.arrow.down",
+	sprite = "menus/arrows",
+	animation = "arrow_down",
+}
+sprite{
+	id = "sprite.arrow.left",
+	sprite = "menus/arrows",
+	animation = "arrow_left",
+}
+sprite{
+	id = "sprite.arrow.right",
+	sprite = "menus/arrows",
+	animation = "arrow_right",
+}
+sprite{
+	id = "sprite.item_icon",
+	sprite = "entities/items",
+	--animation & direction set dynamically
+}
+
+array{ --generic vertical array
+	id = "array.vertical",
+}
+
+group{
+	id = "group.generic",
+}
+text{
+	id = "text.small_zh",
+	font = "GnuUnifontFull",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	--shadow_color = "brown",
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "left",
+}
+text{
+	id = "text.prompt_zh",
+	font = "GnuUnifontFull",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "right",
+}
+text{
+	id = "text.location_zh",
+	font = "GnuUnifontFull",
+	font_size = 16,
+	font_color = {255, 255, 0}, --yellow
+	font_color_disabled = {166, 166, 166}, --grey
+	--shadow_color = "brown",
+	horizontal_alignment = "right",
+}	
+text{
+	id = "text.title_zh",
+	font = "GnuUnifontFull",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "center",
+}
+text{
+	id = "text.tab_zh",
+	font = "GnuUnifontFull",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "center",
+	vertical_alignment = "middle",
+}
+text{
+	id = "text.small_ru",
+	font = "slightly_narrow_basis",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	--shadow_color = "brown",
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "left",
+}
+text{
+	id = "text.prompt_ru",
+	font = "slightly_narrow_basis",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "right",
+}
+text{
+	id = "text.location_ru",
+	font = "slightly_narrow_basis",
+	font_size = 16,
+	font_color = {255, 255, 0}, --yellow
+	font_color_disabled = {166, 166, 166}, --grey
+	--shadow_color = "brown",
+	horizontal_alignment = "right",
+}	
+text{
+	id = "text.title_ru",
+	font = "slightly_narrow_basis",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "center",
+}
+text{
+	id = "text.tab_ru",
+	font = "slightly_narrow_basis",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "center",
+	vertical_alignment = "middle",
+}
+text{
+	id = "text.tab_es",
+	font = "CartographerTiny",
+	font_size = 8,
+	font_color = {255, 255, 255}, --white
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "center",
+	vertical_alignment = "middle",
+}
+text{
+	id = "text.small_ja",
+	font = "JF-Dot-milkjf16",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	--shadow_color = "brown",
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "left",
+}
+text{
+	id = "text.prompt_ja",
+	font = "JF-Dot-milkjf16",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "right",
+}
+text{
+	id = "text.location_ja",
+	font = "JF-Dot-milkjf16",
+	font_size = 16,
+	font_color = {255, 255, 0}, --yellow
+	font_color_disabled = {166, 166, 166}, --grey
+	--shadow_color = "brown",
+	horizontal_alignment = "right",
+}	
+text{
+	id = "text.title_ja",
+	font = "JF-Dot-milkjf16",
+	font_size = 16,
+	font_color = {255, 255, 255}, --white
+	horizontal_alignment = "center",
+}
+text{
+	id = "text.tab_ja",
+	font = "JF-Dot-k12x10",
+	font_size = 10,
+	font_color = {255, 255, 255}, --white
+	font_color_disabled = {166, 166, 166}, --grey
+	horizontal_alignment = "center",
+	vertical_alignment = "middle",
+}

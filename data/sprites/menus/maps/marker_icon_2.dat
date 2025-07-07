@@ -1,0 +1,24 @@
+animation{
+  name = "active",
+  src_image = "menus/maps/marker_icon_2.png",
+  frame_delay = 180,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14, num_frames = 4 },
+  },
+}
+animation{
+  name = "stopped",
+  src_image = "menus/maps/marker_icon_2.png",
+  frame_delay = 180,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14 },
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14 },
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14 },
+    { x = 0, y = 0, frame_width = 10, frame_height = 16, origin_x = 5, origin_y = 14 },
+  },
+}

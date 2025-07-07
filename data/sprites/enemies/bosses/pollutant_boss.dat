@@ -1,0 +1,69 @@
+animation{
+  name = "walking",
+  src_image = "enemies/bosses/pollutant_boss.png",
+  frame_delay = 180,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 4 },
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 4 },
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 4 },
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 4 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/bosses/pollutant_boss.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 160, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 160, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 160, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 160, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/bosses/pollutant_boss.png",
+  directions = {
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45 },
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45 },
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45 },
+    { x = 32, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45 },
+  },
+}
+animation{
+  name = "shaking",
+  src_image = "enemies/bosses/pollutant_boss.png",
+  frame_delay = 180,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 224, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 224, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 224, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 224, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+  },
+}
+animation{
+  name = "shooting",
+  src_image = "enemies/bosses/pollutant_boss.png",
+  frame_delay = 80,
+  directions = {
+    { x = 128, y = 48, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 5 },
+    { x = 128, y = 48, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 5 },
+    { x = 128, y = 48, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 5 },
+    { x = 128, y = 48, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 5 },
+  },
+}
+animation{
+  name = "wind_up",
+  src_image = "enemies/bosses/pollutant_boss.png",
+  frame_delay = 180,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 288, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 288, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 288, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+    { x = 288, y = 0, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 2 },
+  },
+}

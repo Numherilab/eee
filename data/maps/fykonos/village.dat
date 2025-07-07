@@ -1,0 +1,10151 @@
+properties{
+  x = 1248,
+  y = 480,
+  width = 832,
+  height = 720,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "oceanheart_outdoors_1",
+  music = "fykonos_village",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 0,
+  width = 32,
+  height = 16,
+  pattern = "77",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 16,
+  width = 832,
+  height = 704,
+  pattern = "3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 48,
+  width = 672,
+  height = 16,
+  pattern = "3",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 32,
+  width = 672,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 24,
+  width = 32,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 32,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 560,
+  width = 464,
+  height = 112,
+  pattern = "310",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 688,
+  width = 592,
+  height = 32,
+  pattern = "206",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 160,
+  width = 64,
+  height = 160,
+  pattern = "206",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 320,
+  width = 160,
+  height = 400,
+  pattern = "206",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 16,
+  width = 672,
+  height = 16,
+  pattern = "9",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "5",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "4",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "10",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 16,
+  width = 96,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "8",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 32,
+  width = 96,
+  height = 16,
+  pattern = "3",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 0,
+  width = 96,
+  height = 16,
+  pattern = "9",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "10",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "5",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 192,
+  width = 128,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 224,
+  width = 128,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 224,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 208,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 80,
+  width = 16,
+  height = 48,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 112,
+  width = 16,
+  height = 80,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 112,
+  width = 16,
+  height = 32,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 160,
+  width = 112,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 144,
+  width = 112,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 224,
+  width = 16,
+  height = 144,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 224,
+  width = 16,
+  height = 144,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 368,
+  width = 96,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 384,
+  width = 96,
+  height = 64,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 384,
+  width = 16,
+  height = 64,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 384,
+  width = 16,
+  height = 64,
+  pattern = "10",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 448,
+  width = 144,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 432,
+  width = 32,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 272,
+  width = 112,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 288,
+  width = 112,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 400,
+  width = 192,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 472,
+  width = 32,
+  height = 8,
+  pattern = "59",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 408,
+  width = 32,
+  height = 16,
+  pattern = "65",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 456,
+  width = 32,
+  height = 24,
+  pattern = "61",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "64",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 424,
+  width = 32,
+  height = 32,
+  pattern = "58",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 424,
+  width = 32,
+  height = 16,
+  pattern = "63",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 440,
+  width = 32,
+  height = 32,
+  pattern = "58_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "66",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 384,
+  width = 192,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "39",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 224,
+  width = 96,
+  height = 144,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 208,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 208,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 192,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 208,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 112,
+  width = 16,
+  height = 80,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "67",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 56,
+  width = 32,
+  height = 16,
+  pattern = "71",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 72,
+  width = 32,
+  height = 32,
+  pattern = "67_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 40,
+  width = 32,
+  height = 16,
+  pattern = "72",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 88,
+  width = 32,
+  height = 24,
+  pattern = "68",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 32,
+  width = 16,
+  height = 8,
+  pattern = "73",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 48,
+  width = 16,
+  height = 8,
+  pattern = "74",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 672,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "10",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 48,
+  width = 16,
+  height = 80,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 256,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 256,
+  width = 96,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 192,
+  width = 16,
+  height = 48,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 232,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 136,
+  width = 16,
+  height = 8,
+  pattern = "38",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "36",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 104,
+  width = 8,
+  height = 32,
+  pattern = "34",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "33",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 104,
+  width = 8,
+  height = 32,
+  pattern = "34_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "35",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 104,
+  width = 16,
+  height = 32,
+  pattern = "37",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "35_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "33_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 352,
+  width = 64,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 408,
+  width = 32,
+  height = 24,
+  pattern = "68",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 392,
+  width = 32,
+  height = 32,
+  pattern = "67_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 376,
+  width = 32,
+  height = 32,
+  pattern = "67",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 424,
+  width = 32,
+  height = 8,
+  pattern = "69",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 352,
+  width = 16,
+  height = 80,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 432,
+  width = 112,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 448,
+  width = 112,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 400,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 384,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "10",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 208,
+  width = 128,
+  height = 16,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 272,
+  width = 64,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 256,
+  width = 64,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 224,
+  width = 80,
+  height = 32,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 48,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 64,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 0,
+  width = 48,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 192,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 16,
+  width = 48,
+  height = 32,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 160,
+  width = 48,
+  height = 32,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 208,
+  width = 48,
+  height = 48,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 208,
+  width = 16,
+  height = 48,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 240,
+  width = 8,
+  height = 16,
+  pattern = "39",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "14",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 288,
+  width = 16,
+  height = 64,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 272,
+  width = 80,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 288,
+  width = 16,
+  height = 112,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 368,
+  width = 32,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 416,
+  width = 48,
+  height = 64,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 416,
+  width = 16,
+  height = 32,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 480,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 512,
+  width = 16,
+  height = 48,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 560,
+  width = 80,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 672,
+  width = 464,
+  height = 32,
+  pattern = "1_3",
+  tileset = "waves",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 672,
+  width = 464,
+  height = 32,
+  pattern = "1",
+  tileset = "waves",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 672,
+  width = 464,
+  height = 32,
+  pattern = "1_2",
+  tileset = "waves",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 576,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 576,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 576,
+  width = 144,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 544,
+  width = 192,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 528,
+  width = 224,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 544,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 528,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 32,
+  width = 64,
+  height = 32,
+  pattern = "3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 80,
+  width = 16,
+  height = 96,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 176,
+  width = 128,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "10",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 192,
+  width = 128,
+  height = 32,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 192,
+  width = 16,
+  height = 96,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 224,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 104,
+  width = 32,
+  height = 8,
+  pattern = "69",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 104,
+  width = 48,
+  height = 16,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 120,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 104,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 672,
+  width = 96,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 672,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 672,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 560,
+  width = 16,
+  height = 112,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 224,
+  width = 128,
+  height = 64,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 80,
+  width = 16,
+  height = 96,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 64,
+  width = 32,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 32,
+  width = 32,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 16,
+  width = 32,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 0,
+  width = 112,
+  height = 16,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 16,
+  width = 64,
+  height = 16,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "9",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "9",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "9",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 48,
+  width = 16,
+  height = 112,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 48,
+  width = 16,
+  height = 112,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "40",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "24",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 288,
+  width = 80,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 304,
+  width = 96,
+  height = 16,
+  pattern = "40",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 528,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 432,
+  width = 16,
+  height = 96,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 528,
+  width = 128,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 544,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 544,
+  width = 96,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 576,
+  width = 112,
+  height = 144,
+  pattern = "206",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 560,
+  width = 112,
+  height = 16,
+  pattern = "40",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 504,
+  width = 32,
+  height = 32,
+  pattern = "37",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 504,
+  width = 8,
+  height = 32,
+  pattern = "34_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 496,
+  width = 32,
+  height = 8,
+  pattern = "36",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 504,
+  width = 8,
+  height = 32,
+  pattern = "34",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 496,
+  width = 8,
+  height = 8,
+  pattern = "33",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 536,
+  width = 8,
+  height = 8,
+  pattern = "35_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 496,
+  width = 8,
+  height = 8,
+  pattern = "33_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 536,
+  width = 32,
+  height = 8,
+  pattern = "38",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 536,
+  width = 8,
+  height = 8,
+  pattern = "35",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 384,
+  width = 48,
+  height = 16,
+  pattern = "19_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 368,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 416,
+  width = 64,
+  height = 48,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 416,
+  width = 16,
+  height = 48,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 416,
+  width = 16,
+  height = 48,
+  pattern = "10",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 464,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 464,
+  width = 64,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 464,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 480,
+  width = 96,
+  height = 16,
+  pattern = "40",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 320,
+  width = 48,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 408,
+  width = 16,
+  height = 8,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 336,
+  width = 64,
+  height = 32,
+  pattern = "3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 304,
+  width = 64,
+  height = 96,
+  pattern = "3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 400,
+  width = 64,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 320,
+  width = 16,
+  height = 80,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 304,
+  width = 64,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 400,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 48,
+  width = 64,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 64,
+  width = 64,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 0,
+  width = 16,
+  height = 48,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 0,
+  width = 64,
+  height = 48,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 48,
+  width = 64,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 64,
+  width = 64,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 0,
+  width = 16,
+  height = 48,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 0,
+  width = 64,
+  height = 48,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 32,
+  width = 48,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 16,
+  width = 128,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 0,
+  width = 160,
+  height = 16,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 544,
+  width = 48,
+  height = 16,
+  pattern = "stone_tile_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 560,
+  width = 48,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 512,
+  width = 32,
+  height = 48,
+  pattern = "310",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 256,
+  width = 48,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "2350",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 256,
+  width = 8,
+  height = 16,
+  pattern = "2353",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "2349",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "2348",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 272,
+  width = 32,
+  height = 8,
+  pattern = "2354",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 256,
+  width = 8,
+  height = 16,
+  pattern = "2352",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "2347",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 248,
+  width = 32,
+  height = 8,
+  pattern = "2351",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 264,
+  width = 16,
+  height = 8,
+  pattern = "85_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 264,
+  width = 16,
+  height = 8,
+  pattern = "85_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 240,
+  width = 48,
+  height = 32,
+  pattern = "47",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 280,
+  width = 16,
+  height = 16,
+  pattern = "2336",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 280,
+  width = 16,
+  height = 16,
+  pattern = "2339",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 56,
+  width = 32,
+  height = 16,
+  pattern = "41",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 40,
+  width = 8,
+  height = 24,
+  pattern = "27",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 40,
+  width = 16,
+  height = 24,
+  pattern = "28",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 40,
+  width = 8,
+  height = 24,
+  pattern = "26",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 80,
+  width = 48,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 64,
+  width = 48,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "91",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 112,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 96,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "91",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "91",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "75_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -40,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "75_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -56,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "75",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 136,
+  width = 80,
+  height = 32,
+  pattern = "stone_tile_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 160,
+  width = 80,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 128,
+  width = 8,
+  height = 40,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 128,
+  width = 80,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 128,
+  width = 8,
+  height = 40,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 136,
+  width = 8,
+  height = 16,
+  pattern = "shadow",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 136,
+  width = 8,
+  height = 16,
+  pattern = "shadow",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "126",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "126",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 192,
+  width = 144,
+  height = 8,
+  pattern = "87",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "23",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 216,
+  width = 16,
+  height = 24,
+  pattern = "44",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 304,
+  width = 48,
+  height = 16,
+  pattern = "2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 288,
+  width = 8,
+  height = 24,
+  pattern = "27",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 288,
+  width = 8,
+  height = 24,
+  pattern = "26",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 288,
+  width = 16,
+  height = 24,
+  pattern = "28",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 416,
+  width = 96,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 424,
+  width = 64,
+  height = 8,
+  pattern = "88",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 472,
+  width = 32,
+  height = 16,
+  pattern = "41",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 456,
+  width = 8,
+  height = 24,
+  pattern = "26",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 456,
+  width = 16,
+  height = 24,
+  pattern = "28",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 456,
+  width = 8,
+  height = 24,
+  pattern = "27",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 384,
+  width = 112,
+  height = 8,
+  pattern = "89",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 120,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "91",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "91",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "91",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "24",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "24",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 448,
+  width = 16,
+  height = 8,
+  pattern = "14",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 456,
+  width = 16,
+  height = 16,
+  pattern = "13",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 400,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 448,
+  width = 128,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 240,
+  width = 8,
+  height = 16,
+  pattern = "11",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "57",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 288,
+  width = 16,
+  height = 8,
+  pattern = "38",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 256,
+  width = 16,
+  height = 32,
+  pattern = "37",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 248,
+  width = 16,
+  height = 8,
+  pattern = "36",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 256,
+  width = 8,
+  height = 32,
+  pattern = "32",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 240,
+  width = 8,
+  height = 16,
+  pattern = "31",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 288,
+  width = 8,
+  height = 16,
+  pattern = "30",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 256,
+  width = 8,
+  height = 16,
+  pattern = "32_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 240,
+  width = 8,
+  height = 16,
+  pattern = "31_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 392,
+  width = 32,
+  height = 16,
+  pattern = "41",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "28",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 376,
+  width = 8,
+  height = 24,
+  pattern = "27",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 376,
+  width = 8,
+  height = 24,
+  pattern = "26",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 288,
+  width = 80,
+  height = 64,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 352,
+  width = 32,
+  height = 48,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 432,
+  width = 16,
+  height = 32,
+  pattern = "20",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 432,
+  width = 16,
+  height = 32,
+  pattern = "20",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 432,
+  width = 16,
+  height = 32,
+  pattern = "20",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "24",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "24",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 64,
+  width = 80,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 72,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "25",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "23",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "23",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 184,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "13",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "14",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 32,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 32,
+  width = 96,
+  height = 8,
+  pattern = "87",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 152,
+  width = 24,
+  height = 16,
+  pattern = "2087",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 136,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 168,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 208,
+  width = 160,
+  height = 8,
+  pattern = "88",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 448,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "13",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 296,
+  width = 32,
+  height = 16,
+  pattern = "41",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 280,
+  width = 16,
+  height = 24,
+  pattern = "28",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 280,
+  width = 8,
+  height = 24,
+  pattern = "27",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 280,
+  width = 8,
+  height = 24,
+  pattern = "26",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 544,
+  width = 48,
+  height = 32,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 544,
+  width = 16,
+  height = 32,
+  pattern = "10",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 544,
+  width = 16,
+  height = 32,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 464,
+  width = 16,
+  height = 64,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 464,
+  width = 16,
+  height = 64,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 528,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 528,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 528,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 464,
+  width = 48,
+  height = 64,
+  pattern = "76",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 200,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 408,
+  width = 32,
+  height = 40,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 624,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 616,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 664,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 616,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 688,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 696,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 688,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 8,
+  width = 16,
+  height = 8,
+  pattern = "2_2",
+  tileset = "drygrass",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 0,
+  width = 16,
+  height = 8,
+  pattern = "3",
+  tileset = "drygrass",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 512,
+  width = 32,
+  height = 96,
+  pattern = "1",
+  tileset = "drygrass",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 592,
+  width = 32,
+  height = 16,
+  pattern = "2386",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 512,
+  width = 48,
+  height = 32,
+  pattern = "48",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 552,
+  width = 48,
+  height = 32,
+  pattern = "48",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 624,
+  width = 8,
+  height = 8,
+  pattern = "494",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 624,
+  width = 8,
+  height = 8,
+  pattern = "494",
+}
+
+tile{
+  layer = 0,
+  x = 824,
+  y = 624,
+  width = 8,
+  height = 8,
+  pattern = "494",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 624,
+  width = 8,
+  height = 8,
+  pattern = "494",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 576,
+  width = 32,
+  height = 24,
+  pattern = "56",
+  tileset = "vault_walls",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 608,
+  width = 32,
+  height = 24,
+  pattern = "56",
+  tileset = "vault_walls",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 616,
+  width = 32,
+  height = 24,
+  pattern = "54",
+  tileset = "vault_walls",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 704,
+  width = 32,
+  height = 16,
+  pattern = "254",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 704,
+  width = 16,
+  height = 16,
+  pattern = "511",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 624,
+  width = 16,
+  height = 16,
+  pattern = "503",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 640,
+  width = 8,
+  height = 8,
+  pattern = "520",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 632,
+  width = 8,
+  height = 8,
+  pattern = "519",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 592,
+  width = 8,
+  height = 8,
+  pattern = "521",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 600,
+  width = 32,
+  height = 16,
+  pattern = "237",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 592,
+  width = 32,
+  height = 8,
+  pattern = "238",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 600,
+  width = 32,
+  height = 24,
+  pattern = "2_4",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 616,
+  width = 16,
+  height = 16,
+  pattern = "1_5",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 632,
+  width = 16,
+  height = 16,
+  pattern = "1_7",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 600,
+  width = 32,
+  height = 24,
+  pattern = "2_6",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 600,
+  width = 16,
+  height = 16,
+  pattern = "1_5",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 616,
+  width = 16,
+  height = 16,
+  pattern = "1_8",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 544,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 544,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "13",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 584,
+  width = 16,
+  height = 16,
+  pattern = "13",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 568,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "24",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "24",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 576,
+  width = 96,
+  height = 8,
+  pattern = "87",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 560,
+  width = 16,
+  height = 112,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 688,
+  width = 16,
+  height = 16,
+  pattern = "10",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 688,
+  width = 16,
+  height = 16,
+  pattern = "8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 688,
+  width = 80,
+  height = 16,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 696,
+  width = 112,
+  height = 16,
+  pattern = "40",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 544,
+  width = 112,
+  height = 16,
+  pattern = "9",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 560,
+  width = 16,
+  height = 8,
+  pattern = "38",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 560,
+  width = 8,
+  height = 16,
+  pattern = "30_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 560,
+  width = 8,
+  height = 8,
+  pattern = "35",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 544,
+  width = 8,
+  height = 16,
+  pattern = "32_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 544,
+  width = 8,
+  height = 16,
+  pattern = "34",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 544,
+  width = 8,
+  height = 16,
+  pattern = "34_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 544,
+  width = 8,
+  height = 16,
+  pattern = "32",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "37",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 560,
+  width = 8,
+  height = 16,
+  pattern = "30",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 536,
+  width = 8,
+  height = 8,
+  pattern = "33_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 528,
+  width = 8,
+  height = 16,
+  pattern = "31_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 536,
+  width = 16,
+  height = 8,
+  pattern = "36",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 536,
+  width = 8,
+  height = 8,
+  pattern = "33",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 528,
+  width = 8,
+  height = 16,
+  pattern = "31",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 560,
+  width = 8,
+  height = 8,
+  pattern = "35_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 552,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 552,
+  width = 16,
+  height = 16,
+  pattern = "57_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 592,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 584,
+  width = 16,
+  height = 8,
+  pattern = "277",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 592,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 584,
+  width = 16,
+  height = 8,
+  pattern = "277",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 592,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 584,
+  width = 16,
+  height = 8,
+  pattern = "277",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 672,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 664,
+  width = 16,
+  height = 8,
+  pattern = "277",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 672,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 664,
+  width = 16,
+  height = 8,
+  pattern = "277",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 672,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 664,
+  width = 16,
+  height = 8,
+  pattern = "277",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 664,
+  width = 112,
+  height = 24,
+  pattern = "1460",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 584,
+  width = 112,
+  height = 24,
+  pattern = "1460",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 656,
+  width = 8,
+  height = 16,
+  pattern = "1029",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1034",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 656,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 656,
+  width = 8,
+  height = 16,
+  pattern = "1029",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1034",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 656,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 640,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 640,
+  width = 8,
+  height = 16,
+  pattern = "1031",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "1032",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 640,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 640,
+  width = 8,
+  height = 16,
+  pattern = "1031",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 640,
+  width = 16,
+  height = 16,
+  pattern = "1032",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 576,
+  width = 8,
+  height = 16,
+  pattern = "1029",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "1034",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 576,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 576,
+  width = 8,
+  height = 16,
+  pattern = "1029",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "1034",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 576,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 560,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 560,
+  width = 8,
+  height = 16,
+  pattern = "1031",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "1032",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 560,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 560,
+  width = 8,
+  height = 16,
+  pattern = "1031",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "1032",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 520,
+  width = 24,
+  height = 16,
+  pattern = "2087",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 520,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 536,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 544,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 536,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "75_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "75_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "75",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 448,
+  width = 48,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 568,
+  width = 96,
+  height = 8,
+  pattern = "47",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 568,
+  width = 32,
+  height = 8,
+  pattern = "47",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 600,
+  width = 32,
+  height = 8,
+  pattern = "47",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 600,
+  width = 32,
+  height = 8,
+  pattern = "47",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 592,
+  width = 96,
+  height = 32,
+  pattern = "48",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "23",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "23",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "14",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 408,
+  width = 16,
+  height = 16,
+  pattern = "13",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 352,
+  width = 16,
+  height = 24,
+  pattern = "12",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "14",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 424,
+  width = 16,
+  height = 16,
+  pattern = "686",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "686",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 440,
+  width = 16,
+  height = 16,
+  pattern = "686",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 640,
+  width = 40,
+  height = 16,
+  pattern = "694",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 48,
+  width = 32,
+  height = 24,
+  pattern = "77",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 72,
+  width = 32,
+  height = 8,
+  pattern = "80_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 48,
+  width = 16,
+  height = 8,
+  pattern = "42_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 48,
+  width = 16,
+  height = 8,
+  pattern = "42_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "42",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "85",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "85_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "48",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "48_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 336,
+  width = 96,
+  height = 32,
+  pattern = "3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -32,
+  y = 384,
+  width = 48,
+  height = 16,
+  pattern = "19_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -32,
+  y = 368,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -32,
+  y = 320,
+  width = 48,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -32,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "48",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "48_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 336,
+  width = 96,
+  height = 32,
+  pattern = "3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 536,
+  width = 16,
+  height = 8,
+  pattern = "85_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 544,
+  width = 16,
+  height = 8,
+  pattern = "85",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 368,
+  width = 16,
+  height = 8,
+  pattern = "74",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 360,
+  width = 32,
+  height = 16,
+  pattern = "72",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 376,
+  width = 32,
+  height = 16,
+  pattern = "71",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 344,
+  width = 32,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 336,
+  width = 96,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 336,
+  width = 8,
+  height = 16,
+  pattern = "11",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 352,
+  width = 48,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "73",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 392,
+  width = 48,
+  height = 32,
+  pattern = "stone_tile_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 392,
+  width = 32,
+  height = 24,
+  pattern = "2234",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 232,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 248,
+  width = 24,
+  height = 16,
+  pattern = "2087",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 576,
+  width = 16,
+  height = 16,
+  pattern = "686",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 568,
+  width = 16,
+  height = 8,
+  pattern = "687",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "686",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 640,
+  width = 24,
+  height = 16,
+  pattern = "690",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 656,
+  width = 24,
+  height = 16,
+  pattern = "690",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 656,
+  width = 24,
+  height = 16,
+  pattern = "690",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 64,
+  width = 48,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 32,
+  width = 48,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "75_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 96,
+  width = 64,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 96,
+  width = 32,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 96,
+  width = 96,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 96,
+  width = 24,
+  height = 16,
+  pattern = "2087",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 64,
+  width = 128,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 96,
+  width = 96,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "75_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "75_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "75",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 192,
+  width = 32,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 192,
+  width = 64,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 96,
+  width = 48,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 320,
+  width = 56,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 320,
+  width = 56,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "75_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "75",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 432,
+  width = 144,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 480,
+  width = 144,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 480,
+  width = 48,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "1747",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 432,
+  width = 80,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 384,
+  width = 32,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 376,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 240,
+  width = 40,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 360,
+  width = 16,
+  height = 24,
+  pattern = "99",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 56,
+  width = 32,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 40,
+  width = 16,
+  height = 24,
+  pattern = "99",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -40,
+  y = 0,
+  width = 16,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -40,
+  y = 24,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -32,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -32,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -40,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "99",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 400,
+  width = 16,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 424,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 408,
+  width = 16,
+  height = 24,
+  pattern = "99",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 304,
+  width = 32,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "stone_tile_border_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "18",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "17",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 72,
+  width = 16,
+  height = 24,
+  pattern = "99",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 704,
+  width = 16,
+  height = 16,
+  pattern = "206",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 408,
+  width = 32,
+  height = 40,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "22",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = -16,
+  width = 16,
+  height = 16,
+  pattern = "8",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = -24,
+  width = 96,
+  height = 16,
+  pattern = "9",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = -16,
+  width = 16,
+  height = 16,
+  pattern = "10",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = -16,
+  width = 672,
+  height = 16,
+  pattern = "6",
+  tileset = "limestone",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "2324",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "2321",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "2323",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "2322",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "2324",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "2321",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "2323",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "2322",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 128,
+  width = 32,
+  height = 24,
+  pattern = "42",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 144,
+  width = 48,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 656,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 480,
+  width = 24,
+  height = 16,
+  pattern = "917",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 672,
+  width = 56,
+  height = 32,
+  pattern = "2423_2",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 560,
+  width = 8,
+  height = 24,
+  pattern = "1460",
+}
+
+tile{
+  layer = 0,
+  x = -56,
+  y = 560,
+  width = 8,
+  height = 24,
+  pattern = "1460",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 568,
+  width = 8,
+  height = 16,
+  pattern = "913",
+}
+
+tile{
+  layer = 0,
+  x = -56,
+  y = 568,
+  width = 8,
+  height = 16,
+  pattern = "912",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 408,
+  width = 32,
+  height = 24,
+  pattern = "44",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 400,
+  width = 8,
+  height = 32,
+  pattern = "21",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 400,
+  width = 8,
+  height = 32,
+  pattern = "21_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 400,
+  width = 16,
+  height = 32,
+  pattern = "25",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 72,
+  width = 32,
+  height = 24,
+  pattern = "44",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "25",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 168,
+  width = 48,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "2350",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 168,
+  width = 8,
+  height = 16,
+  pattern = "2353",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "2349",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "2348",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 184,
+  width = 32,
+  height = 8,
+  pattern = "2354",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 168,
+  width = 8,
+  height = 16,
+  pattern = "2352",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "2347",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 160,
+  width = 32,
+  height = 8,
+  pattern = "2351",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "85_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "85_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 152,
+  width = 48,
+  height = 32,
+  pattern = "47",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 320,
+  width = 48,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "2350",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 320,
+  width = 8,
+  height = 16,
+  pattern = "2353",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "2349",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "2348",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 336,
+  width = 32,
+  height = 8,
+  pattern = "2354",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 320,
+  width = 8,
+  height = 16,
+  pattern = "2352",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "2347",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 312,
+  width = 32,
+  height = 8,
+  pattern = "2351",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "85_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "85_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 304,
+  width = 48,
+  height = 32,
+  pattern = "47",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 504,
+  width = 48,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 496,
+  width = 8,
+  height = 8,
+  pattern = "2350",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 504,
+  width = 8,
+  height = 16,
+  pattern = "2353",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 520,
+  width = 8,
+  height = 8,
+  pattern = "2349",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 496,
+  width = 8,
+  height = 8,
+  pattern = "2348",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 520,
+  width = 32,
+  height = 8,
+  pattern = "2354",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 504,
+  width = 8,
+  height = 16,
+  pattern = "2352",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 520,
+  width = 8,
+  height = 8,
+  pattern = "2347",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 496,
+  width = 32,
+  height = 8,
+  pattern = "2351",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 512,
+  width = 16,
+  height = 8,
+  pattern = "85_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 512,
+  width = 16,
+  height = 8,
+  pattern = "85_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 488,
+  width = 48,
+  height = 32,
+  pattern = "47",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "25",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 368,
+  width = 16,
+  height = 32,
+  pattern = "25",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 496,
+  width = 8,
+  height = 16,
+  pattern = "shadow",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 496,
+  width = 8,
+  height = 16,
+  pattern = "shadow",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 504,
+  width = 16,
+  height = 16,
+  pattern = "126",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 504,
+  width = 16,
+  height = 16,
+  pattern = "126",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 504,
+  width = 16,
+  height = 16,
+  pattern = "275_2",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 504,
+  width = 16,
+  height = 16,
+  pattern = "275_2",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "275_2",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "275_2",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 480,
+  width = 48,
+  height = 32,
+  pattern = "stone_tile_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 488,
+  width = 16,
+  height = 16,
+  pattern = "1652",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "1094",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 488,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 488,
+  width = 16,
+  height = 16,
+  pattern = "775",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 584,
+  width = 32,
+  height = 16,
+  pattern = "254",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 568,
+  width = 16,
+  height = 16,
+  pattern = "255",
+}
+
+wall{
+  layer = 0,
+  x = 144,
+  y = 592,
+  width = 96,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 416,
+  y = 224,
+  width = 96,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+sensor{
+  name = "^layer_up_sensor",
+  layer = 0,
+  x = 728,
+  y = 157,
+  width = 16,
+  height = 32,
+}
+
+sensor{
+  name = "^layer_up_sensor_2",
+  layer = 0,
+  x = 664,
+  y = 157,
+  width = 16,
+  height = 32,
+}
+
+wall{
+  layer = 0,
+  x = 672,
+  y = 144,
+  width = 8,
+  height = 64,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 712,
+  y = 144,
+  width = 8,
+  height = 64,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+destination{
+  name = "from_inn",
+  layer = 0,
+  x = 280,
+  y = 325,
+  direction = 3,
+}
+
+destination{
+  name = "from_inn_upstairs",
+  layer = 0,
+  x = 320,
+  y = 253,
+  direction = 3,
+}
+
+destination{
+  name = "from_elders_house",
+  layer = 0,
+  x = 144,
+  y = 77,
+  direction = 3,
+}
+
+destination{
+  name = "from_shop",
+  layer = 0,
+  x = 464,
+  y = 493,
+  direction = 3,
+}
+
+destination{
+  name = "from_house_a",
+  layer = 0,
+  x = 784,
+  y = 413,
+  direction = 3,
+}
+
+destination{
+  name = "from_house_a_2",
+  layer = 0,
+  x = 560,
+  y = 317,
+  direction = 3,
+}
+
+enemy{
+  name = "dove_2",
+  layer = 0,
+  x = 544,
+  y = 461,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+enemy{
+  layer = 0,
+  x = 288,
+  y = 677,
+  direction = 0,
+  breed = "misc/seagull",
+}
+
+enemy{
+  layer = 0,
+  x = 264,
+  y = 669,
+  direction = 2,
+  breed = "misc/seagull",
+}
+
+enemy{
+  layer = 0,
+  x = 264,
+  y = 573,
+  direction = 0,
+  breed = "misc/seagull",
+}
+
+enemy{
+  layer = 0,
+  x = 152,
+  y = 517,
+  direction = 2,
+  breed = "misc/seagull",
+}
+
+enemy{
+  layer = 0,
+  x = 168,
+  y = 533,
+  direction = 0,
+  breed = "misc/seagull",
+}
+
+teletransporter{
+  layer = 0,
+  x = 832,
+  y = 552,
+  width = 16,
+  height = 168,
+  transition = "scrolling",
+  destination_map = "fykonos/beach",
+  destination = "_side",
+}
+
+destructible{
+  layer = 0,
+  x = 696,
+  y = 413,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 696,
+  y = 429,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 712,
+  y = 429,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 648,
+  y = 189,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 632,
+  y = 189,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 616,
+  y = 189,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 157,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 173,
+  sprite = "entities/vase",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 232,
+  y = 157,
+  treasure_name = "berries",
+  sprite = "entities/vase_berries",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 232,
+  y = 173,
+  treasure_name = "berries",
+  sprite = "entities/vase_berries",
+  can_be_cut = true,
+}
+
+chest{
+  layer = 0,
+  x = 248,
+  y = 157,
+  treasure_name = "bread",
+  treasure_variant = 2,
+  treasure_savegame_variable = "fykonos_village_bread_chest",
+  sprite = "entities/chest",
+}
+
+enemy{
+  name = "dove_5",
+  layer = 0,
+  x = 192,
+  y = 357,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+enemy{
+  name = "dove_6",
+  layer = 0,
+  x = 160,
+  y = 357,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+enemy{
+  name = "dove_7",
+  layer = 0,
+  x = 184,
+  y = 365,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+teletransporter{
+  layer = 0,
+  x = -16,
+  y = 288,
+  width = 16,
+  height = 128,
+  transition = "scrolling",
+  destination_map = "fykonos/west_trail",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 136,
+  y = 48,
+  width = 16,
+  height = 16,
+  destination_map = "fykonos/interiors/village/elder",
+  destination = "from_outside",
+}
+
+destination{
+  name = "from_sunflower_field",
+  layer = 0,
+  x = 704,
+  y = 29,
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 688,
+  y = 0,
+  width = 32,
+  height = 16,
+  destination_map = "fykonos/sunflower_field",
+  destination = "from_village",
+}
+
+teletransporter{
+  layer = 0,
+  x = 832,
+  y = 64,
+  width = 16,
+  height = 64,
+  transition = "scrolling",
+  destination_map = "fykonos/statue_garden",
+  destination = "_side",
+}
+
+npc{
+  name = "greeter",
+  layer = 0,
+  x = 752,
+  y = 669,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/fishing_left",
+}
+
+npc{
+  layer = 0,
+  x = 664,
+  y = 533,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/woman/sitting_3",
+  behavior = "dialog#_fykonos.npcs.village.1",
+}
+
+npc{
+  layer = 0,
+  x = 512,
+  y = 493,
+  direction = 3,
+  subtype = 1,
+  behavior = "dialog#_fykonos.observations.village.shop",
+}
+
+npc{
+  layer = 0,
+  x = 520,
+  y = 493,
+  direction = 3,
+  subtype = 1,
+  behavior = "dialog#_fykonos.observations.village.shop",
+}
+
+npc{
+  layer = 0,
+  x = 152,
+  y = 637,
+  direction = 3,
+  subtype = 1,
+  sprite = "entities/boat_goatshead_ferry",
+}
+
+wall{
+  layer = 0,
+  x = 144,
+  y = 632,
+  width = 96,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+dynamic_tile{
+  layer = 0,
+  x = 184,
+  y = 424,
+  width = 16,
+  height = 8,
+  pattern = "15",
+  tileset = "mykonos",
+}
+
+dynamic_tile{
+  layer = 0,
+  x = 200,
+  y = 424,
+  width = 16,
+  height = 8,
+  pattern = "16",
+  tileset = "mykonos",
+}
+
+npc{
+  layer = 0,
+  x = 200,
+  y = 421,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/blacksmith_04",
+}
+
+npc{
+  name = "ferry_counter",
+  layer = 0,
+  x = 200,
+  y = 429,
+  direction = 3,
+  subtype = 1,
+}
+
+npc{
+  layer = 0,
+  x = 224,
+  y = 325,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/woman/sitting_1_reading",
+  behavior = "dialog#_fykonos.npcs.village.2",
+}
+
+npc{
+  layer = 0,
+  x = 648,
+  y = 125,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/sitting_6",
+  behavior = "dialog#_fykonos.npcs.village.4",
+}
+
+dynamic_tile{
+  layer = 0,
+  x = 608,
+  y = 88,
+  width = 8,
+  height = 16,
+  pattern = "94",
+  tileset = "indoors_cabin",
+}
+
+dynamic_tile{
+  layer = 0,
+  x = 592,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "93",
+  tileset = "indoors_cabin",
+}
+
+dynamic_tile{
+  layer = 0,
+  x = 584,
+  y = 88,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "indoors_cabin",
+}
+
+npc{
+  layer = 0,
+  x = 600,
+  y = 93,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/leigha",
+}
+
+npc{
+  name = "cafe_counter",
+  layer = 0,
+  x = 600,
+  y = 101,
+  direction = 3,
+  subtype = 1,
+}
+
+wall{
+  layer = 0,
+  x = 576,
+  y = 96,
+  width = 8,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 616,
+  y = 96,
+  width = 8,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+npc{
+  layer = 0,
+  x = 536,
+  y = 149,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/woman/sitting_2",
+  behavior = "dialog#_fykonos.npcs.village.5",
+}
+
+npc{
+  layer = 0,
+  x = 336,
+  y = 333,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/woman/sweeping_lady_3",
+  behavior = "dialog#_fykonos.npcs.village.6",
+}
+
+npc{
+  layer = 0,
+  x = 400,
+  y = 485,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/man/man_12.5",
+  behavior = "dialog#_fykonos.npcs.village.7",
+}
+
+teletransporter{
+  layer = 0,
+  x = 272,
+  y = 296,
+  width = 16,
+  height = 16,
+  destination_map = "fykonos/interiors/village/inn",
+  destination = "from_outside",
+}
+
+teletransporter{
+  layer = 0,
+  x = 312,
+  y = 224,
+  width = 16,
+  height = 16,
+  destination_map = "fykonos/interiors/village/inn",
+  destination = "from_outside_upstairs",
+}
+
+teletransporter{
+  layer = 0,
+  x = 456,
+  y = 464,
+  width = 16,
+  height = 16,
+  destination_map = "fykonos/interiors/village/shop",
+  destination = "from_outside",
+}
+
+npc{
+  layer = 0,
+  x = 696,
+  y = 525,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/old_man_1.2",
+  behavior = "dialog#_fykonos.npcs.village.8",
+}
+
+destination{
+  name = "from_oakhaven",
+  layer = 0,
+  x = 216,
+  y = 661,
+  direction = 0,
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 493,
+  sprite = "entities/bush_flowers_yellow",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 232,
+  y = 493,
+  sprite = "entities/bush_flowers_yellow",
+  can_be_cut = true,
+}
+
+custom_entity{
+  layer = 0,
+  x = 728,
+  y = 717,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/ripple",
+}
+
+pickable{
+  name = "lost_bombs",
+  layer = 0,
+  x = 400,
+  y = 637,
+  enabled_at_start = false,
+  treasure_name = "fykonos_lost_bombs",
+  treasure_savegame_variable = "fykonos_lost_bombs_recovered",
+}
+
+pickable{
+  name = "lost_arrows",
+  layer = 0,
+  x = 8,
+  y = 581,
+  enabled_at_start = false,
+  treasure_name = "fykonos_lost_arrows",
+  treasure_savegame_variable = "fykonos_lost_arrows_recovered",
+}
+
+tile{
+  layer = 1,
+  x = 320,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 288,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "2423",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 256,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "2424",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "2422",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 416,
+  y = 208,
+  width = 96,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 400,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 688,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 704,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 688,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "19_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 128,
+  width = 48,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 176,
+  width = 48,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 144,
+  width = 48,
+  height = 32,
+  pattern = "2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 608,
+  y = 208,
+  width = 48,
+  height = 32,
+  pattern = "50",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 32,
+  width = 32,
+  height = 8,
+  pattern = "29",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "43_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = -24,
+  y = 144,
+  width = 16,
+  height = 24,
+  pattern = "43_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = -40,
+  y = 144,
+  width = 16,
+  height = 24,
+  pattern = "43_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = -56,
+  y = 144,
+  width = 16,
+  height = 24,
+  pattern = "43",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = -32,
+  y = 192,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = -48,
+  y = 192,
+  width = 16,
+  height = 24,
+  pattern = "2424",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = -48,
+  y = 216,
+  width = 16,
+  height = 24,
+  pattern = "2422",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = -32,
+  y = 216,
+  width = 16,
+  height = 24,
+  pattern = "2423",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 152,
+  y = 112,
+  width = 16,
+  height = 32,
+  pattern = "128",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 104,
+  y = 112,
+  width = 16,
+  height = 32,
+  pattern = "128",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 104,
+  width = 48,
+  height = 16,
+  pattern = "288",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 104,
+  width = 16,
+  height = 16,
+  pattern = "289",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 104,
+  width = 16,
+  height = 16,
+  pattern = "287",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 120,
+  y = 136,
+  width = 32,
+  height = 16,
+  pattern = "shadow",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 312,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "45",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 152,
+  width = 8,
+  height = 72,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 608,
+  y = 224,
+  width = 8,
+  height = 80,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 656,
+  y = 64,
+  width = 8,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 96,
+  width = 8,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 224,
+  width = 8,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 32,
+  width = 8,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 272,
+  y = 288,
+  width = 16,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 256,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "19",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 272,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "19_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 288,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "19_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 296,
+  y = 296,
+  width = 16,
+  height = 24,
+  pattern = "43_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 248,
+  y = 296,
+  width = 16,
+  height = 24,
+  pattern = "43",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "46",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 448,
+  y = 448,
+  width = 32,
+  height = 8,
+  pattern = "29",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 448,
+  y = 448,
+  width = 32,
+  height = 16,
+  pattern = "46",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 424,
+  y = 440,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 488,
+  y = 440,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = -24,
+  y = 88,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 488,
+  y = 408,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 424,
+  y = 408,
+  width = 16,
+  height = 24,
+  pattern = "2424",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 456,
+  y = 408,
+  width = 16,
+  height = 24,
+  pattern = "2422",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 768,
+  y = 368,
+  width = 32,
+  height = 8,
+  pattern = "29",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 768,
+  y = 368,
+  width = 32,
+  height = 16,
+  pattern = "46",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 432,
+  y = 24,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 24,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 376,
+  y = 72,
+  width = 16,
+  height = 24,
+  pattern = "43_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 360,
+  y = 72,
+  width = 16,
+  height = 24,
+  pattern = "43_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 344,
+  y = 72,
+  width = 16,
+  height = 24,
+  pattern = "43",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 352,
+  y = 160,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "46",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 528,
+  y = 272,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 528,
+  y = 296,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 352,
+  y = 192,
+  width = 8,
+  height = 128,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 432,
+  y = 64,
+  width = 8,
+  height = 32,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 800,
+  y = 464,
+  width = 48,
+  height = 48,
+  pattern = "49",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 816,
+  y = 504,
+  width = 48,
+  height = 48,
+  pattern = "49",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 784,
+  y = 544,
+  width = 96,
+  height = 48,
+  pattern = "49",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 832,
+  y = 616,
+  width = 8,
+  height = 8,
+  pattern = "498",
+}
+
+tile{
+  layer = 1,
+  x = 840,
+  y = 616,
+  width = 8,
+  height = 8,
+  pattern = "498",
+}
+
+tile{
+  layer = 1,
+  x = 824,
+  y = 616,
+  width = 8,
+  height = 8,
+  pattern = "498",
+}
+
+tile{
+  layer = 1,
+  x = 816,
+  y = 616,
+  width = 8,
+  height = 8,
+  pattern = "498",
+}
+
+tile{
+  layer = 1,
+  x = 376,
+  y = 552,
+  width = 32,
+  height = 24,
+  pattern = "57",
+  tileset = "vault_walls",
+}
+
+tile{
+  layer = 1,
+  x = 496,
+  y = 584,
+  width = 32,
+  height = 24,
+  pattern = "57",
+  tileset = "vault_walls",
+}
+
+tile{
+  layer = 1,
+  x = 472,
+  y = 608,
+  width = 32,
+  height = 8,
+  pattern = "55",
+  tileset = "vault_walls",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 688,
+  width = 32,
+  height = 16,
+  pattern = "212",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 1,
+  x = 384,
+  y = 584,
+  width = 32,
+  height = 16,
+  pattern = "3_4",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 1,
+  x = 696,
+  y = 584,
+  width = 32,
+  height = 16,
+  pattern = "3_3",
+  tileset = "boulderfield",
+}
+
+tile{
+  layer = 1,
+  x = 704,
+  y = 512,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 640,
+  y = 512,
+  width = 16,
+  height = 24,
+  pattern = "1748",
+}
+
+tile{
+  layer = 1,
+  x = 704,
+  y = 456,
+  width = 16,
+  height = 24,
+  pattern = "43_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 688,
+  y = 456,
+  width = 16,
+  height = 24,
+  pattern = "43_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 456,
+  width = 16,
+  height = 24,
+  pattern = "43",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 528,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "687",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 424,
+  width = 16,
+  height = 8,
+  pattern = "687",
+}
+
+tile{
+  layer = 1,
+  x = 528,
+  y = 224,
+  width = 8,
+  height = 256,
+  pattern = "1",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 152,
+  y = 624,
+  width = 40,
+  height = 16,
+  pattern = "695",
+}
+
+tile{
+  layer = 1,
+  x = 736,
+  y = 24,
+  width = 16,
+  height = 24,
+  pattern = "43_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 752,
+  y = 24,
+  width = 16,
+  height = 24,
+  pattern = "43_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 744,
+  y = 32,
+  width = 16,
+  height = 24,
+  pattern = "43",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 656,
+  y = 328,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 640,
+  y = 328,
+  width = 16,
+  height = 24,
+  pattern = "2424",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 584,
+  y = 328,
+  width = 16,
+  height = 24,
+  pattern = "2422",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 600,
+  y = 328,
+  width = 16,
+  height = 24,
+  pattern = "2423",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 520,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 520,
+  width = 16,
+  height = 24,
+  pattern = "2423",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 480,
+  y = 520,
+  width = 16,
+  height = 24,
+  pattern = "2424",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 448,
+  y = 520,
+  width = 16,
+  height = 24,
+  pattern = "2422",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 704,
+  y = 384,
+  width = 32,
+  height = 8,
+  pattern = "2235",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 240,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "1091",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 336,
+  y = 552,
+  width = 16,
+  height = 8,
+  pattern = "687",
+}
+
+tile{
+  layer = 1,
+  x = 328,
+  y = 632,
+  width = 24,
+  height = 8,
+  pattern = "691",
+}
+
+tile{
+  layer = 1,
+  x = 328,
+  y = 648,
+  width = 24,
+  height = 8,
+  pattern = "691",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 648,
+  width = 24,
+  height = 8,
+  pattern = "691",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 232,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 232,
+  width = 16,
+  height = 24,
+  pattern = "2423",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 464,
+  y = 136,
+  width = 16,
+  height = 24,
+  pattern = "2425",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 432,
+  y = 136,
+  width = 16,
+  height = 24,
+  pattern = "2423",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 400,
+  y = 136,
+  width = 16,
+  height = 24,
+  pattern = "2424",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 368,
+  y = 136,
+  width = 16,
+  height = 24,
+  pattern = "2422",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 800,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "1535",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 568,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "1535",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 816,
+  y = 104,
+  width = 32,
+  height = 24,
+  pattern = "43",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 504,
+  y = 464,
+  width = 24,
+  height = 16,
+  pattern = "918",
+}
+
+tile{
+  layer = 1,
+  x = -48,
+  y = 560,
+  width = 32,
+  height = 24,
+  pattern = "1460",
+}
+
+tile{
+  layer = 1,
+  x = -56,
+  y = 544,
+  width = 48,
+  height = 24,
+  pattern = "914",
+}
+
+tile{
+  layer = 1,
+  x = 184,
+  y = 400,
+  width = 32,
+  height = 8,
+  pattern = "45",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 584,
+  y = 64,
+  width = 32,
+  height = 8,
+  pattern = "45",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 568,
+  y = 64,
+  width = 80,
+  height = 8,
+  pattern = "90",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 576,
+  y = 64,
+  width = 8,
+  height = 32,
+  pattern = "21_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 616,
+  y = 64,
+  width = 8,
+  height = 32,
+  pattern = "21",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 1,
+  x = 264,
+  y = 280,
+  width = 32,
+  height = 16,
+  pattern = "10",
+  tileset = "misc",
+}
+
+tile{
+  layer = 1,
+  x = 288,
+  y = 120,
+  width = 48,
+  height = 32,
+  pattern = "50",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 40,
+  y = 272,
+  width = 48,
+  height = 32,
+  pattern = "50",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 456,
+  width = 48,
+  height = 32,
+  pattern = "50",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 624,
+  y = 472,
+  width = 16,
+  height = 32,
+  pattern = "128",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 560,
+  y = 472,
+  width = 16,
+  height = 32,
+  pattern = "128",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 568,
+  y = 464,
+  width = 64,
+  height = 16,
+  pattern = "288",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 632,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "289",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 552,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "287",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 576,
+  y = 496,
+  width = 48,
+  height = 16,
+  pattern = "shadow",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 520,
+  width = 24,
+  height = 16,
+  pattern = "2087",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 240,
+  y = 472,
+  width = 16,
+  height = 16,
+  pattern = "1655",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 568,
+  width = 32,
+  height = 16,
+  pattern = "212",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 552,
+  width = 16,
+  height = 16,
+  pattern = "213",
+}
+
+dynamic_tile{
+  name = "^invisible_stairs_2",
+  layer = 1,
+  x = 720,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "invisible_stairs",
+  tileset = "misc",
+}
+
+sensor{
+  name = "^layer_down_sensor_2",
+  layer = 1,
+  x = 744,
+  y = 157,
+  width = 16,
+  height = 32,
+}
+
+wall{
+  layer = 1,
+  x = 752,
+  y = 136,
+  width = 8,
+  height = 48,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 1,
+  x = 720,
+  y = 136,
+  width = 32,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 1,
+  x = 720,
+  y = 176,
+  width = 32,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+dynamic_tile{
+  name = "^invisible_stairs_3",
+  layer = 1,
+  x = 640,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "invisible_stairs",
+  tileset = "misc",
+}
+
+sensor{
+  name = "^layer_down_sensor_3",
+  layer = 1,
+  x = 648,
+  y = 157,
+  width = 16,
+  height = 32,
+}
+
+wall{
+  layer = 1,
+  x = 632,
+  y = 136,
+  width = 8,
+  height = 48,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 1,
+  x = 640,
+  y = 136,
+  width = 32,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 1,
+  x = 640,
+  y = 176,
+  width = 32,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+enemy{
+  name = "dove_4",
+  layer = 1,
+  x = 552,
+  y = 437,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+destructible{
+  layer = 1,
+  x = 720,
+  y = 397,
+  sprite = "entities/bush_flowers_yellow",
+  can_be_cut = true,
+}
+
+enemy{
+  name = "dove_8",
+  layer = 1,
+  x = 712,
+  y = 165,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+enemy{
+  name = "dove_9",
+  layer = 1,
+  x = 680,
+  y = 165,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+enemy{
+  name = "dove_10",
+  layer = 1,
+  x = 704,
+  y = 173,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+custom_entity{
+  name = "bell",
+  layer = 1,
+  x = 136,
+  y = 133,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/bell",
+}
+
+enemy{
+  name = "dove_1",
+  layer = 1,
+  x = 632,
+  y = 469,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+enemy{
+  name = "dove_3",
+  layer = 1,
+  x = 568,
+  y = 445,
+  direction = 0,
+  breed = "misc/dove",
+}
+
+tile{
+  layer = 2,
+  x = 576,
+  y = 184,
+  width = 16,
+  height = 32,
+  pattern = "1540",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 2,
+  x = 808,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "1540",
+  tileset = "oceanheart_outdoors_1",
+}
+

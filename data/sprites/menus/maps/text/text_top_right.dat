@@ -1,0 +1,7 @@
+animation{
+  name = "default",
+  src_image = "menus/maps/text/text_top_right.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 25, frame_height = 11, origin_x = 25, origin_y = 0 },
+  },
+}

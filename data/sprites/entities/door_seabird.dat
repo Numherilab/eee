@@ -1,0 +1,10 @@
+animation{
+  name = "closed",
+  src_image = "entities/door_npcs.png",
+  directions = {
+    { x = 48, y = 32, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 18 },
+    { x = 48, y = 32, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 18 },
+    { x = 48, y = 32, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 18 },
+    { x = 48, y = 32, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 18 },
+  },
+}

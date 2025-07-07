@@ -1,0 +1,92 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "ground1.1",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 160,
+  y = 109,
+  direction = 3,
+}
+
+teletransporter{
+  name = "intro_warp_2",
+  layer = 0,
+  x = 152,
+  y = 96,
+  width = 16,
+  height = 16,
+  destination_map = "Limestone Island/limestone_village/basswood_tavern_upstairs",
+  destination = "starting_destination",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "35",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+

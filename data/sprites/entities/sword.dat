@@ -1,0 +1,14 @@
+animation{
+  name = "on_ground",
+  src_image = "entities/items.png",
+  directions = {
+    { x = 96, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+  },
+}
+animation{
+  name = "stopped",
+  src_image = "entities/items.png",
+  directions = {
+    { x = 96, y = 0, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+  },
+}

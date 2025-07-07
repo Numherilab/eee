@@ -1,0 +1,179 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "indoors_cabin",
+  music = "fykonos_village",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 80,
+  width = 224,
+  height = 112,
+  pattern = "128",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 32,
+  width = 224,
+  height = 16,
+  pattern = "7_6",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 176,
+  width = 96,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 48,
+  width = 16,
+  height = 128,
+  pattern = "7_4",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 48,
+  width = 16,
+  height = 128,
+  pattern = "7_8",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 48,
+  width = 224,
+  height = 32,
+  pattern = "5",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 176,
+  width = 96,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7_3",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "7_2",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7_7",
+  tileset = "mykonos",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "7_5",
+  tileset = "mykonos",
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 208,
+  y = 173,
+  direction = 1,
+}
+

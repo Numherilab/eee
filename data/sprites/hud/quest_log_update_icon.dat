@@ -1,0 +1,8 @@
+animation{
+  name = "alert",
+  src_image = "hud/quest_log_update_icon.png",
+  frame_delay = 200,
+  directions = {
+    { x = 0, y = 0, frame_width = 40, frame_height = 16, origin_x = 0, origin_y = 0, num_frames = 4, num_columns = 1 },
+  },
+}

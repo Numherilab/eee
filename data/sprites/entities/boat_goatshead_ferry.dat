@@ -1,0 +1,12 @@
+animation{
+  name = "stopped",
+  src_image = "entities/boat_goatshead_ferry.png",
+  frame_delay = 244,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 120, frame_width = 144, frame_height = 72, origin_x = 72, origin_y = 69, num_frames = 4 },
+    { x = 0, y = 120, frame_width = 144, frame_height = 72, origin_x = 72, origin_y = 69, num_frames = 4 },
+    { x = 0, y = 8, frame_width = 144, frame_height = 72, origin_x = 72, origin_y = 69, num_frames = 4 },
+    { x = 0, y = 8, frame_width = 144, frame_height = 72, origin_x = 72, origin_y = 69, num_frames = 4 },
+  },
+}

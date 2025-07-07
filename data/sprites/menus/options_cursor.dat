@@ -1,0 +1,46 @@
+animation{
+  name = "wide_blink_15",
+  src_image = "menus/options_cursor.png",
+  frame_delay = 300,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 180, frame_height = 15, origin_x = 0, origin_y = 0, num_frames = 2, num_columns = 1 },
+  },
+}
+animation{
+  name = "short_15",
+  src_image = "menus/options_cursor.png",
+  directions = {
+    { x = 180, y = 15, frame_width = 84, frame_height = 15, origin_x = 0, origin_y = 0 },
+  },
+}
+animation{
+  name = "short_18",
+  src_image = "menus/options_cursor.png",
+  directions = {
+    { x = 180, y = 48, frame_width = 76, frame_height = 18, origin_x = 0, origin_y = 2 },
+  },
+}
+animation{
+  name = "wide_15",
+  src_image = "menus/options_cursor.png",
+  directions = {
+    { x = 0, y = 15, frame_width = 180, frame_height = 15, origin_x = 0, origin_y = 0 },
+  },
+}
+animation{
+  name = "wide_18",
+  src_image = "menus/options_cursor.png",
+  directions = {
+    { x = 0, y = 48, frame_width = 180, frame_height = 18, origin_x = 0, origin_y = 2 },
+  },
+}
+animation{
+  name = "wide_blink_18",
+  src_image = "menus/options_cursor.png",
+  frame_delay = 300,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 30, frame_width = 180, frame_height = 18, origin_x = 0, origin_y = 2, num_frames = 2, num_columns = 1 },
+  },
+}

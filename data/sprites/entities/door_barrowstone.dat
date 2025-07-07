@@ -1,0 +1,23 @@
+animation{
+  name = "closed",
+  src_image = "entities/door_npcs.png",
+  frame_delay = 10,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16 },
+  },
+}
+animation{
+  name = "opening",
+  src_image = "entities/door_npcs.png",
+  frame_delay = 100,
+  directions = {
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16, num_frames = 7 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16, num_frames = 7 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16, num_frames = 7 },
+    { x = 0, y = 96, frame_width = 16, frame_height = 32, origin_x = 0, origin_y = 16, num_frames = 7 },
+  },
+}

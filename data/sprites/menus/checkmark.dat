@@ -1,0 +1,21 @@
+animation{
+  name = "bullet",
+  src_image = "menus/ui.png",
+  directions = {
+    { x = 0, y = 42, frame_width = 6, frame_height = 8, origin_x = 0, origin_y = 0 },
+  },
+}
+animation{
+  name = "done",
+  src_image = "menus/ui.png",
+  directions = {
+    { x = 6, y = 42, frame_width = 6, frame_height = 8, origin_x = 0, origin_y = 0 },
+  },
+}
+animation{
+  name = "new",
+  src_image = "menus/ui.png",
+  directions = {
+    { x = 12, y = 42, frame_width = 6, frame_height = 8, origin_x = 0, origin_y = 0 },
+  },
+}

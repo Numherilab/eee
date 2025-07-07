@@ -1,0 +1,7 @@
+animation{
+  name = "stopped",
+  src_image = "menus/maps/landmasses/oakhaven.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 152, frame_height = 80, origin_x = 0, origin_y = 0 },
+  },
+}

@@ -1,0 +1,265 @@
+text{ key = "action.back", value = "Retour" }
+text{ key = "controls.action", value = "Interagir/Roullade" }
+text{ key = "controls.item1", value = "Objet 1" }
+text{ key = "controls.item2", value = "Objet 2" }
+text{ key = "controls.move", value = "Déplacement" }
+text{ key = "controls.pause", value = "Pause" }
+text{ key = "controls.quick_menus", value = "Menus rapides" }
+text{ key = "controls.fullscreen", value = "Plein écran" }
+text{ key = "controls.f1", value = "Commandes" }
+text{ key = "controls.switch_subscreen", value = "Défilement des menus" }
+text{ key = "controls.sword", value = "Épée/Sortir" }
+text{ key = "item.abyssal_flame.1", value = "Flamme abyssale" }
+text{ key = "item.apples.1", value = "Pommes" }
+text{ key = "item.armor_tools.1", value = "Outils d'armurier" }
+text{ key = "item.aster_note.1", value = "Message de menaces" }
+text{ key = "item.ball_and_chain.1", value = "Fléau" }
+text{ key = "item.ball_and_chain.2", value = "Fléau explosif du chaos" }
+text{ key = "item.barrier.1", value = "Barrière de Devana" }
+text{ key = "item.berries.1", value = "Baies" }
+text{ key = "item.bomb_arrow_ticket.1", value = "Plans de flèches explosives" }
+text{ key = "item.bombs_counter_2.1", value = "Bombes" }
+text{ key = "item.boomerang.1", value = "Boomerang" }
+text{ key = "item.boomerang.2", value = "Boomerang à plumes de corbeau" }
+text{ key = "item.bow.1", value = "Arc" }
+text{ key = "item.bow_bombs.1", value = "Flèches bombes" }
+text{ key = "item.bow_fire.1", value = "Flèches de flammes" }
+text{ key = "item.bow_warp.1", value = "Amulette de carreaux de téléportation" }
+text{ key = "item.bread.1", value = "Pain de glands" }
+text{ key = "item.burdock.1", value = "Racines de bardane" }
+text{ key = "item.chamomile.1", value = "Fleurs de camomille" }
+text{ key = "item.charts.1", value = "Cartes maritimes de Goémon" }
+text{ key = "item.contract.1", value = "Contrat d'exploitation" }
+text{ key = "item.coral_ore.1", value = "Corail" }
+text{ key = "item.crow_feather.1", value = "Plume de corbeau" }
+text{ key = "item.crystal_spark.1", value = "Braise d'Ophira" }
+text{ key = "item.cyclone_charm.1", value = "Amulette de cyclone" }
+text{ key = "item.elixer.1", value = "Élixir vitae" }
+text{ key = "item.ether_bombs.1", value = "Bombes d'éther" }
+text{ key = "item.firethorn_berries.1", value = "Baies de buisson ardent" }
+text{ key = "item.forsythia.1", value = "Fleurs de forsythia" }
+text{ key = "item.geode.1", value = "Géodes monstres" }
+text{ key = "item.ghost_orchid.1", value = "Orchidée fantôme" }
+text{ key = "item.gust.1", value = "Tempête de Zéphyrine" }
+text{ key = "item.hideout_chart.1", value = "Carte du repaire du Conseil pirate" }
+text{ key = "item.homing_eye.1", value = "Yeux détecteurs" }
+text{ key = "item.honeycomb.1", value = "Miel de frelon" }
+text{ key = "item.iron_candle.1", value = "Bougies de sel" }
+text{ key = "item.key_brass.1", value = "Clé de cuivre" }
+text{ key = "item.key_haunted_house.1", value = "Clé du lac d'Ombre" }
+text{ key = "item.iron_pinecone.1", value = "Pomme de pin de fer" }
+text{ key = "item.key_juneberry_inn.1", value = "Clé d'une autre auberge ?" }
+text{ key = "item.key_juniper_grove.1", value = "Clé du bosquet de Genévrier" }
+text{ key = "item.key_juniper_grove_2.1", value = "Clé de la porte interne du bosquet de Genévrier" }
+text{ key = "item.key_kingsdown.1", value = "Clé de Malvo" }
+text{ key = "item.key_mead_safehouse.1", value = "Clé gluante de miel" }
+text{ key = "item.key_mushroom_spot.1", value = "Clé du coin à champignons" }
+text{ key = "item.key_shoal_pirate_fort.1", value = "Clé du fort du haut-fond du Lotus" }
+text{ key = "item.key_poplar_shack.1", value = "Clé moussue" }
+text{ key = "item.key_sinking_lighthouse.1", value = "Clé ruines des Lueurs de la mer" }
+text{ key = "item.key_thrush_fort.1", value = "Clé du fort de la Grive" }
+text{ key = "item.kingscrown.1", value = "Bourgeons d'orpin rouge" }
+text{ key = "item.lavendar.1", value = "Fleurs de lavande" }
+text{ key = "item.leaf_tornado.1", value = "Colère d'Amélanchier" }
+text{ key = "item.machine_part.1", value = "Pièce de machine" }
+text{ key = "item.mandrake.1", value = "Racine de mandragore" }
+text{ key = "item.mandrake_white.1", value = "Racine de mandragore blanche" }
+text{ key = "item.manna_oak_letter.1", value = "Lettre de chêne de mana" }
+text{ key = "item.manna_oak_twig.1", value = "Brindille de chêne de mana" }
+text{ key = "item.monkshood.1", value = "Pétales d'aconit" }
+text{ key = "item.monster_bones.1", value = "Os de mort-vivant" }
+text{ key = "item.monster_eye.1", value = "Yeux maléfiques" }
+text{ key = "item.monster_guts.1", value = "Tripes de monstres" }
+text{ key = "item.monster_horn.1", value = "Cornes de bêtes" }
+text{ key = "item.monster_heart.1", value = "Cœurs abyssaux" }
+text{ key = "item.oceansheart_chart.1", value = "Carte de l'île des Tempêtes" }
+text{ key = "item.oranges_shipment.1", value = "Boîte d'oranges" }
+text{ key = "item.potion_burlyblade.1", value = "Potion de lame robuste" }
+text{ key = "item.potion_fleetseed.1", value = "Potion de graine rapide" }
+text{ key = "item.potion_magic_restoration.1", value = "Potion de restauration magique" }
+text{ key = "item.potion_stoneskin.1", value = "Potion de peau de pierre" }
+text{ key = "item.prize_money.1", value = "Argent du tournoi (200 couronnes)" }
+text{ key = "item.sleeping_draught.1", value = "Philtre de sommeil" }
+text{ key = "item.spear.1", value = "Lance des guerriers ours" }
+text{ key = "item.spear.2", value = "Lance Tournesol" }
+text{ key = "item.stone_beak.1", value = "Une pierre en forme de bec ?" }
+text{ key = "item.sword_of_the_sea_king.1", value = "Épée du Roi des océans" }
+text{ key = "item.thunder_charm.1", value = "Larme de l'Oiseau marin" }
+text{ key = "item.thunder_charm.2", value = "Larme de l'Oiseau marin" }
+text{ key = "item.thunder_charm.3", value = "Larme de l'Oiseau marin" }
+text{ key = "item.thunder_charm.4", value = "Larme de l'Oiseau marin" }
+text{ key = "item.thunder_charm.5", value = "Larme de l'Oiseau marin" }
+text{ key = "item.tungsten_ore.1", value = "Tungstène" }
+text{ key = "item.whisky_for_juglan.1", value = "Whisky" }
+text{ key = "item.witch_hazel.1", value = "Fleurs d'hamamélis" }
+text{ key = "item_desc.apples.2", value = "Pommes (3) - chacune soigne deux cœurs." }
+text{ key = "item_desc.apples.4", value = "Pommes (10) - chacune soigne deux cœurs." }
+text{ key = "item_desc.arrow.3", value = "Flèches (5)" }
+text{ key = "item_desc.arrow.5", value = "Flèches (20)" }
+text{ key = "item_desc.berries.3", value = "Baies (5) - chacune soigne d'un demi cœur." }
+text{ key = "item_desc.berries.4", value = "Baies (20) - chacune soigne d'un demi cœur." }
+text{ key = "item_desc.bomb.3", value = "Bombes (5)" }
+text{ key = "item_desc.bomb.4", value = "Bombes (10)" }
+text{ key = "item_desc.bread.2", value = "Pains de glands (5) - chacun soigne cinq cœurs." }
+text{ key = "item_desc.bread.3", value = "Pains de glands (10) - chacun soigne cinq cœurs." }
+text{ key = "item_desc.elixer.1", value = "Élixir - rend toute la vie, ou réanime après un KO." }
+text{ key = "item_desc.potion_burlyblade.1", value = "Potion de lame robuste - dégâts x1,5 pendant 4 min." }
+text{ key = "item_desc.potion_magic_restoration.1", value = "Potion magique - restaure ta puissance magique" }
+text{ key = "item_desc.potion_stoneskin.1", value = "Potion de peau de pierre - dégâts reçus -50 % pendant 4 min." }
+text{ key = "item_desc.unattainable_collectable.1", value = "" }
+text{ key = "key1.false", value = "sub 1 is bad" }
+text{ key = "key1.true", value = "sub 1 is good" }
+text{ key = "key2.false", value = "I think so" }
+text{ key = "key2.true", value = "really?" }
+text{ key = "location.abyss", value = "L'Abîme" }
+text{ key = "location.amalenchier_tomb", value = "Tombeau d'Amélanchier" }
+text{ key = "location.ballast_harbor", value = "Port Ballast" }
+text{ key = "location.bear_catacombs", value = "Catacombes des guerriers ours" }
+text{ key = "location.council_building", value = "Avant-poste pirate" }
+text{ key = "location.crabhook_village", value = "Village de Tourtrappe" }
+text{ key = "location.cursed_temple", value = "Temple maudit" }
+text{ key = "location.drowned_village", value = "Le village noyé" }
+text{ key = "location.eastoak", value = "Fort du Corbeau" }
+text{ key = "location.puzzlewood", value = "Le bois du Mystère" }
+text{ key = "location.forest_of_tides", value = "Forêt des Marées" }
+text{ key = "location.fykonos", value = "Île de Fykonos" }
+text{ key = "location.ghost_ship", value = "Salut de Zéphyrine" }
+text{ key = "location.goatshead_harbor", value = "Port de Têtabouc" }
+text{ key = "location.goatshead_island", value = "Île de Têtabouc" }
+text{ key = "location.gull_rock", value = "Rocher des Mouettes" }
+text{ key = "location.hourglass_fort", value = "Fort Sablier" }
+text{ key = "location.isle_of_storms", value = "Île des Tempêtes" }
+text{ key = "location.ivystump", value = "Village de Souche-de-Lierre" }
+text{ key = "location.kingsdown", value = "Île de la Chute-du-roi" }
+text{ key = "location.lighthouse", value = "Phare en ruines" }
+text{ key = "location.limestone_island", value = "Île Calcaire" }
+text{ key = "location.limestone_present", value = "Île Calcaire" }
+text{ key = "location.lobb_trail", value = "Détroit d'Épines" }
+text{ key = "location.lotus_shoal", value = "Haut-fond du Lotus" }
+text{ key = "location.marblecliff", value = "Mont de la falaise de Marbre" }
+text{ key = "location.naerreturn_bay", value = "Baie Zéphyr" }
+text{ key = "location.oakhaven", value = "Rouvruge" }
+text{ key = "location.palace_gardens", value = "Palais de Rouvruge" }
+text{ key = "location.palace_gardens_chase_sequence", value = "Palais de Rouvruge" }
+text{ key = "location.poplar_coast", value = "Tête d'épicéa" }
+text{ key = "location.poplar_forest", value = "Forêt de peupliers" }
+text{ key = "location.port", value = "Port de Rouvruge" }
+text{ key = "location.shipwreck_chain", value = "Cimetière des Vagues" }
+text{ key = "location.silent_glade", value = "Clairière du Silence" }
+text{ key = "location.silent_glade_health", value = "Tombeau du dernier chef" }
+text{ key = "location.smoldering_rock", value = "Rocher ardent" }
+text{ key = "location.snapmast", value = "Récif de Brisemât" }
+text{ key = "location.snapmast_landing", value = "Récif de Brisemât" }
+text{ key = "location.spruce_head", value = "Tête d'épicéa" }
+text{ key = "location.spruce_head_shrine", value = "Sanctuaire de la Tête d'épicéa" }
+text{ key = "location.stonefell_crossroads", value = "Carrefour de l'Éboulement" }
+text{ key = "location.sunken_palace", value = "Palais englouti" }
+text{ key = "location.tern_marsh", value = "Marais aux Sternes" }
+text{ key = "location.thrush_fort", value = "Tombeau de Héron" }
+text{ key = "location.umber_lake", value = "Lac d'Ombre"}
+text{ key = "location.veilwood", value = "Le bois du Voile" }
+text{ key = "location.west_coast", value = "Chêne ouest" }
+text{ key = "location.willow_palace", value = "Palais Saule" }
+text{ key = "location.yarrowmouth", value = "Rivace" }
+text{ key = "location.yarrowmouth_village", value = "Village de Rivace" }
+text{ key = "location.zephyr_bay", value = "Baie Zéphyr" }
+text{ key = "menu.map.limestone", value = "CALCAIRE" }
+text{ key = "menu.map.ballast_harbor", value = "PORT\\nBALLAST" }
+text{ key = "menu.map.zephyr_bay", value = "FORÊT\\nDES MARÉES" }
+text{ key = "menu.map.goatshead", value = "TÊTABOUC" }
+text{ key = "menu.map.crabhook", value = "TOURTRAPPE" }
+text{ key = "menu.map.lotus_shoal", value = "HAUT-FOND\\nDU LOTUS" }
+text{ key = "menu.map.spruce_head", value = "TÊTE\\nD'ÉPICÉA" }
+text{ key = "menu.map.fort_crow", value = "FORT\\nDU CORBEAU" }
+text{ key = "menu.map.tern_marsh", value = "MARAIS\\nAUX STERNES" }
+text{ key = "menu.map.kingsdown_isle", value = "ÎLE DE LA\\nCHUTE-DU-ROI" }
+text{ key = "menu.map.snapmast_reef", value = "RÉCIF\\nDE BRISEMÂT" }
+text{ key = "menu.map.yarrowmouth", value = "RIVACE" }
+text{ key = "menu.map.oakport", value = "PORT\\nCHÊNE" }
+text{ key = "menu.map.oakhaven", value = "ROUVRUGE" }
+text{ key = "menu.map.ivystump", value = "SOUCHE-DE-LIERRE" }
+text{ key = "menu.map.marblecliff", value = "FALAISE\\nDE MARBRE" }
+text{ key = "menu.map.isle_of_storms", value = "ÎLE\\nDES TEMPÊTES" }
+text{ key = "menu.potion_expired", value = "Effet de potion expiré" }
+text{ key = "menu.quest_log.back_prompt", value = "D : Retour" }
+text{ key = "menu.quest_log.main_quests_tab", value = "Quêtes\\nprincip." }
+text{ key = "menu.quest_log.no_main_quests", value = "Tu n'as pas de quêtes principales" }
+text{ key = "menu.quest_log.no_side_quests", value = "Tu n'as pas de quêtes secondaires" }
+text{ key = "menu.quest_log.quest_log_update", value = "Journal de quête à jour" }
+text{ key = "menu.quest_log.quests_count", value = "$v1 sur $v2 terminé.e.s" }
+text{ key = "menu.quest_log.side_quests_tab", value = "Quêtes\\nsecond." }
+text{ key = "menu.quest_log.title", value = "Journal de quête" }
+text{ key = "menu.quest_update.quest_log_complete", value = "Quête terminée !" }
+text{ key = "menu.quest_update.quest_updated", value = "Journal de quête à jour" }
+text{ key = "menu.sell.item_price", value = "%d couronnes" }
+text{ key = "menu.shop.item_price", value = "Prix : %2d couronnes" }
+text{ key = "menu.status.save", value = "Sauvegarder" }
+text{ key = "menu.status.quit", value = "Quitter" }
+text{ key = "menu.status.controls", value = "Commandes" }
+text{ key = "menu.status.music", value = "Musique" }
+text{ key = "menu.status.sounds", value = "Son" }
+text{ key = "menu.status.dialog_size", value = "Dialogues" }
+text{ key = "menu.title.cancel", value = "Annuler" }
+text{ key = "menu.title.confirm", value = "Confirmer" }
+text{ key = "menu.title.continue", value = "Continuer" }
+text{ key = "menu.title.demo", value = "Démo" }
+text{ key = "menu.title.new_game", value = "Nouvelle partie" }
+text{ key = "menu.title.quit", value = "Quitter" }
+text{ key = "menu.title.full_demo", value = "Démo complète" }
+text{ key = "menu.title.beach_demo", value = "Plage" }
+text{ key = "menu.title.boss_demo", value = "Boss" }
+text{ key = "menu.title.clear_save", value = "Supprimer\\nla sauvegarde" }
+text{ key = "player_name", value = "Tilia" }
+text{ key = "menu.status.screenshake", value = "Secousses d'écran" }
+text{ key = "menu.title.corrupted_save", value = "Sauvegarde corrompue !" }
+text{ key = "menu.title.credits", value = "Crédits" }
+text{ key = "menu.title.language", value = "Langues" }
+text{ key = "menu.title.options", value = "Options" }
+
+text{ key = "menu.hud.command_effect.grab", value = "Saisir" }
+text{ key = "menu.hud.command_effect.interact", value = "Interagir" }
+text{ key = "menu.hud.command_effect.lift", value = "Soulever" }
+text{ key = "menu.hud.command_effect.look", value = "Regarder" }
+text{ key = "menu.hud.command_effect.next", value = "Suivant" }
+text{ key = "menu.hud.command_effect.open", value = "Ouvrir" }
+text{ key = "menu.hud.command_effect.run", value = "Courir" }
+text{ key = "menu.hud.command_effect.speak", value = "Parler" }
+text{ key = "menu.hud.command_effect.swim", value = "Nager" }
+text{ key = "menu.hud.command_effect.throw", value = "Lancer" }
+
+text{ key = "options.caption.press_action_change_mode", value = "Appuie sur Action pour ajuster les paramètres" }
+text{ key = "options.caption.press_action_customize_key", value = "Appuie sur Action pour configurer cette touche" }
+text{ key = "options.caption.press_key", value = "Appuie sur n'importe quel bouton ou touche" }
+text{ key = "options.command.action", value = "Action" }
+text{ key = "options.command.attack", value = "Attaquer" }
+text{ key = "options.command.down", value = "Bas" }
+text{ key = "options.command.item_1", value = "Objet 1" }
+text{ key = "options.command.item_2", value = "Objet 2" }
+text{ key = "options.command.left", value = "Gauche" }
+text{ key = "options.command.pause", value = "Pause" }
+text{ key = "options.command.right", value = "Droite" }
+text{ key = "options.command.up", value = "Haut" }
+text{ key = "options.command.prev_item", value = "Menu préc." }
+text{ key = "options.command.menu_1", value = "Menu Inventaire" }
+text{ key = "options.command.menu_2", value = "Journal de quête" }
+text{ key = "options.command.menu_3", value = "Menu Carte" }
+text{ key = "options.command.menu_4", value = "Menu Options" }
+text{ key = "options.command.prev_menu", value = "Menu préc." }
+text{ key = "options.command.next_menu", value = "Menu suiv." }
+text{ key = "options.command.next_item", value = "Menu suiv." }
+text{ key = "options.commands_column", value = "Commande" }
+text{ key = "options.joypad_column", value = "Manette" }
+text{ key = "options.keyboard_column", value = "Clavier" }
+
+text{ key = "selection_menu.options.fullscreen", value = "Plein écran" }
+text{ key = "selection_menu.options.fullscreen_false", value = "Désactivé" }
+text{ key = "selection_menu.options.fullscreen_true", value = "Activé" }
+
+text{ key = "menu.status.stats.armor_level", value = "Niveau d'armure" }
+text{ key = "menu.status.stats.bow_damage", value = "Dégâts de l'arc" }
+text{ key = "menu.status.stats.sword_damage", value = "Dégâts de l'épée" }
+
+text{ key = "menu.crafting.crafting_title", value = "Artisanat" }
+
+text{ key = "menu.inventory.sewn_hud_life", value = "Vie" }
+text{ key = "menu.inventory.sewn_hud_magic", value = "Magie" }

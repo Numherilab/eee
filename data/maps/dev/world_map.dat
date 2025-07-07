@@ -1,0 +1,829 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  min_layer = 0,
+  max_layer = 3,
+  tileset = "oceanheart_outdoors_1",
+}
+
+custom_entity{
+  name = "map_bg",
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/overworld_blank",
+}
+
+custom_entity{
+  name = "landmass_yarrowmouth_island",
+  layer = 1,
+  x = 192,
+  y = 24,
+  width = 128,
+  height = 72,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/yarrowmouth_island",
+}
+
+custom_entity{
+  name = "landmass_oakhaven",
+  layer = 1,
+  x = 56,
+  y = 24,
+  width = 152,
+  height = 88,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/oakhaven",
+}
+
+custom_entity{
+  name = "landmass_goatshead_island",
+  layer = 1,
+  x = 160,
+  y = 104,
+  width = 160,
+  height = 72,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/goatshead_island",
+}
+
+custom_entity{
+  name = "landmass_ballast_island",
+  layer = 1,
+  x = 272,
+  y = 160,
+  width = 96,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/ballast_harbor",
+}
+
+custom_entity{
+  name = "landmass_crabhook",
+  layer = 1,
+  x = 160,
+  y = 112,
+  width = 40,
+  height = 24,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/crabhook",
+}
+
+custom_entity{
+  name = "landmass_crow_island",
+  layer = 1,
+  x = 48,
+  y = 152,
+  width = 88,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/crow_island",
+}
+
+custom_entity{
+  name = "landmass_gull_rock",
+  layer = 1,
+  x = 40,
+  y = 88,
+  width = 48,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/gull_rock",
+}
+
+custom_entity{
+  name = "landmass_isle_of_storms",
+  layer = 1,
+  x = 368,
+  y = 104,
+  width = 32,
+  height = 24,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/isle_of_storms",
+}
+
+custom_entity{
+  name = "landmass_kingsdown_isle",
+  layer = 1,
+  x = 288,
+  y = 72,
+  width = 40,
+  height = 40,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/kingsdown_isle",
+}
+
+custom_entity{
+  name = "landmass_limestone_island",
+  layer = 1,
+  x = 192,
+  y = 152,
+  width = 80,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/limestone_island",
+}
+
+custom_entity{
+  name = "landmass_lobb_trail",
+  layer = 1,
+  x = 184,
+  y = 48,
+  width = 16,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/lobb_trail",
+}
+
+custom_entity{
+  name = "landmass_lotus_shoal",
+  layer = 1,
+  x = 104,
+  y = 128,
+  width = 64,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/lotus_shoal",
+}
+
+custom_entity{
+  name = "landmass_snapmast_landing",
+  layer = 1,
+  x = 320,
+  y = 48,
+  width = 32,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/snapmast_landing",
+}
+
+custom_entity{
+  name = "landmass_snapmast_reef",
+  layer = 1,
+  x = 328,
+  y = 24,
+  width = 64,
+  height = 56,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/snapmast_reef",
+}
+
+custom_entity{
+  name = "landmass_spruce_head",
+  layer = 1,
+  x = 80,
+  y = 136,
+  width = 40,
+  height = 24,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/spruce_head",
+}
+
+custom_entity{
+  name = "landmass_stonefell_crossroads",
+  layer = 1,
+  x = 200,
+  y = 80,
+  width = 48,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/stonefell_crossroads",
+}
+
+custom_entity{
+  name = "landmass_sunken_palace",
+  layer = 1,
+  x = 88,
+  y = 104,
+  width = 48,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/sunken_palace",
+}
+
+custom_entity{
+  name = "landmass_tern_marsh",
+  layer = 1,
+  x = 240,
+  y = 80,
+  width = 48,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/tern_marsh",
+}
+
+custom_entity{
+  name = "landmass_zephyr_bay",
+  layer = 1,
+  x = 248,
+  y = 136,
+  width = 80,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/landmasses/zephyr_bay",
+}
+
+custom_entity{
+  name = "roads_oakhaven",
+  layer = 2,
+  x = 56,
+  y = 24,
+  width = 152,
+  height = 88,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/oakhaven",
+}
+
+custom_entity{
+  name = "roads_yarrowmouth_island",
+  layer = 2,
+  x = 192,
+  y = 24,
+  width = 128,
+  height = 72,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/yarrowmouth_island",
+}
+
+custom_entity{
+  name = "roads_goatshead_island",
+  layer = 2,
+  x = 160,
+  y = 104,
+  width = 160,
+  height = 72,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/goatshead_island",
+}
+
+custom_entity{
+  name = "roads_ballast_island",
+  layer = 2,
+  x = 272,
+  y = 160,
+  width = 96,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/ballast_harbor",
+}
+
+custom_entity{
+  name = "roads_crabhook",
+  layer = 2,
+  x = 160,
+  y = 112,
+  width = 40,
+  height = 24,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/crabhook",
+}
+
+custom_entity{
+  name = "roads_crow_island",
+  layer = 2,
+  x = 48,
+  y = 152,
+  width = 88,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/crow_island",
+}
+
+custom_entity{
+  name = "roads_gull_rock",
+  layer = 2,
+  x = 40,
+  y = 80,
+  width = 48,
+  height = 40,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/gull_rock",
+}
+
+custom_entity{
+  name = "roads_lotus_shoal",
+  layer = 2,
+  x = 104,
+  y = 128,
+  width = 64,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/lotus_shoal",
+}
+
+custom_entity{
+  name = "roads_snapmast_landing",
+  layer = 2,
+  x = 320,
+  y = 48,
+  width = 32,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/snapmast_landing",
+}
+
+custom_entity{
+  name = "roads_snapmast_reef",
+  layer = 2,
+  x = 328,
+  y = 24,
+  width = 64,
+  height = 56,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/snapmast_reef",
+}
+
+custom_entity{
+  name = "roads_spruce_head",
+  layer = 2,
+  x = 80,
+  y = 128,
+  width = 40,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/spruce_head",
+}
+
+custom_entity{
+  name = "roads_stonefell_crossroads",
+  layer = 2,
+  x = 200,
+  y = 80,
+  width = 48,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/stonefell_crossroads",
+}
+
+custom_entity{
+  name = "roads_tern_marsh",
+  layer = 2,
+  x = 240,
+  y = 80,
+  width = 48,
+  height = 32,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/tern_marsh",
+}
+
+custom_entity{
+  name = "roads_zephyr_bay",
+  layer = 2,
+  x = 248,
+  y = 136,
+  width = 80,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/zephyr_bay",
+}
+
+custom_entity{
+  name = "roads_limestone_island",
+  layer = 2,
+  x = 192,
+  y = 152,
+  width = 80,
+  height = 48,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/roads/limestone",
+}
+
+custom_entity{
+  name = "marker_ballast_harbor",
+  layer = 3,
+  x = 331,
+  y = 164,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/ballast_harbor",
+}
+
+custom_entity{
+  name = "marker_crabhook",
+  layer = 3,
+  x = 172,
+  y = 113,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/crabhook",
+}
+
+custom_entity{
+  name = "marker_fort_crow",
+  layer = 3,
+  x = 61,
+  y = 159,
+  width = 8,
+  height = 8,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/fortress",
+}
+
+custom_entity{
+  name = "marker_goatshead",
+  layer = 3,
+  x = 252,
+  y = 119,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/goatshead",
+}
+
+custom_entity{
+  name = "marker_ivystump",
+  layer = 3,
+  x = 157,
+  y = 34,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/ivystump",
+}
+
+custom_entity{
+  name = "marker_kingsdown_isle",
+  layer = 3,
+  x = 306,
+  y = 79,
+  width = 8,
+  height = 8,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/fortress",
+}
+
+custom_entity{
+  name = "marker_limestone",
+  layer = 3,
+  x = 245,
+  y = 184,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/limestone",
+}
+
+custom_entity{
+  name = "marker_marblecliff",
+  layer = 3,
+  x = 77,
+  y = 30,
+  width = 8,
+  height = 8,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/fortress",
+}
+
+custom_entity{
+  name = "marker_spruce_head",
+  layer = 3,
+  x = 98,
+  y = 137,
+  width = 8,
+  height = 8,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/fortress",
+}
+
+custom_entity{
+  name = "marker_yarrowmouth",
+  layer = 3,
+  x = 266,
+  y = 66,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/yarrowmouth",
+}
+
+custom_entity{
+  name = "marker_oakhaven",
+  layer = 3,
+  x = 116,
+  y = 48,
+  width = 16,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/oakhaven",
+}
+
+custom_entity{
+  name = "text_limestone",
+  layer = 3,
+  x = 253,
+  y = 183,
+  width = 32,
+  height = 16,
+  origin_x = 13,
+  origin_y = 11,
+  direction = 0,
+  sprite = "menus/maps/text/text_bottom_center",
+}
+
+custom_entity{
+  name = "text_crabhook",
+  layer = 3,
+  x = 178,
+  y = 112,
+  width = 32,
+  height = 16,
+  origin_x = 13,
+  origin_y = 11,
+  direction = 0,
+  sprite = "menus/maps/text/text_bottom_center",
+}
+
+custom_entity{
+  name = "text_goatshead",
+  layer = 3,
+  x = 250,
+  y = 117,
+  width = 32,
+  height = 16,
+  origin_x = 13,
+  origin_y = 11,
+  direction = 0,
+  sprite = "menus/maps/text/text_bottom_center",
+}
+
+custom_entity{
+  name = "text_yarrowmouth",
+  layer = 3,
+  x = 269,
+  y = 59,
+  width = 24,
+  height = 16,
+  origin_x = 13,
+  origin_y = 5,
+  direction = 0,
+  sprite = "menus/maps/text/text_middle_center",
+}
+
+custom_entity{
+  name = "text_ballast_harbor",
+  layer = 3,
+  x = 337,
+  y = 162,
+  width = 24,
+  height = 16,
+  origin_x = 13,
+  origin_y = 11,
+  direction = 0,
+  sprite = "menus/maps/text/text_bottom_center",
+}
+
+custom_entity{
+  name = "text_oakport",
+  layer = 3,
+  x = 109,
+  y = 88,
+  width = 32,
+  height = 16,
+  origin_x = 0,
+  origin_y = 5,
+  direction = 0,
+  sprite = "menus/maps/text/text_middle_left",
+}
+
+custom_entity{
+  name = "text_zephyr_bay",
+  layer = 3,
+  x = 242,
+  y = 159,
+  width = 32,
+  height = 16,
+  origin_x = 0,
+  origin_y = 5,
+  direction = 0,
+  sprite = "menus/maps/text/text_middle_left",
+}
+
+custom_entity{
+  name = "text_oakhaven",
+  layer = 3,
+  x = 122,
+  y = 64,
+  width = 24,
+  height = 16,
+  origin_x = 13,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_center",
+}
+
+custom_entity{
+  name = "text_ivystump",
+  layer = 3,
+  x = 189,
+  y = 28,
+  width = 24,
+  height = 16,
+  origin_x = 13,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_center",
+}
+
+custom_entity{
+  name = "text_marblecliff",
+  layer = 3,
+  x = 96,
+  y = 36,
+  width = 24,
+  height = 16,
+  origin_x = 25,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_right",
+}
+
+custom_entity{
+  name = "text_kingsdown_isle",
+  layer = 3,
+  x = 315,
+  y = 87,
+  width = 24,
+  height = 16,
+  origin_x = 13,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_center",
+}
+
+custom_entity{
+  name = "text_spruce_head",
+  layer = 3,
+  x = 88,
+  y = 131,
+  width = 24,
+  height = 16,
+  origin_x = 25,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_right",
+}
+
+custom_entity{
+  name = "text_lotus_shoal",
+  layer = 3,
+  x = 141,
+  y = 167,
+  width = 24,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_left",
+}
+
+custom_entity{
+  name = "text_tern_marsh",
+  layer = 3,
+  x = 255,
+  y = 79,
+  width = 24,
+  height = 16,
+  origin_x = 13,
+  origin_y = 5,
+  direction = 0,
+  sprite = "menus/maps/text/text_middle_center",
+}
+
+custom_entity{
+  name = "text_fort_crow",
+  layer = 3,
+  x = 34,
+  y = 159,
+  width = 24,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_left",
+}
+
+custom_entity{
+  name = "text_isle_of_storms",
+  layer = 3,
+  x = 389,
+  y = 114,
+  width = 24,
+  height = 16,
+  origin_x = 25,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_right",
+}
+
+custom_entity{
+  name = "text_snapmast_reef",
+  layer = 3,
+  x = 349,
+  y = 70,
+  width = 24,
+  height = 16,
+  origin_x = 0,
+  origin_y = 0,
+  direction = 0,
+  sprite = "menus/maps/text/text_top_left",
+}
+

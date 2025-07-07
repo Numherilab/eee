@@ -1,0 +1,265 @@
+text{ key = "action.back", value = "Atrás" }
+text{ key = "controls.action", value = "Interactuar/Rodar" }
+text{ key = "controls.item1", value = "Objeto 1" }
+text{ key = "controls.item2", value = "Objeto 2" }
+text{ key = "controls.move", value = "Moverse" }
+text{ key = "controls.pause", value = "Pausa" }
+text{ key = "controls.quick_menus", value = "Menús rápidos" }
+text{ key = "controls.fullscreen", value = "Pantalla completa" }
+text{ key = "controls.f1", value = "Controles" }
+text{ key = "controls.switch_subscreen", value = "Desplazarse por los menús" }
+text{ key = "controls.sword", value = "Espada/Salir" }
+text{ key = "item.abyssal_flame.1", value = "Llama abisal" }
+text{ key = "item.apples.1", value = "Manzanas" }
+text{ key = "item.armor_tools.1", value = "Herramientas de armero" }
+text{ key = "item.aster_note.1", value = "Nota de amenaza" }
+text{ key = "item.ball_and_chain.1", value = "Mangual" }
+text{ key = "item.ball_and_chain.2", value = "Mangual de caos explosivo" }
+text{ key = "item.barrier.1", value = "Barrera de Devana" }
+text{ key = "item.berries.1", value = "Bayas" }
+text{ key = "item.bomb_arrow_ticket.1", value = "Planos de flechas explosivas" }
+text{ key = "item.bombs_counter_2.1", value = "Bombas" }
+text{ key = "item.boomerang.1", value = "Bumerán" }
+text{ key = "item.boomerang.2", value = "Bumerán Plumacuervo" }
+text{ key = "item.bow.1", value = "Arco" }
+text{ key = "item.bow_bombs.1", value = "Flechas bomba" }
+text{ key = "item.bow_fire.1", value = "Flechas incendiarias" }
+text{ key = "item.bow_warp.1", value = "Amuleto de distorsión" }
+text{ key = "item.bread.1", value = "Pan de roble bur" }
+text{ key = "item.burdock.1", value = "Raíces de bardana" }
+text{ key = "item.chamomile.1", value = "Flores de manzanilla" }
+text{ key = "item.charts.1", value = "Mapas de Álgiton" }
+text{ key = "item.contract.1", value = "Contrato de explotación" }
+text{ key = "item.coral_ore.1", value = "Mena de coral" }
+text{ key = "item.crow_feather.1", value = "Pluma de cuervo" }
+text{ key = "item.crystal_spark.1", value = "Ascua de Ofira" }
+text{ key = "item.cyclone_charm.1", value = "Amuleto de ciclón" }
+text{ key = "item.elixer.1", value = "Elixir Vitae" }
+text{ key = "item.ether_bombs.1", value = "Bombas de éter" }
+text{ key = "item.firethorn_berries.1", value = "Espinos de fuego" }
+text{ key = "item.forsythia.1", value = "Flores de forsythia" }
+text{ key = "item.geode.1", value = "Geodas monstruosas" }
+text{ key = "item.ghost_orchid.1", value = "Orquídeas fantasmales" }
+text{ key = "item.gust.1", value = "Tempestad de Ceferina" }
+text{ key = "item.hideout_chart.1", value = "Mapa a la guarida del Consejo Pirata" }
+text{ key = "item.homing_eye.1", value = "Ojos buscadores" }
+text{ key = "item.honeycomb.1", value = "Panal de avispones" }
+text{ key = "item.iron_candle.1", value = "Velas de sal" }
+text{ key = "item.key_brass.1", value = "Llave de latón" }
+text{ key = "item.key_haunted_house.1", value = "Llave del lago Ocre" }
+text{ key = "item.iron_pinecone.1", value = "Piña de hierro" }
+text{ key = "item.key_juneberry_inn.1", value = "¿Una llave para otra posada?" }
+text{ key = "item.key_juniper_grove.1", value = "Llave de la entrada de la Arboleda de los Enebros" }
+text{ key = "item.key_juniper_grove_2.1", value = "Llave de la puerta interior de la Arboleda de los Enebros" }
+text{ key = "item.key_kingsdown.1", value = "Llave de Malvin" }
+text{ key = "item.key_mead_safehouse.1", value = "Llave de miel pegajosa" }
+text{ key = "item.key_mushroom_spot.1", value = "Llave del rincón de setas" }
+text{ key = "item.key_shoal_pirate_fort.1", value = "Llave del fuerte del Atolón del Loto" }
+text{ key = "item.key_poplar_shack.1", value = "Llave cubierta de musgo" }
+text{ key = "item.key_sinking_lighthouse.1", value = "Llave de las ruinas Destellomarino" }
+text{ key = "item.key_thrush_fort.1", value = "Llave de Fuerte Zorzal" }
+text{ key = "item.kingscrown.1", value = "Flores de rosea" }
+text{ key = "item.lavendar.1", value = "Flores de lavanda" }
+text{ key = "item.leaf_tornado.1", value = "Ira de Guillomo" }
+text{ key = "item.machine_part.1", value = "Pieza mecánica" }
+text{ key = "item.mandrake.1", value = "Raíz de mandrágora" }
+text{ key = "item.mandrake_white.1", value = "Raíces de mandrágora blanca" }
+text{ key = "item.manna_oak_letter.1", value = "Carta de roble del maná" }
+text{ key = "item.manna_oak_twig.1", value = "Rama de roble del maná" }
+text{ key = "item.monkshood.1", value = "Pétalos de acónito" }
+text{ key = "item.monster_bones.1", value = "Huesos de no muerto" }
+text{ key = "item.monster_eye.1", value = "Ojos malignos" }
+text{ key = "item.monster_guts.1", value = "Tripas de monstruo" }
+text{ key = "item.monster_horn.1", value = "Cuernos de bestia" }
+text{ key = "item.monster_heart.1", value = "Corazones abisales" }
+text{ key = "item.oceansheart_chart.1", value = "Mapa de la isla Tormentosa" }
+text{ key = "item.oranges_shipment.1", value = "Caja de naranjas" }
+text{ key = "item.potion_burlyblade.1", value = "Poción de hojafuerte" }
+text{ key = "item.potion_fleetseed.1", value = "Poción de semillarápida" }
+text{ key = "item.potion_magic_restoration.1", value = "Poción de restauración mágica" }
+text{ key = "item.potion_stoneskin.1", value = "Poción de pielpétrea" }
+text{ key = "item.prize_money.1", value = "Dinero del premio (200 coronas)" }
+text{ key = "item.sleeping_draught.1", value = "Poción relajante" }
+text{ key = "item.spear.1", value = "Lanza de los Guerreros Oso" }
+text{ key = "item.spear.2", value = "Lanza de girasol" }
+text{ key = "item.stone_beak.1", value = "¿Una piedra con forma de pico?" }
+text{ key = "item.sword_of_the_sea_king.1", value = "Espada del rey del mar" }
+text{ key = "item.thunder_charm.1", value = "Lágrima de ave marina" }
+text{ key = "item.thunder_charm.2", value = "Lágrima de ave marina" }
+text{ key = "item.thunder_charm.3", value = "Lágrima de ave marina" }
+text{ key = "item.thunder_charm.4", value = "Lágrima de ave marina" }
+text{ key = "item.thunder_charm.5", value = "Lágrima de ave marina" }
+text{ key = "item.tungsten_ore.1", value = "Mena de tungsteno" }
+text{ key = "item.whisky_for_juglan.1", value = "Wiski" }
+text{ key = "item.witch_hazel.1", value = "Flores de hamamelis" }
+text{ key = "item_desc.apples.2", value = "Manzanas (3): cada una cura dos corazones" }
+text{ key = "item_desc.apples.4", value = "Manzanas (10): cada una cura dos corazones" }
+text{ key = "item_desc.arrow.3", value = "Flechas (5)" }
+text{ key = "item_desc.arrow.5", value = "Flechas (20)" }
+text{ key = "item_desc.berries.3", value = "Bayas (5): cada una cura medio corazón" }
+text{ key = "item_desc.berries.4", value = "Bayas (20): cada una cura medio corazón" }
+text{ key = "item_desc.bomb.3", value = "Bombas (5)" }
+text{ key = "item_desc.bomb.4", value = "Bombas (10)" }
+text{ key = "item_desc.bread.2", value = "Pan de roble bur (5): cada unidad cura cinco corazones" }
+text{ key = "item_desc.bread.3", value = "Pan de roble bur (10): cada unidad cura cinco corazones" }
+text{ key = "item_desc.elixer.1", value = "Elixir: recupera la salud o te revive tras inconsciencia" }
+text{ key = "item_desc.potion_burlyblade.1", value = "Poción de hojafuerte: inflige x1,5 de daño durante 4 min." }
+text{ key = "item_desc.potion_magic_restoration.1", value = "Poción mágica: restaura el poder mágico" }
+text{ key = "item_desc.potion_stoneskin.1", value = "Poción de pielpétrea: recibe la mitad de daño durante 4 min." }
+text{ key = "item_desc.unattainable_collectable.1", value = "" }
+text{ key = "key1.false", value = "sub 1 is bad" }
+text{ key = "key1.true", value = "sub 1 is good" }
+text{ key = "key2.false", value = "I think so" }
+text{ key = "key2.true", value = "really?" }
+text{ key = "location.abyss", value = "El Abismo" }
+text{ key = "location.amalenchier_tomb", value = "Tumba de Guillomo" }
+text{ key = "location.ballast_harbor", value = "Puerto Lastre" }
+text{ key = "location.bear_catacombs", value = "Catacumbas de los Guerreros Oso" }
+text{ key = "location.council_building", value = "Puesto de avanzada pirata" }
+text{ key = "location.crabhook_village", value = "Aldea Ganchocangrejo" }
+text{ key = "location.cursed_temple", value = "Templo maldito" }
+text{ key = "location.drowned_village", value = "La Aldea Sumergida" }
+text{ key = "location.eastoak", value = "Fuerte Cuervo" }
+text{ key = "location.puzzlewood", value = "El bosque Enigmático" }
+text{ key = "location.forest_of_tides", value = "Bosque de las Mareas" }
+text{ key = "location.fykonos", value = "Isla Ficonos" }
+text{ key = "location.ghost_ship", value = "Salvación de Ceferina" }
+text{ key = "location.goatshead_harbor", value = "Puerto Abrojo" }
+text{ key = "location.goatshead_island", value = "Isla Abrojo" }
+text{ key = "location.gull_rock", value = "Roca Gaviota" }
+text{ key = "location.hourglass_fort", value = "Fuerte Reloj de arena" }
+text{ key = "location.isle_of_storms", value = "Isla Tormentosa" }
+text{ key = "location.ivystump", value = "Aldea Hiedratocón" }
+text{ key = "location.kingsdown", value = "Isla Reybajo" }
+text{ key = "location.lighthouse", value = "Faro derruido" }
+text{ key = "location.limestone_island", value = "Isla Caliza" }
+text{ key = "location.limestone_present", value = "Isla Caliza" }
+text{ key = "location.lobb_trail", value = "Estrecho Espinoso" }
+text{ key = "location.lotus_shoal", value = "Atolón del Loto" }
+text{ key = "location.marblecliff", value = "Montaña Acantimármol" }
+text{ key = "location.naerreturn_bay", value = "Bahía Céfiro" }
+text{ key = "location.oakhaven", value = "Refugiorroble" }
+text{ key = "location.palace_gardens", value = "Palacio de Refugiorroble" }
+text{ key = "location.palace_gardens_chase_sequence", value = "Palacio de Refugiorroble" }
+text{ key = "location.poplar_coast", value = "Cabeza Pícea" }
+text{ key = "location.poplar_forest", value = "Bosque de los Álamos" }
+text{ key = "location.port", value = "Puerto de Refugiorroble" }
+text{ key = "location.shipwreck_chain", value = "Cementerio de las Olas" }
+text{ key = "location.silent_glade", value = "Claro secreto" }
+text{ key = "location.silent_glade_health", value = "Tumba del último jefe" }
+text{ key = "location.smoldering_rock", value = "Roca Ardiente" }
+text{ key = "location.snapmast", value = "Arrecife Rompemástil" }
+text{ key = "location.snapmast_landing", value = "Arrecife Rompemástil" }
+text{ key = "location.spruce_head", value = "Cabeza Pícea" }
+text{ key = "location.spruce_head_shrine", value = "Santuario de Cabeza Pícea" }
+text{ key = "location.stonefell_crossroads", value = "Cruce de Colinapétrea" }
+text{ key = "location.sunken_palace", value = "Palacio hundido" }
+text{ key = "location.tern_marsh", value = "Ciénaga Charrán" }
+text{ key = "location.thrush_fort", value = "Tumba de Pinzón" }
+text{ key = "location.umber_lake", value = "Lago Ocre"}
+text{ key = "location.veilwood", value = "Bosquevelado" }
+text{ key = "location.west_coast", value = "Roble Oeste" }
+text{ key = "location.willow_palace", value = "Palacio Sauce" }
+text{ key = "location.yarrowmouth", value = "Bocamilenrama" }
+text{ key = "location.yarrowmouth_village", value = "Aldea Bocamilenrama" }
+text{ key = "location.zephyr_bay", value = "Bahía Céfiro" }
+text{ key = "menu.map.limestone", value = "CALIZA" }
+text{ key = "menu.map.ballast_harbor", value = "PUERTO\\nLASTRE" }
+text{ key = "menu.map.zephyr_bay", value = "BOSQUE\\nDE LAS MAREAS" }
+text{ key = "menu.map.goatshead", value = "ABROJO" }
+text{ key = "menu.map.crabhook", value = "GANCHOCANGREJO" }
+text{ key = "menu.map.lotus_shoal", value = "ATOLÓN\\nDEL LOTO" }
+text{ key = "menu.map.spruce_head", value = "CABEZA\\nPÍCEA" }
+text{ key = "menu.map.fort_crow", value = "FUERTE\\nCUERVO" }
+text{ key = "menu.map.tern_marsh", value = "CIÉNAGA\\nCHARRÁN" }
+text{ key = "menu.map.kingsdown_isle", value = "ISLA\\nREYBAJO" }
+text{ key = "menu.map.snapmast_reef", value = "ARRECIFE\\nROMPEMÁSTIL" }
+text{ key = "menu.map.yarrowmouth", value = "BOCAMILENRAMA" }
+text{ key = "menu.map.oakport", value = "PUERTO\\nROBLE" }
+text{ key = "menu.map.oakhaven", value = "REFUGIORROBLE" }
+text{ key = "menu.map.ivystump", value = "HIEDRATOCÓN" }
+text{ key = "menu.map.marblecliff", value = "ACANTIMÁRMOL" }
+text{ key = "menu.map.isle_of_storms", value = "ISLA\\nTORMENTOSA" }
+text{ key = "menu.potion_expired", value = "Efecto de poción agotado" }
+text{ key = "menu.quest_log.back_prompt", value = "D: Atrás" }
+text{ key = "menu.quest_log.main_quests_tab", value = "Misiones\\nprincipales" }
+text{ key = "menu.quest_log.no_main_quests", value = "No tienes misiones principales" }
+text{ key = "menu.quest_log.no_side_quests", value = "No tienes misiones secundarias" }
+text{ key = "menu.quest_log.quest_log_update", value = "Lista de misiones actualizada" }
+text{ key = "menu.quest_log.quests_count", value = "Has completado $v1 de $v2" }
+text{ key = "menu.quest_log.side_quests_tab", value = "Misiones\\nsecundarias" }
+text{ key = "menu.quest_log.title", value = "Lista de misiones" }
+text{ key = "menu.quest_update.quest_log_complete", value = "¡Misión completada!" }
+text{ key = "menu.quest_update.quest_updated", value = "Lista de misiones actualizada" }
+text{ key = "menu.sell.item_price", value = "%d coronas" }
+text{ key = "menu.shop.item_price", value = "Precio: %2d coronas" }
+text{ key = "menu.status.save", value = "Guardar" }
+text{ key = "menu.status.quit", value = "Salir" }
+text{ key = "menu.status.controls", value = "Controles" }
+text{ key = "menu.status.music", value = "Música" }
+text{ key = "menu.status.sounds", value = "Sonido" }
+text{ key = "menu.status.dialog_size", value = "Tamaño texto" }
+text{ key = "menu.title.cancel", value = "Cancelar" }
+text{ key = "menu.title.confirm", value = "Confirmar" }
+text{ key = "menu.title.continue", value = "Continuar" }
+text{ key = "menu.title.demo", value = "Demo" }
+text{ key = "menu.title.new_game", value = "Partida nueva" }
+text{ key = "menu.title.quit", value = "Salir" }
+text{ key = "menu.title.full_demo", value = "Demo completa" }
+text{ key = "menu.title.beach_demo", value = "Playa" }
+text{ key = "menu.title.boss_demo", value = "Jefe" }
+text{ key = "menu.title.clear_save", value = "Eliminar\\nguardado" }
+text{ key = "player_name", value = "Tilia" }
+text{ key = "menu.status.screenshake", value = "Agitar pantalla" }
+text{ key = "menu.title.corrupted_save", value = "¡Archivo de guardado corrupto!" }
+text{ key = "menu.title.credits", value = "Créditos" }
+text{ key = "menu.title.language", value = "Idioma" }
+text{ key = "menu.title.options", value = "Opciones" }
+
+text{ key = "menu.hud.command_effect.grab", value = "Agarrar" }
+text{ key = "menu.hud.command_effect.interact", value = "Interactuar" }
+text{ key = "menu.hud.command_effect.lift", value = "Levantar" }
+text{ key = "menu.hud.command_effect.look", value = "Mirar" }
+text{ key = "menu.hud.command_effect.next", value = "Siguiente" }
+text{ key = "menu.hud.command_effect.open", value = "Abrir" }
+text{ key = "menu.hud.command_effect.run", value = "Correr" }
+text{ key = "menu.hud.command_effect.speak", value = "Hablar" }
+text{ key = "menu.hud.command_effect.swim", value = "Nadar" }
+text{ key = "menu.hud.command_effect.throw", value = "Lanzar" }
+
+text{ key = "options.caption.press_action_change_mode", value = "Pulsa Acción para ajustar la configuración" }
+text{ key = "options.caption.press_action_customize_key", value = "Pulsa Acción para configurar esta tecla" }
+text{ key = "options.caption.press_key", value = "Pulsa cualquier tecla o botón" }
+text{ key = "options.command.action", value = "Acción" }
+text{ key = "options.command.attack", value = "Atacar" }
+text{ key = "options.command.down", value = "Abajo" }
+text{ key = "options.command.item_1", value = "Objeto 1" }
+text{ key = "options.command.item_2", value = "Objeto 2" }
+text{ key = "options.command.left", value = "Izquierda" }
+text{ key = "options.command.pause", value = "Pausa" }
+text{ key = "options.command.right", value = "Derecha" }
+text{ key = "options.command.up", value = "Arriba" }
+text{ key = "options.command.prev_item", value = "Menú anterior" }
+text{ key = "options.command.menu_1", value = "Inventario" }
+text{ key = "options.command.menu_2", value = "Lista de misiones" }
+text{ key = "options.command.menu_3", value = "Mapa" }
+text{ key = "options.command.menu_4", value = "Opciones" }
+text{ key = "options.command.prev_menu", value = "Menú anterior" }
+text{ key = "options.command.next_menu", value = "Menú siguiente" }
+text{ key = "options.command.next_item", value = "Menú siguiente" }
+text{ key = "options.commands_column", value = "Comando" }
+text{ key = "options.joypad_column", value = "Mando" }
+text{ key = "options.keyboard_column", value = "Teclado" }
+
+text{ key = "selection_menu.options.fullscreen", value = "Pantalla completa" }
+text{ key = "selection_menu.options.fullscreen_false", value = "Desactivado" }
+text{ key = "selection_menu.options.fullscreen_true", value = "Activado" }
+
+text{ key = "menu.status.stats.armor_level", value = "Nivel de armadura" }
+text{ key = "menu.status.stats.bow_damage", value = "Daño de arco" }
+text{ key = "menu.status.stats.sword_damage", value = "Daño de espada" }
+
+text{ key = "menu.crafting.crafting_title", value = "Creación" }
+
+text{ key = "menu.inventory.sewn_hud_life", value = "Vida" }
+text{ key = "menu.inventory.sewn_hud_magic", value = "Magia" }

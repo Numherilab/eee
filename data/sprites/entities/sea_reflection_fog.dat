@@ -1,0 +1,9 @@
+animation{
+  name = "stopped",
+  src_image = "entities/sea_reflection_fog.png",
+  frame_delay = 300,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 48, frame_height = 48, origin_x = 0, origin_y = 0, num_frames = 4, num_columns = 1 },
+  },
+}

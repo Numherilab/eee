@@ -1,0 +1,67 @@
+animation{
+  name = "walking",
+  src_image = "enemies/bosses/crow_mech.png",
+  frame_delay = 200,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 4 },
+    { x = 0, y = 48, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 4 },
+    { x = 0, y = 144, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 4 },
+  },
+}
+animation{
+  name = "attack",
+  src_image = "enemies/bosses/crow_mech.png",
+  frame_delay = 250,
+  directions = {
+    { x = 448, y = 0, frame_width = 64, frame_height = 48, origin_x = 24, origin_y = 45 },
+    { x = 448, y = 48, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45 },
+    { x = 448, y = 96, frame_width = 64, frame_height = 48, origin_x = 40, origin_y = 45 },
+    { x = 448, y = 144, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45 },
+  },
+}
+animation{
+  name = "flail_wind_up",
+  src_image = "enemies/bosses/crow_mech.png",
+  directions = {
+    { x = 288, y = 0, frame_width = 64, frame_height = 48, origin_x = 32, origin_y = 45 },
+    { x = 288, y = 48, frame_width = 64, frame_height = 48, origin_x = 32, origin_y = 45 },
+    { x = 288, y = 96, frame_width = 64, frame_height = 48, origin_x = 32, origin_y = 45 },
+    { x = 288, y = 144, frame_width = 64, frame_height = 48, origin_x = 32, origin_y = 45 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/bosses/crow_mech.png",
+  frame_delay = 110,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 192, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+    { x = 192, y = 48, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+    { x = 192, y = 96, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+    { x = 192, y = 144, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/bosses/crow_mech.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45 },
+    { x = 0, y = 48, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45 },
+    { x = 0, y = 96, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45 },
+    { x = 0, y = 144, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45 },
+  },
+}
+animation{
+  name = "wind_up",
+  src_image = "enemies/bosses/crow_mech.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 352, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+    { x = 352, y = 48, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+    { x = 352, y = 96, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+    { x = 352, y = 144, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 45, num_frames = 2 },
+  },
+}

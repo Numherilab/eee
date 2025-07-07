@@ -1,0 +1,20 @@
+This file contains the license for Ocean's Heart.
+
+- The Solarus engine is licensed under the terms of the GNU General Public License
+in version 3. Information and source code can be found at https://www.solarus-games.org/
+
+- Lua scripts are licensed under the terms of the GNU General Public License
+in version 3, unless specifically licensed otherwise in the text of the script.
+
+- Music, sound effects, scenario, level design, and graphics are created by Max Mraz.
+All rights reserved.
+
+- However, some assets in particular are licensed under the
+Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+These can be found, among other assets, at https://gitlab.com/solarus-games/solarus-free-resource-pack
+
+This game was made by Max Mraz.
+
+Additional programming by Llamazing
+
+Special thanks to the Solarus Team and community for all their help.

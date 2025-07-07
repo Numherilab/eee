@@ -1,0 +1,11 @@
+animation{
+  name = "stopped",
+  src_image = "enemies/bosses/abyss_beast.png",
+  frame_delay = 100,
+  directions = {
+    { x = 0, y = 192, frame_width = 48, frame_height = 112, origin_x = 24, origin_y = 109, num_frames = 6 },
+    { x = 0, y = 192, frame_width = 48, frame_height = 112, origin_x = 24, origin_y = 109, num_frames = 6 },
+    { x = 0, y = 192, frame_width = 48, frame_height = 112, origin_x = 24, origin_y = 109, num_frames = 6 },
+    { x = 0, y = 192, frame_width = 48, frame_height = 112, origin_x = 24, origin_y = 109, num_frames = 6 },
+  },
+}

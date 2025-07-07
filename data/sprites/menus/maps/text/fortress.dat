@@ -1,0 +1,7 @@
+animation{
+  name = "default",
+  src_image = "menus/maps/text/fortress.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 7, frame_height = 4, origin_x = 0, origin_y = 0 },
+  },
+}

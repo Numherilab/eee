@@ -1,0 +1,94 @@
+animation{
+  name = "walking",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 250,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 8, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 0, y = 40, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 0, y = 72, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 0, y = 104, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+  },
+}
+animation{
+  name = "attack",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 130,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 192, y = 8, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 192, y = 40, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 192, y = 72, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 192, y = 104, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+  },
+}
+animation{
+  name = "burrowing",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 210,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 256, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 2 },
+    { x = 256, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 2 },
+    { x = 256, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 2 },
+    { x = 256, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 2 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 64, y = 8, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 64, y = 40, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 64, y = 72, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 64, y = 104, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 250,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 8, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 0, y = 40, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 0, y = 72, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 0, y = 104, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+  },
+}
+animation{
+  name = "shaking",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 200,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 128, y = 8, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 128, y = 40, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 128, y = 72, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 128, y = 104, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+  },
+}
+animation{
+  name = "shooting",
+  src_image = "enemies/normal_enemies/kappa.png",
+  frame_delay = 200,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 192, y = 8, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 192, y = 40, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 192, y = 72, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+    { x = 192, y = 104, frame_width = 32, frame_height = 24, origin_x = 16, origin_y = 21, num_frames = 2 },
+  },
+}
+animation{
+  name = "underground",
+  src_image = "enemies/normal_enemies/kappa.png",
+  directions = {
+    { x = 256, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 256, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 256, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 256, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+  },
+}

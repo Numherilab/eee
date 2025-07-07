@@ -1,0 +1,79 @@
+animation{
+  name = "stopped",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 150,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+  },
+}
+animation{
+  name = "feather",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 80,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 16, origin_x = 8, origin_y = 13, num_frames = 6 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 192, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 2 },
+    { x = 192, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 2 },
+    { x = 192, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 2 },
+    { x = 192, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 2 },
+  },
+}
+animation{
+  name = "raise_wings",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 100,
+  directions = {
+    { x = 0, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61, num_frames = 4 },
+  },
+}
+animation{
+  name = "teleporting",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 60,
+  directions = {
+    { x = 0, y = 160, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 160, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 160, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 160, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 150,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+    { x = 0, y = 16, frame_width = 48, frame_height = 64, origin_x = 24, origin_y = 61, num_frames = 4 },
+  },
+}
+animation{
+  name = "wings_up",
+  src_image = "enemies/bosses/crow_lord.png",
+  frame_delay = 210,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 336, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61 },
+    { x = 336, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61 },
+    { x = 336, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61 },
+    { x = 336, y = 96, frame_width = 112, frame_height = 64, origin_x = 56, origin_y = 61 },
+  },
+}

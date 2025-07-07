@@ -1,0 +1,268 @@
+text{ key = "action.back", value = "Back" }
+text{ key = "controls.action", value = "Interact/Roll" }
+text{ key = "controls.item1", value = "Item 1" }
+text{ key = "controls.item2", value = "Item 2" }
+text{ key = "controls.move", value = "Move" }
+text{ key = "controls.pause", value = "Pause" }
+text{ key = "controls.quick_menus", value = "Quick Menus" }
+text{ key = "controls.fullscreen", value = "Fullscreen" }
+text{ key = "controls.f1", value = "Controls" }
+text{ key = "controls.switch_subscreen", value = "Scroll Menus" }
+text{ key = "controls.sword", value = "Sword/Exit" }
+text{ key = "item.abyssal_flame.1", value = "Abyssal Flame" }
+text{ key = "item.apples.1", value = "Apples" }
+text{ key = "item.armor_tools.1", value = "Armorer's Tool Set" }
+text{ key = "item.aster_note.1", value = "Threatening Note" }
+text{ key = "item.ball_and_chain.1", value = "Flail" }
+text{ key = "item.ball_and_chain.2", value = "Explosive Chaos Flail" }
+text{ key = "item.barrier.1", value = "Devana's Barrier" }
+text{ key = "item.berries.1", value = "Berries" }
+text{ key = "item.bomb_arrow_ticket.1", value = "Explosive Arrow Plans" }
+text{ key = "item.bombs_counter_2.1", value = "Bombs" }
+text{ key = "item.boomerang.1", value = "Boomerang" }
+text{ key = "item.boomerang.2", value = "Crowfeather Boomerang" }
+text{ key = "item.bow.1", value = "Bow" }
+text{ key = "item.bow_bombs.1", value = "Bomb Arrows" }
+text{ key = "item.bow_fire.1", value = "Flame Arrows" }
+text{ key = "item.bow_warp.1", value = "Warpbolt Charm" }
+text{ key = "item.bread.1", value = "Burroak Bread" }
+text{ key = "item.burdock.1", value = "Burdock Roots" }
+text{ key = "item.chamomile.1", value = "Chamomile Flowers" }
+text{ key = "item.charts.1", value = "Kelpton's Charts" }
+text{ key = "item.contract.1", value = "Exploitative Contract" }
+text{ key = "item.coral_ore.1", value = "Coral Ore" }
+text{ key = "item.crow_feather.1", value = "Crow Feather" }
+text{ key = "item.crystal_spark.1", value = "Ophira's Ember" }
+text{ key = "item.cyclone_charm.1", value = "Cyclone Charm" }
+text{ key = "item.elixer.1", value = "Elixir Vitae" }
+text{ key = "item.ether_bombs.1", value = "Ether Bombs" }
+text{ key = "item.firethorn_berries.1", value = "Firethorn Berries" }
+text{ key = "item.forsythia.1", value = "Forsythia Flowers" }
+text{ key = "item.geode.1", value = "Monster Geodes" }
+text{ key = "item.ghost_orchid.1", value = "Ghost Orchids" }
+text{ key = "item.gust.1", value = "Zephyrine's Tempest" }
+text{ key = "item.hideout_chart.1", value = "Pirate Council Hideout Chart" }
+text{ key = "item.homing_eye.1", value = "Seeker Eyes" }
+text{ key = "item.honeycomb.1", value = "Hornet Honeycomb" }
+text{ key = "item.iron_candle.1", value = "Salt Candles" }
+text{ key = "item.key_brass.1", value = "Brass Key" }
+text{ key = "item.key_haunted_house.1", value = "Key from Lake Umber" }
+text{ key = "item.iron_pinecone.1", value = "Iron Pinecone" }
+text{ key = "item.key_juneberry_inn.1", value = "Key to Another Inn?" }
+text{ key = "item.key_juniper_grove.1", value = "Juniper Grove Entrance Key" }
+text{ key = "item.key_juniper_grove_2.1", value = "Juniper Grove Inner Gate Key" }
+text{ key = "item.key_kingsdown.1", value = "Mallow's Key" }
+text{ key = "item.key_mead_safehouse.1", value = "Sticky Honey Key" }
+text{ key = "item.key_mushroom_spot.1", value = "Key to Mushroom Picking Spot" }
+text{ key = "item.key_shoal_pirate_fort.1", value = "Lotus Shoal Fort Key" }
+text{ key = "item.key_poplar_shack.1", value = "Mossy Key" }
+text{ key = "item.key_sinking_lighthouse.1", value = "Seaglint Ruins Key" }
+text{ key = "item.key_thrush_fort.1", value = "Thrush Fort Key" }
+text{ key = "item.kingscrown.1", value = "Kingscrown Blooms" }
+text{ key = "item.lavendar.1", value = "Lavendar Flowers" }
+text{ key = "item.leaf_tornado.1", value = "Amalenchier's Wrath" }
+text{ key = "item.machine_part.1", value = "Machine Part" }
+text{ key = "item.mandrake.1", value = "Mandrake Root" }
+text{ key = "item.mandrake_white.1", value = "White Mandrake Roots" }
+text{ key = "item.manna_oak_letter.1", value = "Manna Oak Letter" }
+text{ key = "item.manna_oak_twig.1", value = "Manna Oak Twig" }
+text{ key = "item.monkshood.1", value = "Monkshood Petals" }
+text{ key = "item.monster_bones.1", value = "Undead Bones" }
+text{ key = "item.monster_eye.1", value = "Evil Eyes" }
+text{ key = "item.monster_guts.1", value = "Monster Guts" }
+text{ key = "item.monster_horn.1", value = "Beast Horns" }
+text{ key = "item.monster_heart.1", value = "Abyssal Hearts" }
+text{ key = "item.oceansheart_chart.1", value = "Isle of Storms Chart" }
+text{ key = "item.oranges_shipment.1", value = "Box of Oranges" }
+text{ key = "item.potion_burlyblade.1", value = "Burlyblade Potion" }
+text{ key = "item.potion_fleetseed.1", value = "Fleetseed Potion" }
+text{ key = "item.potion_magic_restoration.1", value = "Potion of Magic Restoration" }
+text{ key = "item.potion_stoneskin.1", value = "Stoneskin Potion" }
+text{ key = "item.prize_money.1", value = "Prize Money (200 Crowns)" }
+text{ key = "item.sleeping_draught.1", value = "Sleeping Draught" }
+text{ key = "item.spear.1", value = "Bear Warriors' Spear" }
+text{ key = "item.spear.2", value = "Sunflower Spear" }
+text{ key = "item.stone_beak.1", value = "A Beak-shaped Stone?" }
+text{ key = "item.sword_of_the_sea_king.1", value = "Sword of the Sea King" }
+text{ key = "item.thunder_charm.1", value = "Seabird's Tear" }
+text{ key = "item.thunder_charm.2", value = "Seabird's Tear" }
+text{ key = "item.thunder_charm.3", value = "Seabird's Tear" }
+text{ key = "item.thunder_charm.4", value = "Seabird's Tear" }
+text{ key = "item.thunder_charm.5", value = "Seabird's Tear" }
+text{ key = "item.tungsten_ore.1", value = "Tungsten Ore" }
+text{ key = "item.whisky_for_juglan.1", value = "Whisky" }
+text{ key = "item.witch_hazel.1", value = "Witch Hazel Flowers" }
+text{ key = "item_desc.apples.2", value = "Apples (set of 3) - each heals two hearts" }
+text{ key = "item_desc.apples.4", value = "Apples (set of 10) - each heals two hearts" }
+text{ key = "item_desc.arrow.3", value = "Arrows (qty: 5)" }
+text{ key = "item_desc.arrow.5", value = "Arrows (qty: 20)" }
+text{ key = "item_desc.berries.3", value = "Berries (5 pack) - each heals half a heart" }
+text{ key = "item_desc.berries.4", value = "Berries (20 pack) - each heals half a heart" }
+text{ key = "item_desc.bomb.3", value = "Bombs (qty: 5)" }
+text{ key = "item_desc.bomb.4", value = "Bombs (qty: 10)" }
+text{ key = "item_desc.bread.2", value = "Burroak Bread (5 loaves) - each heals five hearts" }
+text{ key = "item_desc.bread.3", value = "Burroak Bread (10 loaves) - each heals five hearts" }
+text{ key = "item_desc.elixer.1", value = "Elixir - Recovers all health, or revives you after KO" }
+text{ key = "item_desc.potion_burlyblade.1", value = "Burlyblade Potion - Deal 1.5 damage for 4 minutes" }
+text{ key = "item_desc.potion_magic_restoration.1", value = "Magic Potion - Restores your magic power" }
+text{ key = "item_desc.potion_stoneskin.1", value = "Stoneskin Potion - Take half damage for 4 minutes" }
+text{ key = "item_desc.unattainable_collectable.1", value = "" }
+text{ key = "key1.false", value = "sub 1 is bad" }
+text{ key = "key1.true", value = "sub 1 is good" }
+text{ key = "key2.false", value = "I think so" }
+text{ key = "key2.true", value = "really?" }
+text{ key = "location.abyss", value = "The Abyss" }
+text{ key = "location.amalenchier_tomb", value = "Amalenchier's Tomb" }
+text{ key = "location.ballast_harbor", value = "Ballast Harbor" }
+text{ key = "location.bear_catacombs", value = "Bear Warriors' Catacombs" }
+text{ key = "location.council_building", value = "Pirate's Outpost" }
+text{ key = "location.crabhook_village", value = "Crabhook Village" }
+text{ key = "location.cursed_temple", value = "Cursed Temple" }
+text{ key = "location.drowned_village", value = "The Drowned Village" }
+text{ key = "location.eastoak", value = "Fort Crow" }
+text{ key = "location.puzzlewood", value = "The Puzzlewood" }
+text{ key = "location.forest_of_tides", value = "Forest of Tides" }
+text{ key = "location.fykonos", value = "Fykonos Isle" }
+text{ key = "location.ghost_ship", value = "Zephyrine's Salvation" }
+text{ key = "location.goatshead_harbor", value = "Goatshead Harbor" }
+text{ key = "location.goatshead_island", value = "Goatshead Island" }
+text{ key = "location.gull_rock", value = "Gull Rock" }
+text{ key = "location.hourglass_fort", value = "Hourglass Fort" }
+text{ key = "location.isle_of_storms", value = "Isle of Storms" }
+text{ key = "location.ivystump", value = "Ivystump Village" }
+text{ key = "location.kingsdown", value = "Kingsdown Isle" }
+text{ key = "location.lighthouse", value = "Crumbling Lighthouse" }
+text{ key = "location.limestone_island", value = "Limestone Island" }
+text{ key = "location.limestone_present", value = "Limestone Island" }
+text{ key = "location.lobb_trail", value = "Strait of Thorns" }
+text{ key = "location.lotus_shoal", value = "Lotus Shoal" }
+text{ key = "location.marblecliff", value = "Marblecliff Mountain" }
+text{ key = "location.naerreturn_bay", value = "Zephyr Bay" }
+text{ key = "location.oakhaven", value = "Oakhaven" }
+text{ key = "location.palace_gardens", value = "Oakhaven Palace" }
+text{ key = "location.palace_gardens_chase_sequence", value = "Oakhaven Palace" }
+text{ key = "location.poplar_coast", value = "Spruce Head" }
+text{ key = "location.poplar_forest", value = "Poplar Forest" }
+text{ key = "location.port", value = "Oakhaven Port" }
+text{ key = "location.shipwreck_chain", value = "Cemetery of the Waves" }
+text{ key = "location.silent_glade", value = "Silent Glade" }
+text{ key = "location.silent_glade_health", value = "Last Chieftain's Tomb" }
+text{ key = "location.smoldering_rock", value = "Smoldering Rock" }
+text{ key = "location.snapmast", value = "Snapmast Reef" }
+text{ key = "location.snapmast_landing", value = "Snapmast Reef" }
+text{ key = "location.spruce_head", value = "Spruce Head" }
+text{ key = "location.spruce_head_shrine", value = "Spruce Head Shrine" }
+text{ key = "location.stonefell_crossroads", value = "Stonefell Crossroads" }
+text{ key = "location.sunken_palace", value = "Sunken Palace" }
+text{ key = "location.tern_marsh", value = "Tern Marsh" }
+text{ key = "location.thrush_fort", value = "Heron's Tomb" }
+text{ key = "location.umber_lake", value = "Lake Umber"}
+text{ key = "location.veilwood", value = "The Veilwood" }
+text{ key = "location.west_coast", value = "West Oak" }
+text{ key = "location.willow_palace", value = "Willow Palace" }
+text{ key = "location.yarrowmouth", value = "Yarrowmouth" }
+text{ key = "location.yarrowmouth_village", value = "Yarrowmouth Village" }
+text{ key = "location.zephyr_bay", value = "Zephyr Bay" }
+text{ key = "menu.crafting.crafting_title", value = "Crafting" }
+text{ key = "menu.hud.command_effect.grab", value = "Grab" }
+text{ key = "menu.hud.command_effect.interact", value = "Interact" }
+text{ key = "menu.hud.command_effect.lift", value = "Lift" }
+text{ key = "menu.hud.command_effect.look", value = "Look" }
+text{ key = "menu.hud.command_effect.next", value = "Next" }
+text{ key = "menu.hud.command_effect.open", value = "Open" }
+text{ key = "menu.hud.command_effect.run", value = "Run" }
+text{ key = "menu.hud.command_effect.speak", value = "Speak" }
+text{ key = "menu.hud.command_effect.swim", value = "Swim" }
+text{ key = "menu.hud.command_effect.throw", value = "Throw" }
+text{ key = "menu.map.limestone", value = "LIMESTONE" }
+text{ key = "menu.map.ballast_harbor", value = "BALLAST\\nHARBOR" }
+text{ key = "menu.map.zephyr_bay", value = "FOREST\\nOF TIDES" }
+text{ key = "menu.map.goatshead", value = "GOATSHEAD" }
+text{ key = "menu.map.crabhook", value = "CRABHOOK" }
+text{ key = "menu.map.lotus_shoal", value = "LOTUS\\nSHOAL" }
+text{ key = "menu.map.spruce_head", value = "SPRUCE\\nHEAD" }
+text{ key = "menu.map.fort_crow", value = "FORT\\nCROW" }
+text{ key = "menu.map.tern_marsh", value = "TERN\\nMARSH" }
+text{ key = "menu.map.kingsdown_isle", value = "KINGSDOWN\\nISLE" }
+text{ key = "menu.map.snapmast_reef", value = "SNAPMAST\\nREEF" }
+text{ key = "menu.map.yarrowmouth", value = "YARROWMOUTH" }
+text{ key = "menu.map.oakport", value = "OAK\\nPORT" }
+text{ key = "menu.map.oakhaven", value = "OAKHAVEN" }
+text{ key = "menu.map.ivystump", value = "IVYSTUMP" }
+text{ key = "menu.map.marblecliff", value = "MARBLECLIFF" }
+text{ key = "menu.map.isle_of_storms", value = "ISLE OF\\nSTORMS" }
+text{ key = "menu.potion_expired", value = "Potion effect expired" }
+text{ key = "menu.quest_log.back_prompt", value = "D: Back" }
+text{ key = "menu.quest_log.main_quests_tab", value = "Main\\nQuests" }
+text{ key = "menu.quest_log.no_main_quests", value = "You have no main quests" }
+text{ key = "menu.quest_log.no_side_quests", value = "You have no side quests" }
+text{ key = "menu.quest_log.quest_log_update", value = "Quest Log Updated" }
+text{ key = "menu.quest_log.quests_count", value = "$v1 of $v2 complete" }
+text{ key = "menu.quest_log.side_quests_tab", value = "Side\\nQuests" }
+text{ key = "menu.quest_log.title", value = "Quest Log" }
+text{ key = "menu.quest_update.quest_log_complete", value = "Quest Complete!" }
+text{ key = "menu.quest_update.quest_updated", value = "Quest Log Updated" }
+text{ key = "menu.sell.item_price", value = "%d crowns" }
+text{ key = "menu.shop.item_price", value = "Price: %2d crowns" }
+text{ key = "menu.status.stats.armor_level", value = "Armor Level" }
+text{ key = "menu.status.stats.bow_damage", value = "Bow Damage" }
+text{ key = "menu.status.stats.sword_damage", value = "Sword Damage" }
+text{ key = "menu.status.save", value = "Save" }
+text{ key = "menu.status.quit", value = "Quit" }
+text{ key = "menu.status.controls", value = "Controls" }
+text{ key = "menu.status.music", value = "Music" }
+text{ key = "menu.status.screenshake", value = "Screenshake" }
+text{ key = "menu.status.sounds", value = "Sounds" }
+text{ key = "menu.status.dialog_size", value = "Dialog Size" }
+text{ key = "menu.title.back", value = "Back" }
+text{ key = "menu.title.cancel", value = "Cancel" }
+text{ key = "menu.title.confirm", value = "Confirm" }
+text{ key = "menu.title.continue", value = "Continue" }
+text{ key = "menu.title.corrupted_save", value = "Corrupted Save File!" }
+text{ key = "menu.title.credits", value = "Credits" }
+text{ key = "menu.title.demo", value = "Demo" }
+text{ key = "menu.title.language", value = "Language" }
+text{ key = "menu.title.new_game", value = "New Game" }
+text{ key = "menu.title.options", value = "Options" }
+text{ key = "menu.title.quit", value = "Quit" }
+text{ key = "menu.title.full_demo", value = "Full Demo" }
+text{ key = "menu.title.beach_demo", value = "Beach" }
+text{ key = "menu.title.boss_demo", value = "Boss" }
+text{ key = "menu.title.clear_save", value = "Clear Save" }
+text{ key = "player_name", value = "Tilia" }
+
+text{ key = "options.caption.press_action_change_mode", value = "Press Action to adjust setting" }
+text{ key = "options.caption.press_action_customize_key", value = "Press Action to configure this key" }
+text{ key = "options.caption.press_key", value = "Press any key or button" }
+text{ key = "options.command.action", value = "Action" }
+
+text{ key = "options.command.roll", value = "Roll" }
+text{ key = "options.command.attack", value = "Attack" }
+text{ key = "options.command.down", value = "Down" }
+text{ key = "options.command.item_1", value = "Item 1" }
+text{ key = "options.command.item_2", value = "Item 2" }
+text{ key = "options.command.left", value = "Left" }
+
+text{ key = "options.command.menu_inventory", value = "Inventory Menu" }
+text{ key = "options.command.menu_map", value = "Map Menu" }
+text{ key = "options.command.menu_options", value = "Options Menu" }
+text{ key = "options.command.menu_quest", value = "Quest Log" }
+text{ key = "options.command.menu_1", value = "Inventory Menu" }
+text{ key = "options.command.menu_2", value = "Quest Log" }
+text{ key = "options.command.menu_3", value = "Map Menu" }
+text{ key = "options.command.menu_4", value = "Options Menu" }
+
+text{ key = "options.command.pause", value = "Pause" }
+text{ key = "options.command.right", value = "Right" }
+text{ key = "options.command.up", value = "Up" }
+text{ key = "options.command.prev_menu", value = "Prev Menu" }
+text{ key = "options.command.next_menu", value = "Next Menu" }
+text{ key = "options.commands_column", value = "Command" }
+text{ key = "options.joypad_column", value = "Joypad" }
+text{ key = "options.keyboard_column", value = "Keyboard" }
+
+text{ key = "options.reset_to_defaults", value = "Reset to Defaults" }
+
+text{ key = "selection_menu.options.fullscreen", value = "Fullscreen" }
+text{ key = "selection_menu.options.fullscreen_false", value = "Disabled" }
+text{ key = "selection_menu.options.fullscreen_true", value = "Enabled" }

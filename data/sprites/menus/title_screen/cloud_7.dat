@@ -1,0 +1,7 @@
+animation{
+  name = "walking",
+  src_image = "menus/title_screen/cloud_7.png",
+  directions = {
+    { x = 8, y = 8, frame_width = 128, frame_height = 88, origin_x = 0, origin_y = 0 },
+  },
+}

@@ -1,0 +1,16 @@
+animation{
+  name = "sparking",
+  src_image = "entities/lightning_2.png",
+  frame_delay = 110,
+  directions = {
+    { x = 0, y = 0, frame_width = 16, frame_height = 64, origin_x = 8, origin_y = 61, num_frames = 7 },
+  },
+}
+animation{
+  name = "striking",
+  src_image = "entities/lightning_2.png",
+  frame_delay = 60,
+  directions = {
+    { x = 112, y = 0, frame_width = 16, frame_height = 64, origin_x = 8, origin_y = 61, num_frames = 9 },
+  },
+}

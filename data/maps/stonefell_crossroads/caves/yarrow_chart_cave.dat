@@ -1,0 +1,687 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "cave_2",
+  music = "lotus_shoal_1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 104,
+  width = 144,
+  height = 96,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 40,
+  width = 128,
+  height = 80,
+  pattern = "ground1.3",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 8,
+  width = 128,
+  height = 32,
+  pattern = "191",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 40,
+  width = 32,
+  height = 96,
+  pattern = "193",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 40,
+  width = 32,
+  height = 32,
+  pattern = "192",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 72,
+  width = 96,
+  height = 32,
+  pattern = "191",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 104,
+  width = 32,
+  height = 96,
+  pattern = "192",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 120,
+  width = 96,
+  height = 32,
+  pattern = "194",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 136,
+  width = 32,
+  height = 64,
+  pattern = "193",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 200,
+  width = 160,
+  height = 32,
+  pattern = "194",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 8,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 8,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 72,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.3",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 72,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 120,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 120,
+  width = 32,
+  height = 32,
+  pattern = "corner.out.1",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 200,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 200,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 200,
+  width = 16,
+  height = 16,
+  pattern = "ground1.1",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 200,
+  width = 16,
+  height = 16,
+  pattern = "2",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "door.down.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 200,
+  width = 8,
+  height = 32,
+  pattern = "door.down.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 200,
+  width = 8,
+  height = 32,
+  pattern = "door.down.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 104,
+  width = 40,
+  height = 16,
+  pattern = "694",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 120,
+  width = 24,
+  height = 16,
+  pattern = "690",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 168,
+  width = 24,
+  height = 16,
+  pattern = "690",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 184,
+  width = 24,
+  height = 16,
+  pattern = "690",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 184,
+  width = 24,
+  height = 16,
+  pattern = "690",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 40,
+  width = 40,
+  height = 16,
+  pattern = "694",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 40,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 40,
+  width = 8,
+  height = 16,
+  pattern = "1031",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "1032",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 56,
+  width = 8,
+  height = 16,
+  pattern = "1029",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "1034",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 56,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 40,
+  width = 24,
+  height = 16,
+  pattern = "690",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 56,
+  width = 24,
+  height = 16,
+  pattern = "690",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "686",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "686",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "686",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "2178",
+  tileset = "oceanheart_outdoors_1",
+}
+
+switch{
+  name = "b1_switch",
+  layer = 0,
+  x = 256,
+  y = 96,
+  subtype = "solid",
+  sprite = "entities/solid_switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+switch{
+  name = "b1_switch_2",
+  layer = 0,
+  x = 280,
+  y = 112,
+  subtype = "solid",
+  sprite = "entities/solid_switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+switch{
+  name = "b1_switch_3",
+  layer = 0,
+  x = 232,
+  y = 112,
+  subtype = "solid",
+  sprite = "entities/solid_switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+switch{
+  name = "b1_switch_4",
+  layer = 0,
+  x = 256,
+  y = 144,
+  subtype = "solid",
+  sprite = "entities/solid_switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+door{
+  name = "b1_door",
+  layer = 0,
+  x = 192,
+  y = 104,
+  direction = 3,
+  sprite = "entities/door_post_stone",
+}
+
+chest{
+  layer = 0,
+  x = 128,
+  y = 45,
+  treasure_name = "fast_travel_chart_yarrowmouth",
+  treasure_savegame_variable = "lotus_shoal_yarrow_cave_chart_chest",
+  sprite = "entities/chest",
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 312,
+  y = 213,
+  direction = 1,
+}
+
+chest{
+  layer = 0,
+  x = 184,
+  y = 61,
+  treasure_name = "rupee",
+  treasure_variant = 3,
+  treasure_savegame_variable = "lotus_shoal_yarrow_cave_crowns_chest",
+  sprite = "entities/chest",
+}
+
+teletransporter{
+  layer = 0,
+  x = 304,
+  y = 216,
+  width = 16,
+  height = 16,
+  destination_map = "stonefell_crossroads/lotus_shoal",
+  destination = "from_yarrow_chart_cave",
+}
+
+tile{
+  layer = 1,
+  x = 296,
+  y = 216,
+  width = 32,
+  height = 16,
+  pattern = "door.down.high",
+}
+
+tile{
+  layer = 1,
+  x = 296,
+  y = 88,
+  width = 40,
+  height = 16,
+  pattern = "695",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 312,
+  y = 112,
+  width = 24,
+  height = 8,
+  pattern = "691",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 160,
+  width = 24,
+  height = 8,
+  pattern = "691",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 176,
+  width = 24,
+  height = 8,
+  pattern = "691",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 216,
+  y = 176,
+  width = 24,
+  height = 8,
+  pattern = "691",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 168,
+  y = 24,
+  width = 40,
+  height = 16,
+  pattern = "695",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 80,
+  y = 32,
+  width = 24,
+  height = 8,
+  pattern = "691",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 80,
+  y = 48,
+  width = 24,
+  height = 8,
+  pattern = "691",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 48,
+  width = 16,
+  height = 8,
+  pattern = "687",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 80,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "687",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "687",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 88,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "687",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 88,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "686",
+  tileset = "oceanheart_outdoors_1",
+}
+

@@ -1,0 +1,12 @@
+animation{
+  name = "stopped",
+  src_image = "entities/boat_01.png",
+  frame_delay = 244,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 96, frame_width = 128, frame_height = 80, origin_x = 64, origin_y = 77, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 128, frame_height = 80, origin_x = 64, origin_y = 77, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 128, frame_height = 80, origin_x = 64, origin_y = 77, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 128, frame_height = 80, origin_x = 64, origin_y = 77, num_frames = 4 },
+  },
+}

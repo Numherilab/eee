@@ -1,0 +1,7 @@
+animation{
+  name = "stopped",
+  src_image = "menus/maps/roads/goatshead_island.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 160, frame_height = 72, origin_x = 0, origin_y = 0 },
+  },
+}

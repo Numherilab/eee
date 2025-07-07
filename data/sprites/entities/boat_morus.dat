@@ -1,0 +1,12 @@
+animation{
+  name = "stopped",
+  src_image = "entities/boat_morus.png",
+  frame_delay = 188,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 8, frame_width = 80, frame_height = 72, origin_x = 40, origin_y = 69, num_frames = 4 },
+    { x = 0, y = 8, frame_width = 80, frame_height = 72, origin_x = 40, origin_y = 69, num_frames = 4 },
+    { x = 0, y = 88, frame_width = 80, frame_height = 72, origin_x = 40, origin_y = 69, num_frames = 4 },
+    { x = 0, y = 88, frame_width = 80, frame_height = 72, origin_x = 40, origin_y = 69, num_frames = 4 },
+  },
+}

@@ -1,0 +1,1146 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "cave_2",
+  music = "oakhaven_overworld",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.1",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.up.2",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "wall.down.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 48,
+  width = 224,
+  height = 144,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.4",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.3",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 160,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.2",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.left.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "corner.in.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 96,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 160,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.2",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "wall.right.1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "ground1.2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "door.down.top_low",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 192,
+  width = 8,
+  height = 32,
+  pattern = "door.down.right_side",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 192,
+  width = 8,
+  height = 32,
+  pattern = "door.down.left_side",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 160,
+  width = 32,
+  height = 32,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 144,
+  width = 48,
+  height = 32,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 112,
+  width = 32,
+  height = 32,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 80,
+  width = 48,
+  height = 48,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 80,
+  width = 48,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 128,
+  width = 32,
+  height = 32,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "188",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.pillar.up",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "wall.pillar.up",
+}
+
+teletransporter{
+  layer = 0,
+  x = 240,
+  y = 208,
+  width = 16,
+  height = 16,
+  destination_map = "oakhaven/west_oak",
+  destination = "from_warp_cave",
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 248,
+  y = 205,
+  direction = 1,
+}
+
+chest{
+  layer = 0,
+  x = 208,
+  y = 61,
+  treasure_name = "coral_ore",
+  treasure_savegame_variable = "westoak_warp_cave_treasure",
+  sprite = "entities/chest",
+}
+
+custom_entity{
+  name = "leaf_pile_18",
+  layer = 0,
+  x = 136,
+  y = 61,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_19",
+  layer = 0,
+  x = 264,
+  y = 61,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_20",
+  layer = 0,
+  x = 280,
+  y = 77,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_21",
+  layer = 0,
+  x = 248,
+  y = 93,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_22",
+  layer = 0,
+  x = 232,
+  y = 93,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_23",
+  layer = 0,
+  x = 216,
+  y = 93,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_24",
+  layer = 0,
+  x = 200,
+  y = 93,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_25",
+  layer = 0,
+  x = 200,
+  y = 109,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_26",
+  layer = 0,
+  x = 200,
+  y = 125,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_27",
+  layer = 0,
+  x = 184,
+  y = 125,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_28",
+  layer = 0,
+  x = 184,
+  y = 109,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_29",
+  layer = 0,
+  x = 184,
+  y = 93,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_30",
+  layer = 0,
+  x = 168,
+  y = 93,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_31",
+  layer = 0,
+  x = 168,
+  y = 109,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_32",
+  layer = 0,
+  x = 168,
+  y = 125,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_33",
+  layer = 0,
+  x = 168,
+  y = 141,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_34",
+  layer = 0,
+  x = 168,
+  y = 157,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_35",
+  layer = 0,
+  x = 152,
+  y = 141,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_36",
+  layer = 0,
+  x = 152,
+  y = 157,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_37",
+  layer = 0,
+  x = 152,
+  y = 189,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_38",
+  layer = 0,
+  x = 136,
+  y = 189,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_39",
+  layer = 0,
+  x = 136,
+  y = 109,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_40",
+  layer = 0,
+  x = 200,
+  y = 157,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_41",
+  layer = 0,
+  x = 200,
+  y = 173,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_42",
+  layer = 0,
+  x = 216,
+  y = 173,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_43",
+  layer = 0,
+  x = 216,
+  y = 189,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_44",
+  layer = 0,
+  x = 200,
+  y = 189,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_45",
+  layer = 0,
+  x = 232,
+  y = 125,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_46",
+  layer = 0,
+  x = 248,
+  y = 125,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_47",
+  layer = 0,
+  x = 232,
+  y = 141,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_48",
+  layer = 0,
+  x = 248,
+  y = 141,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_49",
+  layer = 0,
+  x = 248,
+  y = 157,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_50",
+  layer = 0,
+  x = 248,
+  y = 173,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_51",
+  layer = 0,
+  x = 264,
+  y = 173,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_52",
+  layer = 0,
+  x = 264,
+  y = 157,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_53",
+  layer = 0,
+  x = 280,
+  y = 157,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+custom_entity{
+  name = "leaf_pile_54",
+  layer = 0,
+  x = 280,
+  y = 173,
+  width = 16,
+  height = 16,
+  direction = 0,
+  sprite = "entities/collapsing_floor_cave",
+  model = "collapsing_floor",
+}
+
+enemy{
+  layer = 0,
+  x = 144,
+  y = 117,
+  direction = 0,
+  breed = "normal_enemies/bat_2",
+}
+
+enemy{
+  layer = 0,
+  x = 272,
+  y = 77,
+  direction = 0,
+  breed = "normal_enemies/bat_2",
+}
+
+sensor{
+  name = "^save_solid_ground_sensor_5",
+  layer = 0,
+  x = 232,
+  y = 189,
+  width = 48,
+  height = 16,
+}
+
+tile{
+  layer = 1,
+  x = 232,
+  y = 208,
+  width = 32,
+  height = 16,
+  pattern = "door.down.high",
+}
+

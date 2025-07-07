@@ -1,0 +1,32 @@
+animation{
+  name = "stopped",
+  src_image = "npc/litton.png",
+  directions = {
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29 },
+  },
+}
+animation{
+  name = "jumping",
+  src_image = "npc/litton.png",
+  directions = {
+    { x = 64, y = 128, frame_width = 16, frame_height = 40, origin_x = 8, origin_y = 37 },
+    { x = 64, y = 128, frame_width = 16, frame_height = 40, origin_x = 8, origin_y = 37 },
+    { x = 64, y = 128, frame_width = 16, frame_height = 40, origin_x = 8, origin_y = 37 },
+    { x = 64, y = 128, frame_width = 16, frame_height = 40, origin_x = 8, origin_y = 37 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "npc/litton.png",
+  frame_delay = 170,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 224, frame_width = 16, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 4 },
+  },
+}

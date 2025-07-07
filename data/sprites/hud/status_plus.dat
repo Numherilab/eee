@@ -1,0 +1,7 @@
+animation{
+  name = "plus",
+  src_image = "hud/status_icons.png",
+  directions = {
+    { x = 24, y = 0, frame_width = 8, frame_height = 8, origin_x = 4, origin_y = 5 },
+  },
+}

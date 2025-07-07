@@ -1,0 +1,603 @@
+--[[ objectives.dat		22 Jun 2019
+
+	This data file describes quests which are to be shown in the quest log menu. The quest
+	can be either a "main" quest or a "side" quest, where they get listed separately. Each
+	quest must define a dialog_id, which contains both the quest title and its description
+	text. It must also define calc_phase, which determines the progress of the quest (i.e.
+	the current phase value) based on the current state of save game variables (see below).
+
+	The number of phases (subtasks) present in a quest is determined by the content of the
+	dialog_id text, which is equal to the number of lines beginning with the '@' character
+	(excluding whitespace). For more information on the content of the dialog construction
+	and syntax, see scripts/objectives_manager.lua.
+
+	Possible entries main{} and side{} have the same properties that can be defined:
+	* dialog_id (string) - id of dialogs.dat entry that defines the title and description text
+	* calc_phase (string or table) - Specifies save game variable(s) to determine the current phase
+		(string) - name of save game variable to use. It can have the following values
+			false/nil - the player has not yet started the quest
+			0 - player started the quest but hasn't completed any objectives (subtasks)
+			1 and up - the current phase, also equal to the number of subtasks completed
+			Note: The number of phases in a quest is determined by the number of lines
+			beginning with an '@' character. When the current phase is equal to the
+			total number of phases, the quest is marked as complete.
+		(table) - contains as table indicies any number of save game variable names (strings)
+		whose values get passed to the custom callback function, which returns what the current
+		phase currently is. Keys are the following:
+			1 and up (string)- any number of save game variable names needed by the callback function
+			callback (function) - callback function that returns the current phase based on
+			the save game variable values that are passed back as a table in the first argument.
+			It has the following arguments:
+				args (table) - contains as indicies values for the save game variables listed above
+				It also has the following special keys that can be accessed:
+					num_phases (number) - the total number of phases for this quest
+			It has the following return values:
+				(number or nil/false) - what phase this quest should be set to (0 and up)
+					value of false means the player has not started the quest yet
+	* location (string or table, optional) - string.dat key(s) to specify the location text to show for this mission
+		(string) - strings.dat key to use for the location text for all phases
+		(table) - list of strings.dat keys to use each phase, where the index corresponds to the phase.
+			Values of true repeat the location of the previous phase
+			Values of false use an empty string as the location for that phase
+			Note: the location specified in index 1 would be shown in the quest log from
+			when the player starts the quest until beginning phase 1. When the quest is
+			complete, the location from the last phase will continue to be shown.
+		default: location text will not be shown for any phase
+	* replace_s (table, combo, optional) - Specifies save game variable(s) to determine string substitution values
+		* [indicies] (string) - Savegame variable names to pass to the callback function
+		* callback (function) - receives table containing values for savegame variables
+			Returns table containing up to 9 strings.dat key to be used for the substitution of $s1 thru $s9
+	* replace_v (table, combo, optional) - Specifies save game variable(s) to determine value substitution values
+		* [indicies] (string) - Savegame variable names to pass to the callback function
+		* callback (function, optional) - receives table containing values for savegame variables
+			Returns table containing up to 9 strings to be used for the substitution of $v1 thru $v9 (usually a number value)
+			If a callback function isn't specified then the values of up to 9 savegame variables are substituted directly (for $v1 thru $v9)
+	* checkmarks (table, combo, optional) - Specifies save game variable(s) to determine dynamic checkmark states
+		* [indicies] (string) - Savegame variable names to pass to the callback function
+		* callback (function) - receives table containing values for savegame variables
+			Returns table containing up to 9 values to be used for the dynamic checkmarks $@1 thru $@9
+				nil - dynamic checkmark not visible
+				false - dynamic checkmark shown as bullet
+				true - dynamic checkmark shown as checkmark
+	* npc (table, combo, optional) - List of NPC entity ids specifying an active NPC during each phase
+		* [indicies] (string) - entity id that should be active (display icon over head) for the specified phase
+			e.g. key of 1 corresponds to the NPC that should be active while player is attempting objectives for the first phase (i.e. during phase 0)
+			Values of false or nil indicate there is not an active NPC for that phase
+			The special key "start" can be used to indicate the NPC that's active before the player starts the quest (e.g. the NPC giving the quest)
+			if the table isn't provided then no NPCs will be considered active
+	* items (table, array, optional) - list of quest items for this quest
+		* [indices] (string) - Specify items as "ITEM_ID.VARIANT", e.g. "letter_from_king.1"
+			If the table is not specified then there won't be any quest items associated with the quest
+	* alternate_key (string, optional) - name of a savegame variable to keep track of the active alternate quest in this group
+		All quests that share the same alternate_key are considered in the same group of alternate quests
+		If no key is specified then the quest does not have any alternate quests
+	]]
+
+	--## Examples of Variable Substitution Values and Strings ##--
+	--[=[
+
+	Take the following description string:
+	[[
+	Collect all the shards ($v1 of 3 found)
+
+	Good luck, $v2
+	]]
+
+	A simple substitution would be as follows:
+	replace_v = {
+		"num_shards_collected", --value is number 0 to 3
+		"player_name", --value is a string
+	}
+
+	There is no callback function specified in this case, so the save game values are used
+	directly for the substitution. $v1 becomes the the number of shards that are collected
+	by the player, and $v2 becomes the player's name. Note that since the player will have
+	chosen their own name, it does not need to be localized. Ensure that the length of the
+	players name won't exceed the line's max character count.
+
+	Here is a more complicated substitution using a custom function:
+	[[
+	Kill 10 monsters ($v1 remaining)
+
+	$v2 of $v3 subtasks complete
+	]]
+
+	The custom function for the substitution would be specified as follows:
+	replace_v = {
+		"monsters_killed", --value is a number
+		callback = function(args)
+			local num_monsters_killed = args[1] --current value of first savegame variable
+			local monsters_remaining = 10 - num_monsters_killed
+
+			return {
+				math.max(monsters_remaining, 0), --ensure number is not negative
+				args.phase, --current phase, equals number of subtasks that are complete
+				args.num_phases, --total number of phases (subtasks) in this quest
+			}
+		end
+	}
+
+	So some arithmetic is used to convert the number of monsters killed into the number of
+	monsters remaining. The current phase and the total number of phases are available for
+	the callback function as well.
+
+	And finally, an example of substituting for string values from strings.dat:
+	[[
+	Peter is looking for a new fishing rod.
+
+	$s1
+
+	You $s2 enough coins.
+	]]
+
+	replace_s = {
+		"bought_fishing_rod", --value is true or false
+		"number_of_coins", --value is a number
+		callback = function(args)
+			return {
+				args[1] and "quest.finding_rod" or "quest.finding_peter",
+				args[2]>=50 and "quest.have_enough" or "quest.not_enough",
+			}
+		end
+	}
+
+	--strings.dat
+	text{key="quest.finding_rod", value="You can buy a fishing rod at the general store."}
+	text{key="quest.finding_peter", value="You can find Peter at the pier"}
+	text{key="quest.have_enough", value="have"}
+	text{key="quest.not enough", value="do not have"}
+
+	Since substituted strings need localization, the callback function returns strings.dat
+	keys this time instead of the direct string to be substituted. $s1 gets substituted by
+	a full line of text depending on whether the player obtained the fishing rod yet. Then
+	depending on whether the player has enough coins, $s2 becomes "do not have" or "have".
+
+	Note that it is possible for a $s substitution to include $v in the substitution text,
+	which would then go through a second substitution. If a $s substitution has another $s
+	in the substituted text, it must only substitute for a higher value of $s than itself.
+	For example, $s2 could substitute for $s3, but not for a second $s.
+]=]
+
+main{
+    dialog_id = "quest.main.limestone.get_whisky",
+    calc_phase = "quest_whisky_for_juglan_phase",
+    location = "location.limestone_island",
+    items = {"whisky_for_juglan.1"},
+}
+
+main{
+    dialog_id = "quest.main.limestone.meet_juglan_at_pier",
+    location = {
+        "location.limestone_island",
+        "location.goatshead_island",
+    },
+    calc_phase = "quest_meet_juglan_at_pier"
+}
+
+main{
+    dialog_id = "quest.main.kelpton",
+    location = {
+        "location.ballast_harbor",
+        "location.ballast_harbor",
+        "location.ballast_harbor",
+        false,
+    },
+    calc_phase = "quest_kelpton",
+    items = {
+        "charts.1",
+        "key_kingsdown.1",
+    },
+}
+
+main{
+    dialog_id = "quest.main.spruce_head",
+    calc_phase = "quest_spruce_head",
+    location = {
+        "location.spruce_head",
+        "location.spruce_head",
+        "location.yarrowmouth",
+    },
+}
+
+main{
+    dialog_id = "quest.main.hourglass_fort",
+    calc_phase = "quest_hourglass_fort",
+    location = "location.yarrowmouth",
+    items = {
+        "key_juniper_grove.1",
+        "key_juniper_grove_2.1",
+    },
+}
+
+main{
+    dialog_id = "quest.main.hazel",
+    calc_phase = "quest_hazel",
+    location = "location.oakhaven"
+}
+
+-- main{
+--     dialog_id = "quest.main.tidal_starfruit",
+--     calc_phase = "quest_tidal_starfruit",
+--     location = "location.oakhaven"
+-- }
+
+main{
+    dialog_id = "quest.main.mangrove_sword",
+    calc_phase = "quest_mangrove_sword",
+    location = "location.oakhaven",
+    items = {"sword_of_the_sea_king.1"},
+}
+
+main{
+    dialog_id = "quest.main.pirate_fort",
+    calc_phase = "quest_pirate_fort",
+    location = "location.oakhaven",
+    items = {
+        "sleeping_draught.1",
+        "hideout_chart.1",
+    },
+}
+
+main{
+    dialog_id = "quest.main.snapmast",
+    calc_phase = "quest_snapmast",
+    location = "location.snapmast"
+}
+
+main{
+    dialog_id = "quest.main.isle_of_storms",
+    calc_phase = "quest_isle_of_storms",
+    location = "location.isle_of_storms",
+    items = {"oceansheart_chart.1"},
+}
+
+main{
+    dialog_id = "quest.main.monkshood",
+    calc_phase = "quest_monkshood",
+    location = "location.oakhaven",
+    replace_v = {"amount_monkshood"},
+    items = {
+        "monkshood.1",
+    },
+}
+
+
+
+side{
+    dialog_id = "quest.side.carrot_cache",
+    calc_phase = "quest_test13", --TODO give this savegame variable a better name
+    location = "location.goatshead_island"
+}
+
+side{
+    dialog_id = "quest.side.fykonos",
+    calc_phase = "quest_fykonos",
+    location = "location.fykonos"
+}
+
+side{
+    dialog_id = "quest.side.goatshead.secret_tunnels",
+    calc_phase = "quest_goatshead_secret_tunnels",
+    location = "location.goatshead_harbor"
+}
+
+side{
+    dialog_id = "quest.side.goatshead.phantom_squid",
+    alternate_key = "phantom_squid",
+    calc_phase = "quest_phantom_squid",
+    location = "location.goatshead_harbor",
+}
+
+side{
+    dialog_id = "quest.side.goatshead.phantom_squid_aster",
+    alternate_key = "phantom_squid",
+    calc_phase = "quest_phantom_squid",
+    location = "location.goatshead_harbor",
+}
+
+side{
+    dialog_id = "quest.side.goatshead.phantom_squid_part_2",
+    calc_phase = "quest_phantom_squid_contracts",
+    location = "location.goatshead_harbor",
+    items = {
+        "aster_note.1",
+        "contract.1",
+    },
+}
+
+side{
+    dialog_id = "quest.side.bomb_arrows",
+    calc_phase = "quest_bomb_arrows",
+    items = {
+			"bomb_arrow_ticket.1",
+			"tungsten_ore.1",
+			"machine_part.1",
+		},
+}
+
+side{
+    dialog_id = "quest.side.crabhook.monster",
+    calc_phase = "quest_crabhook_shoal_monster",
+    location = "location.crabhook_village"
+}
+
+side{
+    dialog_id = "quest.side.crow_lord",
+    calc_phase = "quest_crow_lord",
+    location = "location.lotus_shoal",
+		items = {"crow_feather.1"},
+}
+
+side{
+    dialog_id = "quest.side.crabhook.dusit",
+    calc_phase = "quest_dusit",
+    location = "location.crabhook_village"
+}
+
+side{
+    dialog_id = "quest.side.ballast_harbor.lost_key",
+    calc_phase = "quest_ballast_harbor_lost_inn_key",
+    items = {"key_juneberry_inn.1"},
+}
+
+side{
+    dialog_id = "quest.side.ballast_harbor.willow_palace",
+    calc_phase = "quest_willow_palace",
+    replace_v = {"spruce_head_shirine_num_fountains_activated"},
+    items = {"health_upgrade.1"},
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.haunted_key",
+    calc_phase = "quest_oakhaven_haunted_key",
+    items = {"key_haunted_house.1"},
+		location = "location.oakhaven"
+}
+
+side{
+    dialog_id = "quest.side.abyss",
+    calc_phase = "quest_abyss",
+    items = {"key_brass.1"}
+}
+
+side{
+	dialog_id = "quest.side.shoal_pirate_fort",
+	calc_phase = "quest_shoal_pirate_fort",
+	items = {"key_shoal_pirate_fort.1"},
+	location = "location.lotus_shoal"
+}
+
+side{
+    dialog_id = "quest.side.ballast_harbor.hornet_honey",
+    calc_phase = "quest_ballast_harbor_hornet_honey",
+    replace_v = {
+        "michael_defeated",
+        callback = function(args)
+            local is_defeated = args[1]
+            return {is_defeated and 60 or 45} --number of crowns for reward
+        end
+    },
+    location = {
+        "location.tern_marsh",
+        "location.tern_marsh",
+    },
+    items = {"honeycomb.1"},
+}
+
+side{
+    dialog_id = "quest.side.yarrowmouth.parley",
+    calc_phase = "quest_yarrow_parley",
+    location = {
+        "location.yarrowmouth",
+        "location.yarrowmouth",
+        "location.yarrowmouth",
+        "location.ballast_harbor",
+        "location.yarrowmouth",
+    },
+}
+
+side{
+    dialog_id = "quest.side.yarrowmouth.stone_beak",
+    calc_phase = "quest_stone_beak",
+    location = "location.yarrowmouth",
+    items = {"stone_beak.1"},
+}
+
+side{
+    dialog_id = "quest.side.yarrowmouth.iron_pinecone",
+    calc_phase = "quest_iron_pine_cone",
+    location = "location.yarrowmouth",
+    items = {"iron_pinecone.1"},
+}
+
+side{
+    dialog_id = "quest.side.yarrowmouth.meadery",
+    calc_phase = "quest_briarwood_mushrooms",
+    location = "location.yarrowmouth",
+    items = {
+        "key_mushroom_spot.1",
+        "key_mead_safehouse.1",
+    },
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.orange_thief",
+    alternate_key = "orange_thief",
+    calc_phase = "quest_tic_tac_toe",
+    location = "location.oakhaven",
+    items = {
+        "oranges_shipment.1",
+        "prize_money.1",
+    },
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.orange_thief_aubrey",
+    alternate_key = "orange_thief",
+    calc_phase = "quest_tic_tac_toe",
+    location = "location.oakhaven",
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.musicians",
+    calc_phase = "quest_oakhaven_musicians",
+    location = "location.oakhaven"
+}
+
+side{
+    dialog_id = "quest.side.ferris_tools",
+    calc_phase = "quest_ferris_tools",
+    location = {
+        "location.ballast_harbor",
+        "location.oakhaven",
+    },
+    items = {"armor_tools.1"},
+}
+
+side{
+    dialog_id = "quest.side.goatshead.poplar_shack_key",
+    calc_phase = "quest_poplar_shack_lost_key",
+    location = "location.goatshead_island",
+    items = {"key_poplar_shack.1"},
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.sinking_lighthouse",
+    calc_phase = "quest_seaglint_ruins_lighthouse",
+    location = "location.sunken_palace",
+    items = {"key_sinking_lighthouse.1"},
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.manna_oaks",
+    calc_phase = "quest_manna_oaks",
+    location = "location.oakhaven",
+    replace_v = {
+        "manna_oaks_investigated"
+    },
+    items = {
+        "manna_oak_twig.1",
+        "manna_oak_letter.1",
+    },
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.master_thief",
+    calc_phase = "quest_mayors_dog",
+    location = "location.oakhaven",
+		items = { "key_to_oakhaven.1" }
+}
+
+side{
+    dialog_id = "quest.side.heron_well",
+    calc_phase = "quest_heron_well",
+    location = "location.goatshead_island",
+    items = {
+        "key_thrush_fort.1",
+        "thunder_charm.1",
+    },
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.bomb_shop",
+    calc_phase = "quest_bomb_shop",
+    location = "location.oakhaven"
+}
+
+side{
+    dialog_id = "quest.side.lighthouses",
+    calc_phase = "quest_lighthouses",
+    replace_v = {
+        "lighthouses_quest_num_lit"
+    },
+    location = {
+        false,
+        "location.naerreturn_bay",
+        "location.naerreturn_bay",
+    },
+    items = {"gust.1"},
+}
+
+side{
+    dialog_id = "quest.side.oakhaven.haunted_monastery",
+    calc_phase = "quest_haunted_monastery",
+    location = "location.oakhaven"
+}
+
+side{
+dialog_id = "quest.side.oakhaven.ivy_orchard",
+calc_phase = "quest_ivy_orchard",
+location = "location.ivystump"
+}
+
+side{
+dialog_id = "quest.side.ancient_groves",
+calc_phase = "quest_ancient_groves",
+replace_v = {"ancient_groves_activated"}
+}
+
+side{
+    --This alt quest is active until the player unlocks the first heron door in Goatshead
+    dialog_id = "quest.side.mysterious_doors",
+    alternate_key = "heron_doors_alt",
+    calc_phase = {
+        "found_heron_door_tern_marsh", --savegame variable for item "heron_door_tern_marsh"
+        "found_heron_door_marble_summit", --savegame variable for item "heron_door_marble_summit"
+        "found_heron_door_snapmast", --savegame variable for item "heron_door_snapmast"
+        --TODO add savegame variable for TBD 5th door
+        callback = function(args) --if at least 1 heron door found then add to quest log, this quest cannot be completed and must be switched to alternate quest
+            for i=1,args.n do --door_state - nil or 0: door not found, 1: door found
+                local door_state = args[i] or 0 --replace nil with 0
+                if door_state >=1 then return 0 end
+            end
+            return false
+        end,
+    },
+    checkmarks = {
+        "found_heron_door_tern_marsh", --savegame variable for item "heron_door_tern_marsh"
+        "found_heron_door_marble_summit", --savegame variable for item "heron_door_marble_summit"
+        "found_heron_door_snapmast", --savegame variable for item "heron_door_snapmast"
+        --TODO add savegame variable for TBD 5th door
+        callback = function(args) --always returns false for all dynamic checkmarks (not possible to check any until alt quest started)
+            local doors = {}
+            for i=1,args.n do doors[i] = false end --always unchecked in this quest
+            return doors
+        end,
+    },
+    items = {
+        "heron_door_tern_marsh.1",
+        "heron_door_marble_summit.1",
+        "heron_door_snapmast.1",
+        --TODO add item for TBD 5th door
+    },
+}
+
+side{
+    dialog_id = "quest.side.heron_doors",
+    alternate_key = "heron_doors_alt",
+    calc_phase = "quest_heron_doors",
+    replace_v = {
+        "possession_thunder_charm",
+        callback = function(args)
+            local charm_count = args[1] or 0 --use 0 if value is nil
+            return {charm_count}
+        end,
+    },
+    checkmarks = {
+        "tern_marsh_seabird_upgrade_received",
+        "marblecliff_seabird_upgrade_received",
+        "smoldering_rock_seabird_upgrade_received",
+        --TODO add savegame variable for TBD 5th door
+        callback = function(args)
+            local doors = {}
+            for i=1,args.n do doors[i] = args[i] or false end
+            return doors
+        end,
+    },
+    items = { --the player is secretly given these items when the corresponding door is found
+        "heron_door_tern_marsh.1",
+        "heron_door_marble_summit.1",
+        "heron_door_snapmast.1",
+        --TODO add item for TBD 5th door
+    },
+}

@@ -1,0 +1,11912 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 1024,
+  height = 576,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "redpine_forest",
+  music = "newfashioned_port_burg",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 896,
+  height = 576,
+  pattern = "87",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 72,
+  width = 48,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 48,
+  width = 88,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 40,
+  width = 120,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 80,
+  width = 24,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 64,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 56,
+  width = 24,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 32,
+  width = 120,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 40,
+  width = 8,
+  height = 32,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 48,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 64,
+  width = 8,
+  height = 24,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 72,
+  width = 40,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 80,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 96,
+  width = 48,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 224,
+  width = 56,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 232,
+  width = 40,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 240,
+  width = 32,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 248,
+  width = 16,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 16,
+  width = 104,
+  height = 48,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 64,
+  width = 80,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 72,
+  width = 56,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 80,
+  width = 40,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 8,
+  width = 104,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 16,
+  width = 8,
+  height = 72,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 16,
+  width = 8,
+  height = 48,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 88,
+  width = 40,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 216,
+  width = 56,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 224,
+  width = 8,
+  height = 24,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 144,
+  width = 88,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 144,
+  width = 24,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 144,
+  width = 56,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 144,
+  width = 32,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 184,
+  width = 56,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 192,
+  width = 24,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 256,
+  width = 80,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 248,
+  width = 64,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 232,
+  width = 32,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 208,
+  width = 8,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 136,
+  width = 200,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 144,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 144,
+  width = 8,
+  height = 40,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 160,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 168,
+  width = 48,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 200,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 208,
+  width = 8,
+  height = 64,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 240,
+  width = 24,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 256,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 272,
+  width = 80,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 64,
+  width = 128,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 80,
+  width = 72,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 104,
+  width = 48,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 120,
+  width = 32,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 88,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 56,
+  width = 128,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 64,
+  width = 8,
+  height = 72,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 64,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 80,
+  width = 48,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 80,
+  width = 40,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 88,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 88,
+  width = 8,
+  height = 24,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 88,
+  width = 8,
+  height = 32,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 104,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 128,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 136,
+  width = 32,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 144,
+  width = 32,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 168,
+  width = 88,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 176,
+  width = 80,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 184,
+  width = 88,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 192,
+  width = 88,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 184,
+  width = 32,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 200,
+  width = 16,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 160,
+  width = 88,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 168,
+  width = 40,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 176,
+  width = 8,
+  height = 24,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 184,
+  width = 8,
+  height = 32,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 200,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 224,
+  width = 88,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 248,
+  width = 40,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 232,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 208,
+  width = 40,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 184,
+  width = 24,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 176,
+  width = 24,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 184,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 192,
+  width = 8,
+  height = 32,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 208,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 248,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 264,
+  width = 40,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 256,
+  width = 40,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 264,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 280,
+  width = 48,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 288,
+  width = 24,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 248,
+  width = 40,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 256,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 288,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 296,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 248,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 304,
+  width = 120,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 312,
+  width = 40,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 304,
+  width = 56,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 304,
+  width = 40,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 376,
+  width = 56,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 392,
+  width = 32,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 400,
+  width = 8,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 424,
+  width = 48,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 440,
+  width = 24,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 448,
+  width = 24,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 360,
+  width = 32,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 352,
+  width = 56,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 344,
+  width = 64,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 384,
+  width = 40,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 400,
+  width = 56,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 440,
+  width = 48,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 472,
+  width = 88,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 456,
+  width = 72,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 440,
+  width = 48,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 408,
+  width = 24,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 360,
+  width = 32,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 352,
+  width = 64,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 336,
+  width = 64,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 336,
+  width = 24,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 288,
+  width = 64,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 304,
+  width = 72,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 296,
+  width = 16,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 320,
+  width = 40,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 216,
+  width = 48,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 208,
+  width = 80,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 712,
+  y = 200,
+  width = 88,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 184,
+  width = 56,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 176,
+  width = 56,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 184,
+  width = 8,
+  height = 24,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 712,
+  y = 192,
+  width = 24,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 224,
+  width = 48,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 280,
+  width = 64,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 288,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 296,
+  width = 184,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 304,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 304,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 312,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 320,
+  width = 40,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 320,
+  width = 32,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 320,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 328,
+  width = 56,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 328,
+  width = 80,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 328,
+  width = 40,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 336,
+  width = 64,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 368,
+  width = 56,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 368,
+  width = 32,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 368,
+  width = 32,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 376,
+  width = 8,
+  height = 40,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 376,
+  width = 40,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 384,
+  width = 24,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 384,
+  width = 8,
+  height = 64,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 400,
+  width = 8,
+  height = 40,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 400,
+  width = 24,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 408,
+  width = 8,
+  height = 24,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 408,
+  width = 8,
+  height = 72,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 416,
+  width = 104,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 416,
+  width = 48,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 424,
+  width = 8,
+  height = 40,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 432,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 432,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 440,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 448,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 448,
+  width = 48,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 448,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 456,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 464,
+  width = 96,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 472,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 480,
+  width = 88,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 448,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 448,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 448,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 448,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 480,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 480,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 184,
+  width = 24,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 160,
+  width = 48,
+  height = 48,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 16,
+  width = 48,
+  height = 80,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 16,
+  width = 48,
+  height = 56,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 16,
+  width = 16,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 136,
+  width = 40,
+  height = 48,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 128,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 152,
+  width = 8,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 200,
+  width = 24,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 8,
+  width = 112,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 16,
+  width = 8,
+  height = 80,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 16,
+  width = 8,
+  height = 32,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 56,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 72,
+  width = 40,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 80,
+  width = 8,
+  height = 16,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 96,
+  width = 48,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 120,
+  width = 40,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 128,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 128,
+  width = 8,
+  height = 24,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 136,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 152,
+  width = 24,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 160,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 184,
+  width = 8,
+  height = 40,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 224,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "100",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 336,
+  width = 256,
+  height = 80,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 416,
+  width = 400,
+  height = 160,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 352,
+  width = 192,
+  height = 128,
+  pattern = "87",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 440,
+  width = 56,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 448,
+  width = 24,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 464,
+  width = 24,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 904,
+  y = 472,
+  width = 16,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 960,
+  y = 392,
+  width = 32,
+  height = 40,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 952,
+  y = 400,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 904,
+  y = 352,
+  width = 88,
+  height = 48,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 872,
+  y = 352,
+  width = 40,
+  height = 32,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 352,
+  width = 24,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 384,
+  width = 24,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 920,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 376,
+  width = 24,
+  height = 16,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 360,
+  width = 40,
+  height = 24,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 344,
+  width = 136,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 352,
+  width = 40,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 352,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 352,
+  width = 8,
+  height = 80,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 360,
+  width = 8,
+  height = 32,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 360,
+  width = 8,
+  height = 24,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 392,
+  width = 24,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 392,
+  width = 16,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 904,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 936,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 920,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 944,
+  y = 408,
+  width = 8,
+  height = 16,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 432,
+  width = 56,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 960,
+  y = 432,
+  width = 32,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 440,
+  width = 8,
+  height = 40,
+  pattern = "92",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 440,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 448,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 888,
+  y = 456,
+  width = 16,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "90",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 920,
+  y = 472,
+  width = 8,
+  height = 8,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 480,
+  width = 120,
+  height = 8,
+  pattern = "94",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 824,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 872,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 824,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 872,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "98",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 944,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 944,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 952,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "97",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "91",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 952,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 440,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 456,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 904,
+  y = 456,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 904,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "99",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 920,
+  y = 464,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 480,
+  width = 8,
+  height = 8,
+  pattern = "93",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 920,
+  y = 480,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 512,
+  width = 416,
+  height = 64,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 184,
+  width = 8,
+  height = 40,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 16,
+  width = 8,
+  height = 80,
+  pattern = "96",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "89",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "95",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = -160,
+  width = 16,
+  height = 160,
+  pattern = "70",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -96,
+  y = 0,
+  width = 224,
+  height = 16,
+  pattern = "77",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 272,
+  width = 160,
+  height = 16,
+  pattern = "73",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 288,
+  width = 256,
+  height = 16,
+  pattern = "74",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -48,
+  y = 256,
+  width = 160,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 368,
+  width = 96,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 400,
+  width = 96,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 416,
+  width = 96,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 384,
+  width = 96,
+  height = 16,
+  pattern = "73",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 560,
+  width = 16,
+  height = 16,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "82",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 416,
+  width = 96,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "69",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "113",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "114",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "61",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 448,
+  width = 96,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 464,
+  width = 96,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 432,
+  width = 96,
+  height = 16,
+  pattern = "73",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 464,
+  width = 96,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "69",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "113",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "114",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 480,
+  width = 16,
+  height = 16,
+  pattern = "61",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 496,
+  width = 96,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 512,
+  width = 96,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 480,
+  width = 96,
+  height = 16,
+  pattern = "73",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "82",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 432,
+  width = 16,
+  height = 32,
+  pattern = "70",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 480,
+  width = 16,
+  height = 16,
+  pattern = "58",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 464,
+  width = 160,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 480,
+  width = 160,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 496,
+  width = 160,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 384,
+  width = 16,
+  height = 32,
+  pattern = "70",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 480,
+  width = 96,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 480,
+  width = 16,
+  height = 16,
+  pattern = "69",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "113",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "114",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 496,
+  width = 96,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 512,
+  width = 96,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 480,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 384,
+  width = 16,
+  height = 96,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "81",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 368,
+  width = 128,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 384,
+  width = 128,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 400,
+  width = 128,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "82",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 368,
+  width = 16,
+  height = 96,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "81",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "59",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "60",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 304,
+  width = 32,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "82",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "57",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 320,
+  width = 96,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "17",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "69",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 304,
+  width = 96,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 272,
+  width = 16,
+  height = 32,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "81",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 272,
+  width = 32,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 256,
+  width = 32,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "59",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 272,
+  width = 96,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "83",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 0,
+  width = 16,
+  height = 256,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "57",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 240,
+  width = 16,
+  height = 32,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 112,
+  width = 192,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 128,
+  width = 256,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "81",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 240,
+  width = 32,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 224,
+  width = 32,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 304,
+  width = 16,
+  height = 64,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "81",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 304,
+  width = 32,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 96,
+  width = 16,
+  height = 192,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 432,
+  width = 96,
+  height = 144,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 480,
+  width = 112,
+  height = 96,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 0,
+  width = 208,
+  height = 336,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "57",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 16,
+  width = 16,
+  height = 96,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 32,
+  width = 96,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 16,
+  width = 96,
+  height = 16,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "58",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "57",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "65",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 0,
+  width = 96,
+  height = 16,
+  pattern = "72",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 48,
+  width = 128,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 32,
+  width = 128,
+  height = 16,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 16,
+  width = 128,
+  height = 16,
+  pattern = "72",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 0,
+  width = 128,
+  height = 16,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "62",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "61",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 48,
+  width = 32,
+  height = 16,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "17",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "72",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "62",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "61",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 16,
+  width = 128,
+  height = 16,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 0,
+  width = 128,
+  height = 16,
+  pattern = "72",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 48,
+  width = 16,
+  height = 64,
+  pattern = "70",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 32,
+  width = 96,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "57",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 128,
+  width = 128,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "17",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "69",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 112,
+  width = 128,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = -16,
+  width = 16,
+  height = 128,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "57",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "58",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "65",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 80,
+  width = 64,
+  height = 16,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 0,
+  width = 80,
+  height = 80,
+  pattern = "206",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "17",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 16,
+  height = 16,
+  pattern = "61",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "62",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "132_2",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "133_2",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "149_2",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 80,
+  width = 32,
+  height = 24,
+  pattern = "174",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 104,
+  width = 16,
+  height = 16,
+  pattern = "142_2",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 144,
+  width = 48,
+  height = 24,
+  pattern = "127",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 176,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 168,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 192,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 152,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 480,
+  width = 192,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 480,
+  width = 16,
+  height = 16,
+  pattern = "69",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "113",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "114",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 496,
+  width = 192,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 512,
+  width = 192,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 512,
+  width = 16,
+  height = 16,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 496,
+  width = 16,
+  height = 16,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 480,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 336,
+  width = 192,
+  height = 16,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 352,
+  width = 16,
+  height = 128,
+  pattern = "70",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 992,
+  y = 352,
+  width = 16,
+  height = 128,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 256,
+  width = 64,
+  height = 16,
+  pattern = "71",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "69",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "113",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "114",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 272,
+  width = 64,
+  height = 16,
+  pattern = "113_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 288,
+  width = 64,
+  height = 16,
+  pattern = "114_2",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 176,
+  width = 64,
+  height = 16,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 192,
+  width = 16,
+  height = 64,
+  pattern = "70",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 192,
+  width = 16,
+  height = 64,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 192,
+  width = 64,
+  height = 64,
+  pattern = "87",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "151",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "124",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "59",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "60",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "59",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "210",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "210",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "210",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 408,
+  width = 16,
+  height = 8,
+  pattern = "277",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 408,
+  width = 16,
+  height = 8,
+  pattern = "277",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 408,
+  width = 16,
+  height = 8,
+  pattern = "277",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 384,
+  width = 80,
+  height = 48,
+  pattern = "1460",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 400,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "1034",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 400,
+  width = 8,
+  height = 16,
+  pattern = "1029",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 400,
+  width = 8,
+  height = 16,
+  pattern = "1041",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "1035",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "1040",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "1032",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "1031",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "1043",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "1038",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "1037",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "223",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 384,
+  width = 16,
+  height = 8,
+  pattern = "226",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 384,
+  width = 16,
+  height = 8,
+  pattern = "224",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "221",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "229",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "227",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 384,
+  width = 24,
+  height = 16,
+  pattern = "927",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 400,
+  width = 32,
+  height = 16,
+  pattern = "625",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 952,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "932",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 944,
+  y = 352,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 912,
+  y = 344,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 376,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 968,
+  y = 384,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 344,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 872,
+  y = 360,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 352,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 392,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 384,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 472,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 928,
+  y = 456,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 968,
+  y = 440,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 952,
+  y = 440,
+  width = 16,
+  height = 16,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 824,
+  y = 464,
+  width = 16,
+  height = 16,
+  pattern = "105",
+}
+
+tile{
+  layer = 0,
+  x = 824,
+  y = 448,
+  width = 32,
+  height = 24,
+  pattern = "52",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 448,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 464,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 296,
+  width = 48,
+  height = 32,
+  pattern = "48",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 80,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "131_2",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "135_2",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 48,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 40,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 72,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 56,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 72,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 48,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 88,
+  width = 16,
+  height = 24,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 64,
+  width = 16,
+  height = 24,
+  pattern = "40",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 56,
+  width = 32,
+  height = 24,
+  pattern = "41",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "150_2",
+}
+
+tile{
+  layer = 0,
+  x = 808,
+  y = 224,
+  width = 48,
+  height = 16,
+  pattern = "1483",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "1482",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "1484",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 264,
+  width = 32,
+  height = 16,
+  pattern = "1460",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 184,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 264,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 192,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 208,
+  width = 32,
+  height = 24,
+  pattern = "174",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 208,
+  width = 16,
+  height = 24,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 288,
+  width = 16,
+  height = 24,
+  pattern = "40",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 304,
+  width = 32,
+  height = 24,
+  pattern = "41",
+}
+
+tile{
+  layer = 0,
+  x = 896,
+  y = 184,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 864,
+  y = 184,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 856,
+  y = 208,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 872,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 888,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 880,
+  y = 232,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 232,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 240,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 312,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 240,
+  width = 32,
+  height = 24,
+  pattern = "174",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "129_2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "1537",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "1537",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "1537",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "520",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "519",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "521",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 272,
+  width = 8,
+  height = 8,
+  pattern = "521",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "515",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "520",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 200,
+  width = 16,
+  height = 8,
+  pattern = "528",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "560",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "515",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "521",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "515",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "519",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 176,
+  width = 8,
+  height = 8,
+  pattern = "520",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 232,
+  width = 8,
+  height = 8,
+  pattern = "515",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 240,
+  width = 8,
+  height = 8,
+  pattern = "521",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "528",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "492",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "491",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "493",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "492",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "491",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "493",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "492",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "491",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "493",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "494",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 336,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 400,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 368,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 392,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "495",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 296,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 304,
+  width = 32,
+  height = 24,
+  pattern = "174",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "142_2",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 408,
+  width = 32,
+  height = 24,
+  pattern = "52",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 424,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 440,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 448,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 384,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 400,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 328,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 392,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 416,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 456,
+  width = 32,
+  height = 24,
+  pattern = "41",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 440,
+  width = 16,
+  height = 24,
+  pattern = "40",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 448,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 464,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 408,
+  width = 32,
+  height = 24,
+  pattern = "174",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "150_2",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 424,
+  width = 16,
+  height = 16,
+  pattern = "149_2",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 272,
+  width = 32,
+  height = 32,
+  pattern = "143",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 280,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 304,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 256,
+  width = 16,
+  height = 24,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 376,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 320,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 336,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 344,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 448,
+  width = 16,
+  height = 16,
+  pattern = "105",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 312,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 272,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 288,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 272,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 296,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "105",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "149_2",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 280,
+  width = 16,
+  height = 24,
+  pattern = "40",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "129_2",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "129",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 392,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 408,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 336,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 368,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 456,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 456,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "34",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 440,
+  width = 16,
+  height = 16,
+  pattern = "105",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 312,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 336,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 192,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 216,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 232,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "33",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 248,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 728,
+  y = 144,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 88,
+  width = 32,
+  height = 32,
+  pattern = "143",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 112,
+  width = 32,
+  height = 24,
+  pattern = "174",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "149_2",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 160,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 144,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 144,
+  width = 32,
+  height = 24,
+  pattern = "52",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 152,
+  width = 32,
+  height = 24,
+  pattern = "51",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 168,
+  width = 24,
+  height = 16,
+  pattern = "53",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 104,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 104,
+  width = 16,
+  height = 16,
+  pattern = "105",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 128,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 144,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 120,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 128,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 136,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 248,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 288,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 296,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 200,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "34",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 184,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 144,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 232,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "34",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 40,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 56,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 88,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 152,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 152,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 176,
+  width = 32,
+  height = 24,
+  pattern = "42",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 208,
+  width = 32,
+  height = 24,
+  pattern = "41",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 224,
+  width = 16,
+  height = 24,
+  pattern = "40",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 248,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 240,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "149_2",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 232,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 80,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 48,
+  width = 48,
+  height = 32,
+  pattern = "48",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "34",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "154",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 80,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "105",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 8,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "102",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "104",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 104,
+  width = 16,
+  height = 8,
+  pattern = "153",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 112,
+  width = 64,
+  height = 16,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "65",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "66",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 96,
+  width = 64,
+  height = 16,
+  pattern = "71",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 0,
+  width = 16,
+  height = 96,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 64,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 24,
+  width = 48,
+  height = 32,
+  pattern = "47",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 112,
+  width = 16,
+  height = 32,
+  pattern = "115",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 56,
+  width = 16,
+  height = 8,
+  pattern = "88",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 32,
+  width = 16,
+  height = 32,
+  pattern = "115",
+}
+
+door{
+  layer = 0,
+  x = 752,
+  y = 248,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_4",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 232,
+  y = 208,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_11",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 224,
+  y = 192,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_12",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 760,
+  y = 232,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_13",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 352,
+  y = 144,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_14",
+  opening_method = "explosion",
+}
+
+enemy{
+  layer = 0,
+  x = 912,
+  y = 453,
+  direction = 0,
+  breed = "normal_enemies/seaweed_blob",
+  savegame_variable = "carrot_stash_enemy_3",
+}
+
+enemy{
+  layer = 0,
+  x = 872,
+  y = 429,
+  direction = 0,
+  breed = "normal_enemies/seaweed_blob",
+  savegame_variable = "carrot_stash_enemy_2",
+}
+
+npc{
+  name = "carrots",
+  layer = 0,
+  x = 920,
+  y = 397,
+  direction = 3,
+  subtype = 1,
+}
+
+npc{
+  layer = 0,
+  x = 936,
+  y = 413,
+  direction = 3,
+  subtype = 1,
+  behavior = "dialog#_goatshead.observations.carrot_poem",
+}
+
+enemy{
+  name = "two_eye_rock_shroom",
+  layer = 0,
+  x = 896,
+  y = 437,
+  direction = 0,
+  breed = "normal_enemies/ogre_1",
+}
+
+destructible{
+  layer = 0,
+  x = 984,
+  y = 477,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 984,
+  y = 461,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 968,
+  y = 477,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 952,
+  y = 477,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 896,
+  y = 381,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 912,
+  y = 373,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 864,
+  y = 365,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 848,
+  y = 365,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 968,
+  y = 413,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 984,
+  y = 421,
+  sprite = "entities/bush_forest",
+  can_be_cut = true,
+}
+
+wall{
+  layer = 0,
+  x = 792,
+  y = 384,
+  width = 8,
+  height = 32,
+  stops_enemies = true,
+}
+
+destination{
+  name = "from_goatshead",
+  layer = 0,
+  x = 24,
+  y = 341,
+  direction = 0,
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 304,
+  width = 16,
+  height = 64,
+  destination_map = "goatshead_island/goatshead_harbor",
+  destination = "from_west_goat",
+}
+
+door{
+  layer = 0,
+  x = 144,
+  y = 168,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_1",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 160,
+  y = 168,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_3",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 432,
+  y = 272,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  savegame_variable = "west_goat_cracked_block_2",
+  opening_method = "explosion",
+}
+
+chest{
+  layer = 0,
+  x = 920,
+  y = 221,
+  treasure_name = "bread",
+  treasure_variant = 2,
+  treasure_savegame_variable = "west_goat_south_of_head_island_chest_state",
+  sprite = "entities/chest",
+}
+
+destructible{
+  layer = 0,
+  x = 920,
+  y = 253,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 904,
+  y = 253,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 248,
+  y = 285,
+  sprite = "entities/nitrodendron",
+  can_be_cut = true,
+  can_explode = true,
+  can_regenerate = true,
+}
+
+destructible{
+  layer = 0,
+  x = 248,
+  y = 269,
+  sprite = "entities/nitrodendron",
+  can_be_cut = true,
+  can_explode = true,
+  can_regenerate = true,
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 285,
+  sprite = "entities/nitrodendron",
+  can_be_cut = true,
+  can_explode = true,
+  can_regenerate = true,
+}
+
+enemy{
+  layer = 0,
+  x = 264,
+  y = 269,
+  direction = 0,
+  breed = "normal_enemies/gel_black",
+}
+
+door{
+  layer = 0,
+  x = 224,
+  y = 256,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 224,
+  y = 272,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 240,
+  y = 288,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  opening_method = "explosion",
+}
+
+door{
+  layer = 0,
+  x = 272,
+  y = 256,
+  direction = 3,
+  sprite = "entities/door_weak_block",
+  opening_method = "explosion",
+}
+
+npc{
+  name = "gerald",
+  layer = 0,
+  x = 456,
+  y = 285,
+  direction = 2,
+  subtype = 1,
+  sprite = "npc/man/man_20.8",
+}
+
+enemy{
+  layer = 0,
+  x = 400,
+  y = 205,
+  direction = 0,
+  breed = "normal_enemies/gel_black",
+}
+
+enemy{
+  layer = 0,
+  x = 200,
+  y = 365,
+  direction = 0,
+  breed = "normal_enemies/triangle_crab_red",
+}
+
+enemy{
+  layer = 0,
+  x = 224,
+  y = 389,
+  direction = 0,
+  breed = "normal_enemies/triangle_crab_red",
+}
+
+enemy{
+  layer = 0,
+  x = 432,
+  y = 381,
+  direction = 0,
+  breed = "normal_enemies/rock_spider_brown",
+}
+
+destructible{
+  layer = 0,
+  x = 136,
+  y = 165,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 168,
+  y = 269,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 184,
+  y = 269,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 288,
+  y = 245,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 280,
+  y = 253,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 424,
+  y = 333,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 408,
+  y = 333,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 344,
+  y = 453,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 360,
+  y = 461,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 376,
+  y = 461,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 672,
+  y = 365,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 608,
+  y = 157,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 624,
+  y = 157,
+  sprite = "entities/bush_forsythia",
+  can_be_cut = true,
+}
+
+enemy{
+  layer = 0,
+  x = 616,
+  y = 237,
+  direction = 0,
+  breed = "normal_enemies/gel_black",
+}
+
+enemy{
+  layer = 0,
+  x = 704,
+  y = 181,
+  direction = 0,
+  breed = "normal_enemies/gel_black",
+}
+
+destructible{
+  layer = 0,
+  x = 752,
+  y = 133,
+  treasure_name = "apples",
+  sprite = "entities/bush_apple_tree",
+  weight = -1,
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 136,
+  y = 269,
+  treasure_name = "berries",
+  sprite = "entities/bush_berries",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 152,
+  y = 269,
+  treasure_name = "berries",
+  sprite = "entities/bush_berries",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 136,
+  y = 253,
+  treasure_name = "berries",
+  sprite = "entities/bush_berries",
+  can_be_cut = true,
+}
+
+destination{
+  name = "from_lighthouse",
+  layer = 0,
+  x = 704,
+  y = 29,
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 688,
+  y = 0,
+  width = 32,
+  height = 16,
+  destination_map = "goatshead_island/goat_hill",
+  destination = "from_westgoat",
+}
+
+pickable{
+  layer = 0,
+  x = 312,
+  y = 157,
+  treasure_name = "rupee",
+  treasure_variant = 3,
+  treasure_savegame_variable = "goatshead_riverbank_hidden_crowns_behind_tree",
+}
+
+teletransporter{
+  layer = 0,
+  x = 144,
+  y = 128,
+  width = 16,
+  height = 16,
+  destination_map = "goatshead_island/caves/strength_charm",
+  destination = "from_outside",
+}
+
+destination{
+  name = "from_strength_charm",
+  layer = 0,
+  x = 152,
+  y = 157,
+  direction = 3,
+}
+
+teletransporter{
+  layer = 0,
+  x = 464,
+  y = 48,
+  width = 16,
+  height = 16,
+  destination_map = "goatshead_island/caves/cursed_cave",
+  destination = "from_riverbank",
+}
+
+destination{
+  name = "from_curse_cave",
+  layer = 0,
+  x = 472,
+  y = 77,
+  direction = 3,
+}
+
+tile{
+  layer = 1,
+  x = 488,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "138",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 48,
+  width = 16,
+  height = 32,
+  pattern = "139",
+}
+
+tile{
+  layer = 1,
+  x = 520,
+  y = 72,
+  width = 32,
+  height = 8,
+  pattern = "175",
+}
+
+tile{
+  layer = 1,
+  x = 368,
+  y = 120,
+  width = 48,
+  height = 24,
+  pattern = "128",
+}
+
+tile{
+  layer = 1,
+  x = 432,
+  y = 144,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 496,
+  y = 144,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 472,
+  y = 168,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 552,
+  y = 104,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 912,
+  y = 368,
+  width = 24,
+  height = 16,
+  pattern = "928",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 928,
+  y = 392,
+  width = 32,
+  height = 8,
+  pattern = "626",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 952,
+  y = 376,
+  width = 16,
+  height = 8,
+  pattern = "935",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 944,
+  y = 392,
+  width = 16,
+  height = 16,
+  pattern = "942",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 928,
+  y = 392,
+  width = 16,
+  height = 16,
+  pattern = "1681",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 944,
+  y = 304,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 912,
+  y = 320,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 824,
+  y = 408,
+  width = 32,
+  height = 40,
+  pattern = "55",
+}
+
+tile{
+  layer = 1,
+  x = 928,
+  y = 360,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 968,
+  y = 352,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 880,
+  y = 312,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 872,
+  y = 344,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 784,
+  y = 416,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 840,
+  y = 448,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 792,
+  y = 304,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = -24,
+  y = 248,
+  width = 48,
+  height = 48,
+  pattern = "49",
+  tileset = "redpine_forest",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 56,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 416,
+  y = 48,
+  width = 16,
+  height = 32,
+  pattern = "137",
+}
+
+tile{
+  layer = 1,
+  x = 440,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "141",
+}
+
+tile{
+  layer = 1,
+  x = 352,
+  y = 0,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 576,
+  y = -8,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 320,
+  y = 40,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 616,
+  y = 32,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 592,
+  y = 40,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 648,
+  y = 32,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 368,
+  y = 48,
+  width = 16,
+  height = 40,
+  pattern = "45",
+}
+
+tile{
+  layer = 1,
+  x = 400,
+  y = 24,
+  width = 16,
+  height = 40,
+  pattern = "46",
+}
+
+tile{
+  layer = 1,
+  x = 496,
+  y = 16,
+  width = 32,
+  height = 40,
+  pattern = "44",
+}
+
+tile{
+  layer = 1,
+  x = 760,
+  y = 152,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 768,
+  y = 240,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 736,
+  y = 200,
+  width = 32,
+  height = 8,
+  pattern = "175",
+}
+
+tile{
+  layer = 1,
+  x = 720,
+  y = 168,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 760,
+  y = 168,
+  width = 16,
+  height = 40,
+  pattern = "45",
+}
+
+tile{
+  layer = 1,
+  x = 720,
+  y = 248,
+  width = 16,
+  height = 40,
+  pattern = "46",
+}
+
+tile{
+  layer = 1,
+  x = 728,
+  y = 264,
+  width = 32,
+  height = 40,
+  pattern = "44",
+}
+
+tile{
+  layer = 1,
+  x = 896,
+  y = 160,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 864,
+  y = 152,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 856,
+  y = 192,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 520,
+  y = 232,
+  width = 32,
+  height = 8,
+  pattern = "175",
+}
+
+tile{
+  layer = 1,
+  x = 232,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "497",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "496",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 256,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "497",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 248,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "496",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 240,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "495",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 696,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "497",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 688,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "496",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 680,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "495",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 736,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "498",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 288,
+  y = 288,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 384,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 336,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 368,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 264,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 72,
+  y = 296,
+  width = 32,
+  height = 8,
+  pattern = "175",
+}
+
+tile{
+  layer = 1,
+  x = 296,
+  y = 368,
+  width = 32,
+  height = 40,
+  pattern = "55",
+}
+
+tile{
+  layer = 1,
+  x = 280,
+  y = 392,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 256,
+  y = 408,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 432,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 336,
+  y = 352,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 360,
+  y = 384,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 520,
+  y = 296,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 576,
+  y = 368,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 552,
+  y = 384,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 576,
+  y = 416,
+  width = 32,
+  height = 40,
+  pattern = "44",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 400,
+  width = 16,
+  height = 40,
+  pattern = "46",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 416,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = 448,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 336,
+  y = 400,
+  width = 32,
+  height = 8,
+  pattern = "175",
+}
+
+tile{
+  layer = 1,
+  x = 560,
+  y = 248,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 600,
+  y = 288,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 376,
+  y = 216,
+  width = 16,
+  height = 40,
+  pattern = "45",
+}
+
+tile{
+  layer = 1,
+  x = 368,
+  y = 240,
+  width = 16,
+  height = 40,
+  pattern = "46",
+}
+
+tile{
+  layer = 1,
+  x = 488,
+  y = 240,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 272,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 640,
+  y = 160,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 632,
+  y = 192,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 664,
+  y = 208,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 768,
+  y = 104,
+  width = 32,
+  height = 8,
+  pattern = "175",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 112,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 256,
+  y = 112,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 208,
+  y = 104,
+  width = 32,
+  height = 40,
+  pattern = "55",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 120,
+  width = 32,
+  height = 32,
+  pattern = "56",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 152,
+  width = 24,
+  height = 16,
+  pattern = "54",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 8,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 40,
+  y = 8,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 16,
+  y = 64,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 16,
+  y = 104,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 64,
+  y = 128,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 48,
+  y = 152,
+  width = 32,
+  height = 24,
+  pattern = "43",
+}
+
+tile{
+  layer = 1,
+  x = 80,
+  y = 168,
+  width = 32,
+  height = 40,
+  pattern = "44",
+}
+
+tile{
+  layer = 1,
+  x = 72,
+  y = 184,
+  width = 16,
+  height = 40,
+  pattern = "46",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 0,
+  width = 48,
+  height = 48,
+  pattern = "49",
+}
+
+tile{
+  layer = 1,
+  x = 160,
+  y = 32,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 208,
+  y = -8,
+  width = 48,
+  height = 32,
+  pattern = "50",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "116",
+}
+
+tile{
+  layer = 1,
+  x = 464,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "116",
+}
+
+tile{
+  layer = 2,
+  x = 472,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "103",
+}
+

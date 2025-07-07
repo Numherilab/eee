@@ -1,0 +1,21 @@
+animation{
+  name = "closed",
+  src_image = "entities/door_ophira.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16 },
+  },
+}
+animation{
+  name = "opening",
+  src_image = "entities/door_ophira.png",
+  frame_delay = 130,
+  directions = {
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16, num_frames = 6, num_columns = 1 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16, num_frames = 6, num_columns = 1 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16, num_frames = 6, num_columns = 1 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 8, origin_y = 16, num_frames = 6, num_columns = 1 },
+  },
+}

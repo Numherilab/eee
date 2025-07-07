@@ -1,0 +1,7 @@
+animation{
+  name = "speed",
+  src_image = "hud/status_icons.png",
+  directions = {
+    { x = 16, y = 0, frame_width = 8, frame_height = 8, origin_x = 4, origin_y = 5 },
+  },
+}

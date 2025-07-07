@@ -1,0 +1,110 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "cave_2",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "ground1.1",
+}
+
+destination{
+  name = "starting_destination",
+  layer = 0,
+  x = 120,
+  y = 101,
+  direction = 1,
+}
+
+teletransporter{
+  name = "dialog_warp",
+  layer = 0,
+  x = 112,
+  y = 88,
+  width = 16,
+  height = 16,
+  destination_map = "Limestone Island/intro_map",
+  destination = "starting_destination",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "transp",
+}
+

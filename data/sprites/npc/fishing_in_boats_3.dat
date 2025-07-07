@@ -1,0 +1,12 @@
+animation{
+  name = "stopped",
+  src_image = "npc/fishing_in_boats.png",
+  frame_delay = 280,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 64, y = 0, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 29, num_frames = 4, num_columns = 1 },
+    { x = 64, y = 0, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 29, num_frames = 4, num_columns = 1 },
+    { x = 64, y = 0, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 29, num_frames = 4, num_columns = 1 },
+    { x = 64, y = 0, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 29, num_frames = 4, num_columns = 1 },
+  },
+}

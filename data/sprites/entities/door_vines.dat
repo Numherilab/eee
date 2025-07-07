@@ -1,0 +1,21 @@
+animation{
+  name = "closed",
+  src_image = "entities/door_vines.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13 },
+  },
+}
+animation{
+  name = "destroy",
+  src_image = "entities/door_vines.png",
+  frame_delay = 160,
+  directions = {
+    { x = 0, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 7, num_columns = 1 },
+    { x = 0, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 7, num_columns = 1 },
+    { x = 0, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 7, num_columns = 1 },
+    { x = 0, y = 16, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 7, num_columns = 1 },
+  },
+}

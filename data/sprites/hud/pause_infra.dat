@@ -1,0 +1,7 @@
+animation{
+  name = "pause_infra",
+  src_image = "hud/pause_infra.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 320, frame_height = 240, origin_x = 160, origin_y = 120 },
+  },
+}

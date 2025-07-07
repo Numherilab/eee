@@ -1,0 +1,13 @@
+
+quest_lighthouses
+
+You hear about four ancient
+lighthouses built to guide
+a lost lover back from sea.
+@Light all four lighthouses.
+!You've lit $v so far.
+@You feel drawn back to
+Naerreturn Bay.
+!It's on Yarrowmouth.
+@Board the ghost ship.
+@Search the ghost ship.

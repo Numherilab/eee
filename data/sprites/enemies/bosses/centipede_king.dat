@@ -1,0 +1,52 @@
+animation{
+  name = "walking",
+  src_image = "enemies/bosses/centipede_king.png",
+  directions = {
+    { x = 48, y = 0, frame_width = 32, frame_height = 24, origin_x = 12, origin_y = 21 },
+    { x = 104, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 48, y = 24, frame_width = 32, frame_height = 24, origin_x = 20, origin_y = 21 },
+    { x = 80, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 17 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/bosses/centipede_king.png",
+  frame_delay = 80,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 48, y = 48, frame_width = 32, frame_height = 24, origin_x = 12, origin_y = 21, num_frames = 2 },
+    { x = 168, y = 48, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+    { x = 48, y = 72, frame_width = 32, frame_height = 24, origin_x = 20, origin_y = 21, num_frames = 2 },
+    { x = 120, y = 48, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 17, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/bosses/centipede_king.png",
+  directions = {
+    { x = 48, y = 0, frame_width = 32, frame_height = 24, origin_x = 12, origin_y = 21 },
+    { x = 104, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 48, y = 24, frame_width = 32, frame_height = 24, origin_x = 20, origin_y = 21 },
+    { x = 80, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 17 },
+  },
+}
+animation{
+  name = "shaking",
+  src_image = "enemies/bosses/centipede_king.png",
+  directions = {
+    { x = 48, y = 0, frame_width = 32, frame_height = 24, origin_x = 12, origin_y = 21 },
+    { x = 104, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 48, y = 24, frame_width = 32, frame_height = 24, origin_x = 20, origin_y = 21 },
+    { x = 80, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 17 },
+  },
+}
+animation{
+  name = "vulnerable",
+  src_image = "enemies/bosses/centipede_king.png",
+  directions = {
+    { x = 48, y = 0, frame_width = 32, frame_height = 24, origin_x = 12, origin_y = 21 },
+    { x = 104, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 48, y = 24, frame_width = 32, frame_height = 24, origin_x = 20, origin_y = 21 },
+    { x = 80, y = 0, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 17 },
+  },
+}

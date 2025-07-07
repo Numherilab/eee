@@ -1,0 +1,38 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "indoors_cabin",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 160,
+  y = 141,
+  direction = 3,
+}
+
+teletransporter{
+  name = "proceed_warp",
+  layer = 0,
+  x = 152,
+  y = 128,
+  width = 16,
+  height = 16,
+  destination_map = "new_limestone/tavern_up_present",
+  destination = "destination",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "roof",
+}
+

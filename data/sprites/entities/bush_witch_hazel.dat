@@ -1,0 +1,17 @@
+animation{
+  name = "on_ground",
+  src_image = "entities/bush.png",
+  frame_delay = 470,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 512, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29 },
+  },
+}
+animation{
+  name = "destroy",
+  src_image = "entities/bush.png",
+  frame_delay = 100,
+  directions = {
+    { x = 0, y = 96, frame_width = 40, frame_height = 48, origin_x = 24, origin_y = 32, num_frames = 8 },
+  },
+}

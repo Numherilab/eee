@@ -1,0 +1,11 @@
+animation{
+  name = "air_slash",
+  src_image = "enemies/misc/air_slash.png",
+  frame_delay = 60,
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 8 },
+    { x = 0, y = 32, frame_width = 32, frame_height = 56, origin_x = 16, origin_y = 49, num_frames = 8 },
+    { x = 0, y = 112, frame_width = 64, frame_height = 32, origin_x = 48, origin_y = 29, num_frames = 8 },
+    { x = 256, y = 32, frame_width = 32, frame_height = 64, origin_x = 16, origin_y = 25, num_frames = 8 },
+  },
+}

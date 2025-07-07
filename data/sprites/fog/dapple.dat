@@ -1,0 +1,7 @@
+animation{
+  name = "dapple",
+  src_image = "fog/dapple.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 416, frame_height = 240, origin_x = 208, origin_y = 237 },
+  },
+}

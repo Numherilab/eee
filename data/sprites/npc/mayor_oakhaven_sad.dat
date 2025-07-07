@@ -1,0 +1,12 @@
+animation{
+  name = "stopped",
+  src_image = "npc/mayor_oakhaven.png",
+  frame_delay = 220,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 96, y = 16, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 3 },
+    { x = 96, y = 16, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 3 },
+    { x = 96, y = 16, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 3 },
+    { x = 96, y = 16, frame_width = 32, frame_height = 48, origin_x = 16, origin_y = 45, num_frames = 3 },
+  },
+}

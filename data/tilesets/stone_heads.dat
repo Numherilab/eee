@@ -1,0 +1,173 @@
+background_color{ 255, 255, 255 }
+tile_pattern{
+  id = "1",
+  ground = "wall",
+  default_layer = 0,
+  x = 64,
+  y = 16,
+  width = 64,
+  height = 48,
+}
+
+tile_pattern{
+  id = "1_2",
+  ground = "wall",
+  default_layer = 0,
+  x = 128,
+  y = 16,
+  width = 64,
+  height = 48,
+}
+
+tile_pattern{
+  id = "1_3",
+  ground = "wall",
+  default_layer = 0,
+  x = 192,
+  y = 16,
+  width = 64,
+  height = 48,
+}
+
+tile_pattern{
+  id = "1_4",
+  ground = "wall",
+  default_layer = 0,
+  x = 0,
+  y = 144,
+  width = 64,
+  height = 48,
+}
+
+tile_pattern{
+  id = "1_5",
+  ground = "wall",
+  default_layer = 0,
+  x = 0,
+  y = 208,
+  width = 64,
+  height = 48,
+}
+
+tile_pattern{
+  id = "1_6",
+  ground = "wall",
+  default_layer = 0,
+  x = { 64, 128, 192 },
+  y = { 80, 80, 80 },
+  width = 64,
+  height = 48,
+  frame_delay = 250,
+  mirror_loop = true,
+}
+
+tile_pattern{
+  id = "1_7",
+  ground = "wall",
+  default_layer = 0,
+  x = { 64, 128, 192 },
+  y = { 144, 144, 144 },
+  width = 64,
+  height = 48,
+  frame_delay = 250,
+  mirror_loop = true,
+}
+
+tile_pattern{
+  id = "1_8",
+  ground = "wall",
+  default_layer = 0,
+  x = { 64, 128, 192 },
+  y = { 208, 208, 208 },
+  width = 64,
+  height = 48,
+  frame_delay = 250,
+  mirror_loop = true,
+}
+
+tile_pattern{
+  id = "2",
+  ground = "wall",
+  default_layer = 1,
+  x = 64,
+  y = 0,
+  width = 64,
+  height = 16,
+}
+
+tile_pattern{
+  id = "2_2",
+  ground = "wall",
+  default_layer = 1,
+  x = 128,
+  y = 0,
+  width = 64,
+  height = 16,
+}
+
+tile_pattern{
+  id = "2_3",
+  ground = "wall",
+  default_layer = 1,
+  x = 192,
+  y = 0,
+  width = 64,
+  height = 16,
+}
+
+tile_pattern{
+  id = "2_4",
+  ground = "wall",
+  default_layer = 1,
+  x = 0,
+  y = 128,
+  width = 64,
+  height = 16,
+}
+
+tile_pattern{
+  id = "2_5",
+  ground = "wall",
+  default_layer = 1,
+  x = 0,
+  y = 192,
+  width = 64,
+  height = 16,
+}
+
+tile_pattern{
+  id = "2_6",
+  ground = "wall",
+  default_layer = 1,
+  x = { 64, 128, 192 },
+  y = { 64, 64, 64 },
+  width = 64,
+  height = 16,
+  frame_delay = 250,
+  mirror_loop = true,
+}
+
+tile_pattern{
+  id = "2_7",
+  ground = "wall",
+  default_layer = 1,
+  x = { 64, 128, 192 },
+  y = { 128, 128, 128 },
+  width = 64,
+  height = 16,
+  frame_delay = 250,
+  mirror_loop = true,
+}
+
+tile_pattern{
+  id = "2_8",
+  ground = "wall",
+  default_layer = 1,
+  x = { 64, 128, 192 },
+  y = { 192, 192, 192 },
+  width = 64,
+  height = 16,
+  frame_delay = 250,
+  mirror_loop = true,
+}
+

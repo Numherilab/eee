@@ -1,0 +1,7 @@
+animation{
+  name = "spinning",
+  src_image = "entities/windmill_blades.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 80, frame_height = 80, origin_x = 40, origin_y = 40 },
+  },
+}

@@ -1,0 +1,310 @@
+--[[ quest_log.dat		3 Mar 2019
+
+	This data file describes the properties of the quest log menu.
+
+	Sized for widescreen 416x240 resolution.
+]]
+
+local data = {
+	--// bg content
+
+	{ --black bar along bottom
+		--static content doesn't need id
+		layer = "fill.black",
+		width = 416, height = 18, --UPDATED
+		x = 0, y = 222, --UPDATED
+	},
+--	{ --text that displays "XX of XX complete" below sidebar
+--		id = "complete_status",
+--		layer = "text.completed_status",
+--		width = 156, height = 10, --UPDATED
+--		x = 4, y = 227,
+--		--max characters: 26
+--	},
+	{
+		id = "back_prompt",
+		layer = "text.prompt",
+		width = 240, height = 10,
+		x = 173, y = 227, --UPDATED
+		--max characters: 40
+	},
+	{ --Quest Log title at top of menu
+		--static content doesn't need id
+		layer = "text.title",
+		width = 416, height = 16, --UPDATED
+		x = 0, y = 1,
+		text_key = "menu.quest_log.title",
+	},
+
+
+	--// sidebar frame & tabs
+
+	{ --frame comprising sidebar dialog box
+		--static content doesn't need id
+		layer = "frame.dialog_box",
+		width = 162, height = 174, --UPDATED
+		x = 1, y = 49,
+		is_top_edge = false, --tabs will fill in top edge
+		fill = {
+			{
+				layer = "fill.dialog",
+				width = 158, height = 170, --UPDATED
+				x = 2, y = 2,
+			},
+		}
+	},
+	{ --top edge of sidebar frame (fills any gap past tabs)
+		--static content doesn't need id
+		layer = "frame.dialog_box_top_edge",
+		width = 3, height = 8, --UPDATED
+		x = 152, y = 49, --UPDATED
+	},
+	{ --inactive tab in sidebar
+		id = "inactive_tab",
+		layer = "frame.inactive_tab",
+		width = 72, height = 36, --UPDATED
+		x = 8, y = 17,
+	},
+	{ --active tab in sidebar
+		id = "active_tab",
+		layer = "frame.active_tab",
+		width = 72, height = 36, --UPDATED
+		x = 8, y = 17,
+		fill = { --need 2 fills because of irregular corner of frame
+			{
+				layer = "fill.dialog",
+				width = 58, height = 30, --UPDATED
+				x = 5, y = 4,
+			},
+			{
+				layer = "fill.dialog",
+				width = 4, height = 26,
+				x = 63, y = 8, --UPDATED
+			},
+		},
+	},
+	{
+		id = "main_tab_text",
+		layer = "array.vertical",
+		subcomponent = {
+			layer = "text.tab_es",
+			width = 57, height = 11,
+			count = 2,
+			text_key = "menu.quest_log.main_quests_tab",
+		},
+		width = 57, height = 23,
+		x = 16, y = 25, --UPDATED
+		gap = 2,
+	},
+	{
+		id = "side_tab_text",
+		layer = "array.vertical",
+		subcomponent = {
+			layer = "text.tab_es",
+			width = 57, height = 11,
+			count = 2,
+			text_key = "menu.quest_log.side_quests_tab",
+		},
+		width = 57, height = 23,
+		x = 88, y = 25, --UPDATED
+		gap = 2,
+	},
+	{ --arrow icon to display when can scroll to additional tab(s) to the left
+		id = "tabs_left_arrow",
+		layer = "sprite.arrow.left",
+		--width = 8, height = 12, --height/width determined by sprite
+		x = 1, y = 28,
+	},
+	{ --arrow icon to display when can scroll to additional tab(s) to the right
+		id = "tabs_right_arrow",
+		layer = "sprite.arrow.right",
+		--width = 8, height = 12, --height/width determined by sprite
+		x = 151, y = 28, --UPDATED
+	},
+
+
+	--// sidebar content
+
+	{ --content of each item in sidebar list
+		id = "list_entries",
+		layer = "array.vertical",
+		subcomponent = {
+			layer = "group.generic",
+			width = 151, height = 23, --UPDATED
+			count = 6,
+		},
+		width = 152, height = 143, --UPDATED
+		x = 6, y = 65,
+		gap = 1,
+	},
+	{ --image overlay to show the currently selected quest in the sidebar
+		id = "list_highlight",
+		layer = "frame.list_highlight",
+		width = 152, height = 25, --UPDATED
+		x = 6, y = 64,
+		x_offset = 0, y_offset = 24, --offset for each entry
+		--position is dynamic
+	},
+	{ --arrow icon to display when sidebar can scroll up for more content
+		id = "list_up_arrow",
+		layer = "sprite.arrow.up",
+		--width = 12, height = 8, --height/width determined by image
+		x = 76, y = 55, --UPDATED
+	},
+	{ --arrow icon to display when sidebar can scroll down for more content
+		id = "list_down_arrow",
+		layer = "sprite.arrow.down",
+		--width = 12, height = 8, --height/width determined by image
+		x = 76, y = 209, --UPDATED
+	},
+
+
+	--// desc pane
+
+	{ --frame comprising desc dialog box
+		--static content doesn't need id
+		layer = "frame.dialog_box",
+		width = 250, height = 206, --UPDATED
+		x = 165, y = 17, --UPDATED
+		fill = {
+			{
+				layer = "fill.dialog",
+				width = 246, height = 202, --UPDATED
+				x = 2, y = 2,
+			},
+		}
+	},
+	-- {
+	-- 	id = "desc_complete",
+	-- 	layer = "image.complete",
+	-- 	x = 209, y = 89, --UPDATED
+	-- 	--width = 163, height = 119,
+	-- 	opacity = 120,
+	-- },
+	{ --line underneath quest title in desc pane
+		--static content doesn't need id
+		layer = "fill.title_bar",
+		width = 236, height = 1, --UPDATED
+		x = 172, y = 38, --UPDATED
+	},
+	{ --title of quest in desc pane
+		id = "desc_title",
+		layer = "text.title",
+		width = 234, height = 16, --UPDATED
+		x = 173, y = 22, --UPDATED
+	},
+	{ --current location of quest in desc pane
+		id = "desc_location",
+		layer = "text.location",
+		width = 234, height = 10, --UPDATED
+		x = 173, y = 40, --UPDATED
+	},
+	{ --description text (multi-line) of quest in desc pane
+		id = "desc_text",
+		layer = "array.vertical",
+		subcomponent = {
+			layer = "text.small",
+			width = 228, height = 14, --UPDATED
+			count = 14,
+		},
+		width = 228, height = 168, --UPDATED
+		x = 180, y = 52, --UPDATED
+		gap = -3,
+		--max chars per line: 38
+	},
+	{ --array of checkmark icons to display to mark each subtask of desc text once complete
+		id = "desc_checkmarks",
+		layer = "array.vertical",
+		subcomponent = {
+			layer = "sprite.checkmark",
+			--height/width determined by image
+			count = 14,
+		},
+		width = 6, height = 162,
+		x = 171, y = 56, --UPDATED
+		gap = 3,
+	},
+	{ --array of checkmark icons to display dynamic checkmarks (x position will vary)
+		id = "dynamic_checkmarks",
+		layer = "array.vertical",
+		subcomponent = {
+			layer = "sprite.checkmark",
+			--height/width determined by image
+			count = 14,
+		},
+		width = 228, height = 162, --UPDATED
+		x = 180, y = 56, --UPDATED
+		gap = 3,
+	},
+	{
+		id = "desc_items",
+		layer = "group.generic",
+		subcomponent = { --box containing item icon, inserted at $i0 to $i9 markers
+			layer = "group.generic",
+			width = 22, height = 22,
+			x = 0, y = 0,
+			count = 10,
+		},
+		width = 228, height = 168, --UPDATED
+		x = 172, y = 54, --UPDATED
+	},
+	{ --custom item sprite to be added to desc text
+		id = "misc_items",
+		layer = "array.vertical", --array has less overhead than group and is fine if only one entry
+		subcomponent = {
+			layer = "sprite.item_icon",
+			--height/width determined by sprite
+			count = 1,
+		},
+		width = 228, height = 168,
+		x = 180, y = 52,
+	},
+
+
+	--// other settings
+
+	tab_offset_x = 72, --x offset for each tab in pixels --UPDATED
+	tab_offset_y = 0, --y offset for each tab in pixels
+	highlight_scroll_time = 0.23, --time for highlight box to scroll to next entry in seconds, if nil then moves instantly
+	quest_totals_milestone = "reveal_quest_totals", --when this save val is not false/nil then the counts of main and side quests will be revealed
+	list_entry = { --contents of group.list_entry
+		{ --quest title
+			sub_id = "title",
+			layer = "text.small",
+			text = "Quest Title",
+			width = 144, height = 14, --UPDATED
+			x = 7, y = 0,
+			--24 characters max
+		},
+		{ --current location of quest
+			sub_id = "location",
+			layer = "text.location",
+			text = "Ballast Harbor",
+			width = 150, height = 10, --UPDATED
+			x = 1, y = 13,
+			--24 characters max
+		},
+		{ --checkmark to show in sidebar when quest is complete
+			sub_id = "entry_checkmark",
+			layer = "sprite.checkmark",
+			--height/width determined by image
+			x = 0, y = 1,
+		},
+	},
+	desc_item = { --each icon in desc_items (10 instances for $i0 to $i9)
+		{
+			sub_id = "item_sprite",
+			layer = "sprite.item_icon",
+			--height/width determined by sprite
+			x = 3, y = 3,
+		},
+		{
+			sub_id = "item_frame",
+			layer = "frame.item_box",
+			width = 22, height = 22,
+			x = 0, y = 0,
+		},
+	},
+}
+
+return data

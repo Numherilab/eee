@@ -1,0 +1,265 @@
+text{ key = "action.back", value = "Назад" }
+text{ key = "controls.action", value = "Взаимодействие/Кувырок" }
+text{ key = "controls.item1", value = "Предмет 1" }
+text{ key = "controls.item2", value = "Предмет 2" }
+text{ key = "controls.move", value = "Движение" }
+text{ key = "controls.pause", value = "Пауза" }
+text{ key = "controls.quick_menus", value = "Быстрый доступ" }
+text{ key = "controls.fullscreen", value = "Полный экран" }
+text{ key = "controls.f1", value = "Управление" }
+text{ key = "controls.switch_subscreen", value = "Перемещение в меню" }
+text{ key = "controls.sword", value = "Меч/Выход" }
+text{ key = "item.abyssal_flame.1", value = "Пламя Пучины" }
+text{ key = "item.apples.1", value = "Яблоки" }
+text{ key = "item.armor_tools.1", value = "Инструменты бронника" }
+text{ key = "item.aster_note.1", value = "Записка с угрозой" }
+text{ key = "item.ball_and_chain.1", value = "Цеп" }
+text{ key = "item.ball_and_chain.2", value = "Цеп взрывного хаоса" }
+text{ key = "item.barrier.1", value = "Защита Деваны" }
+text{ key = "item.berries.1", value = "Ягоды" }
+text{ key = "item.bomb_arrow_ticket.1", value = "Схема взрывной стрелы" }
+text{ key = "item.bombs_counter_2.1", value = "Бомбы" }
+text{ key = "item.boomerang.1", value = "Бумеранг" }
+text{ key = "item.boomerang.2", value = "Вороний бумеранг" }
+text{ key = "item.bow.1", value = "Лук" }
+text{ key = "item.bow_bombs.1", value = "Взрывные стрелы" }
+text{ key = "item.bow_fire.1", value = "Пламенные стрелы" }
+text{ key = "item.bow_warp.1", value = "Амулет телепорта" }
+text{ key = "item.bread.1", value = "Дубовый хлеб" }
+text{ key = "item.burdock.1", value = "Корни лопуха" }
+text{ key = "item.chamomile.1", value = "Ромашки" }
+text{ key = "item.charts.1", value = "Карты Ламинария" }
+text{ key = "item.contract.1", value = "Кабальный договор" }
+text{ key = "item.coral_ore.1", value = "Коралловая руда" }
+text{ key = "item.crow_feather.1", value = "Воронье перо" }
+text{ key = "item.crystal_spark.1", value = "Угли Офиры" }
+text{ key = "item.cyclone_charm.1", value = "Амулет вихря" }
+text{ key = "item.elixer.1", value = "Эликсир жизни" }
+text{ key = "item.ether_bombs.1", value = "Эфирные бомбы" }
+text{ key = "item.firethorn_berries.1", value = "Ягоды пираканты" }
+text{ key = "item.forsythia.1", value = "Форзиция" }
+text{ key = "item.geode.1", value = "Жеоды монстров" }
+text{ key = "item.ghost_orchid.1", value = "Призрачные орхидеи" }
+text{ key = "item.gust.1", value = "Буря Зефирин" }
+text{ key = "item.hideout_chart.1", value = "Карта убежища пиратского совета" }
+text{ key = "item.homing_eye.1", value = "Глаза искателя" }
+text{ key = "item.honeycomb.1", value = "Осиные соты" }
+text{ key = "item.iron_candle.1", value = "Соляные свечи" }
+text{ key = "item.key_brass.1", value = "Медный ключ" }
+text{ key = "item.key_haunted_house.1", value = "Ключ с озера Амбер" }
+text{ key = "item.iron_pinecone.1", value = "Железная шишка" }
+text{ key = "item.key_juneberry_inn.1", value = "Ключ от какого-то трактира?" }
+text{ key = "item.key_juniper_grove.1", value = "Ключ от входа в Можжевеловую рощу" }
+text{ key = "item.key_juniper_grove_2.1", value = "Ключ от ворот в Можжевеловой роще" }
+text{ key = "item.key_kingsdown.1", value = "Ключ Мальва" }
+text{ key = "item.key_mead_safehouse.1", value = "Липкий ключ" }
+text{ key = "item.key_mushroom_spot.1", value = "Ключ от грибного места" }
+text{ key = "item.key_shoal_pirate_fort.1", value = "Ключ от форта на Лотосовой отмели" }
+text{ key = "item.key_poplar_shack.1", value = "Замшелый ключ" }
+text{ key = "item.key_sinking_lighthouse.1", value = "Ключ от Мерцающих руин" }
+text{ key = "item.key_thrush_fort.1", value = "Ключ от Дроздового форта" }
+text{ key = "item.kingscrown.1", value = "Родиола" }
+text{ key = "item.lavendar.1", value = "Лаванда" }
+text{ key = "item.leaf_tornado.1", value = "Гнев Иргана" }
+text{ key = "item.machine_part.1", value = "Деталь механизма" }
+text{ key = "item.mandrake.1", value = "Корень мандрагоры" }
+text{ key = "item.mandrake_white.1", value = "Корни белой мандрагоры" }
+text{ key = "item.manna_oak_letter.1", value = "Письмо о манных дубах" }
+text{ key = "item.manna_oak_twig.1", value = "Ветвь манного дуба" }
+text{ key = "item.monkshood.1", value = "Лепестки аконита" }
+text{ key = "item.monster_bones.1", value = "Кости нежити" }
+text{ key = "item.monster_eye.1", value = "Дурные глаза" }
+text{ key = "item.monster_guts.1", value = "Требуха монстров" }
+text{ key = "item.monster_horn.1", value = "Звериные рога" }
+text{ key = "item.monster_heart.1", value = "Черные сердца" }
+text{ key = "item.oceansheart_chart.1", value = "Карта Штормового острова" }
+text{ key = "item.oranges_shipment.1", value = "Ящик апельсинов" }
+text{ key = "item.potion_burlyblade.1", value = "Зелье недюжинной силы" }
+text{ key = "item.potion_fleetseed.1", value = "Зелье скорохода" }
+text{ key = "item.potion_magic_restoration.1", value = "Зелье восстановления магии" }
+text{ key = "item.potion_stoneskin.1", value = "Зелье каменной кожи" }
+text{ key = "item.prize_money.1", value = "Денежный приз (200 крон)" }
+text{ key = "item.sleeping_draught.1", value = "Усыпляющее зелье" }
+text{ key = "item.spear.1", value = "Копье Медвежьих воинов" }
+text{ key = "item.spear.2", value = "Солнечное копье" }
+text{ key = "item.stone_beak.1", value = "Камень в форме клюва?" }
+text{ key = "item.sword_of_the_sea_king.1", value = "Меч Морского короля" }
+text{ key = "item.thunder_charm.1", value = "Слеза морской птицы" }
+text{ key = "item.thunder_charm.2", value = "Слеза морской птицы" }
+text{ key = "item.thunder_charm.3", value = "Слеза морской птицы" }
+text{ key = "item.thunder_charm.4", value = "Слеза морской птицы" }
+text{ key = "item.thunder_charm.5", value = "Слеза морской птицы" }
+text{ key = "item.tungsten_ore.1", value = "Вольфрамовая руда" }
+text{ key = "item.whisky_for_juglan.1", value = "Виски" }
+text{ key = "item.witch_hazel.1", value = "Гамамелис" }
+text{ key = "item_desc.apples.2", value = "Яблоко (3) — восстанавливает 2 сердца" }
+text{ key = "item_desc.apples.4", value = "Яблоко (10) — восстанавливает 2 сердца" }
+text{ key = "item_desc.arrow.3", value = "Стрелы (5)" }
+text{ key = "item_desc.arrow.5", value = "Стрелы (20)" }
+text{ key = "item_desc.berries.3", value = "Ягода (5) — восстанавливает полсердца" }
+text{ key = "item_desc.berries.4", value = "Ягода (20) — восстанавливает полсердца" }
+text{ key = "item_desc.bomb.3", value = "Бомбы (5)" }
+text{ key = "item_desc.bomb.4", value = "Бомбы (10)" }
+text{ key = "item_desc.bread.2", value = "Дубовый хлеб (5) — восстанавливает 5 сердец" }
+text{ key = "item_desc.bread.3", value = "Дубовый хлеб (10) — восстанавливает 5 сердец" }
+text{ key = "item_desc.elixer.1", value = "Эликсир — восстанавливает все сердца или воскрешает" }
+text{ key = "item_desc.potion_burlyblade.1", value = "Зелье силы — усиливает атаку в 1,5 раза на 4 минуты" }
+text{ key = "item_desc.potion_magic_restoration.1", value = "Магическое зелье — восстанавливает магические силы" }
+text{ key = "item_desc.potion_stoneskin.1", value = "Зелье камнекожи — уменьшает урон вдвое на 4 минуты" }
+text{ key = "item_desc.unattainable_collectable.1", value = "" }
+text{ key = "key1.false", value = "sub 1 is bad" }
+text{ key = "key1.true", value = "sub 1 is good" }
+text{ key = "key2.false", value = "I think so" }
+text{ key = "key2.true", value = "really?" }
+text{ key = "location.abyss", value = "Пучина" }
+text{ key = "location.amalenchier_tomb", value = "Гробница Иргана" }
+text{ key = "location.ballast_harbor", value = "Изобильная гавань" }
+text{ key = "location.bear_catacombs", value = "Катакомбы Медвежьих воинов" }
+text{ key = "location.council_building", value = "Оплот пиратов" }
+text{ key = "location.crabhook_village", value = "Деревня Крабовый Крюк" }
+text{ key = "location.cursed_temple", value = "Проклятый храм" }
+text{ key = "location.drowned_village", value = "Затопленная деревня" }
+text{ key = "location.eastoak", value = "Вороний форт" }
+text{ key = "location.puzzlewood", value = "Загадочный лес" }
+text{ key = "location.forest_of_tides", value = "Лес приливов" }
+text{ key = "location.fykonos", value = "Остров Фиконос" }
+text{ key = "location.ghost_ship", value = "Спасение Зефирин" }
+text{ key = "location.goatshead_harbor", value = "Козья гавань" }
+text{ key = "location.goatshead_island", value = "Козий остров" }
+text{ key = "location.gull_rock", value = "Утес чаек" }
+text{ key = "location.hourglass_fort", value = "Песочный форт" }
+text{ key = "location.isle_of_storms", value = "Штормовой остров" }
+text{ key = "location.ivystump", value = "Деревня Плющистый Кряж" }
+text{ key = "location.kingsdown", value = "Королевский остров" }
+text{ key = "location.lighthouse", value = "Ветхий маяк" }
+text{ key = "location.limestone_island", value = "Белый остров" }
+text{ key = "location.limestone_present", value = "Белый остров" }
+text{ key = "location.lobb_trail", value = "Тернистый пролив" }
+text{ key = "location.lotus_shoal", value = "Лотосовая отмель" }
+text{ key = "location.marblecliff", value = "Мраморная гора" }
+text{ key = "location.naerreturn_bay", value = "Бухта Зефир" }
+text{ key = "location.oakhaven", value = "Дубовая гавань" }
+text{ key = "location.palace_gardens", value = "Дворец Дубовой гавани" }
+text{ key = "location.palace_gardens_chase_sequence", value = "Дворец Дубовой гавани" }
+text{ key = "location.poplar_coast", value = "Еловая Верхушка" }
+text{ key = "location.poplar_forest", value = "Тополиный лес" }
+text{ key = "location.port", value = "Дубовый порт" }
+text{ key = "location.shipwreck_chain", value = "Кладбище Волн" }
+text{ key = "location.silent_glade", value = "Тихий пролесок" }
+text{ key = "location.silent_glade_health", value = "Гробница последнего вождя" }
+text{ key = "location.smoldering_rock", value = "Дымящийся валун" }
+text{ key = "location.snapmast", value = "Хряский риф" }
+text{ key = "location.snapmast_landing", value = "Хряский риф" }
+text{ key = "location.spruce_head", value = "Еловая Верхушка" }
+text{ key = "location.spruce_head_shrine", value = "Святилище Еловой Верхушки" }
+text{ key = "location.stonefell_crossroads", value = "Камнепадный перекресток" }
+text{ key = "location.sunken_palace", value = "Затонувший дворец" }
+text{ key = "location.tern_marsh", value = "Чаячье болото" }
+text{ key = "location.thrush_fort", value = "Гробница Герона" }
+text{ key = "location.umber_lake", value = "Озеро Амбер"}
+text{ key = "location.veilwood", value = "Лесной покров" }
+text{ key = "location.west_coast", value = "Западный дуб" }
+text{ key = "location.willow_palace", value = "Ивовый дворец" }
+text{ key = "location.yarrowmouth", value = "Тысячеустье" }
+text{ key = "location.yarrowmouth_village", value = "Деревня Тысячеустье" }
+text{ key = "location.zephyr_bay", value = "Бухта Зефир" }
+text{ key = "menu.map.limestone", value = "БЕЛЫЙ ОСТРОВ" }
+text{ key = "menu.map.ballast_harbor", value = "ИЗОБИЛЬНАЯ\\nГАВАНЬ" }
+text{ key = "menu.map.zephyr_bay", value = "ЛЕС ПРИЛИВОВ" }
+text{ key = "menu.map.goatshead", value = "КОЗИЙ ОСТРОВ" }
+text{ key = "menu.map.crabhook", value = "КРАБОВЫЙ КРЮК" }
+text{ key = "menu.map.lotus_shoal", value = "ЛОТОСОВАЯ\\nОТМЕЛЬ" }
+text{ key = "menu.map.spruce_head", value = "ЕЛОВАЯ\\nВЕРХУШКА" }
+text{ key = "menu.map.fort_crow", value = "ВОРОНИЙ\\nФОРТ" }
+text{ key = "menu.map.tern_marsh", value = "ЧАЯЧЬЕ\\nБОЛОТО" }
+text{ key = "menu.map.kingsdown_isle", value = "КОРОЛЕВСКИЙ\\nОСТРОВ" }
+text{ key = "menu.map.snapmast_reef", value = "ХРЯСКИЙ\\nРИФ" }
+text{ key = "menu.map.yarrowmouth", value = "ТЫСЯЧЕУСТЬЕ" }
+text{ key = "menu.map.oakport", value = "ДУБОВЫЙ ПОРТ" }
+text{ key = "menu.map.oakhaven", value = "ДУБОВАЯ ГАВАНЬ" }
+text{ key = "menu.map.ivystump", value = "ПЛЮЩИСТЫЙ КРЯЖ" }
+text{ key = "menu.map.marblecliff", value = "МРАМОРНАЯ\\nГОРА" }
+text{ key = "menu.map.isle_of_storms", value = "ШТОРМОВОЙ\\nОСТРОВ" }
+text{ key = "menu.potion_expired", value = "Эффект зелья кончился" }
+text{ key = "menu.quest_log.back_prompt", value = "D: Назад" }
+text{ key = "menu.quest_log.main_quests_tab", value = "Основные\\nзадания" }
+text{ key = "menu.quest_log.no_main_quests", value = "У тебя нет основных заданий" }
+text{ key = "menu.quest_log.no_side_quests", value = "У тебя нет побочных заданий" }
+text{ key = "menu.quest_log.quest_log_update", value = "Журнал заданий обновлен" }
+text{ key = "menu.quest_log.quests_count", value = "Завершено: $v1 из $v2" }
+text{ key = "menu.quest_log.side_quests_tab", value = "Побочные\\nзадания" }
+text{ key = "menu.quest_log.title", value = "Журнал заданий" }
+text{ key = "menu.quest_update.quest_log_complete", value = "Задание завершено!" }
+text{ key = "menu.quest_update.quest_updated", value = "Журнал заданий обновлен" }
+text{ key = "menu.sell.item_price", value = "%d кр." }
+text{ key = "menu.shop.item_price", value = "Цена: %2d кр." }
+text{ key = "menu.status.save", value = "Сохранить" }
+text{ key = "menu.status.quit", value = "Выйти" }
+text{ key = "menu.status.controls", value = "Управление" }
+text{ key = "menu.status.music", value = "Музыка" }
+text{ key = "menu.status.sounds", value = "Звуки" }
+text{ key = "menu.status.dialog_size", value = "Шрифт" }
+text{ key = "menu.title.cancel", value = "Отменить" }
+text{ key = "menu.title.confirm", value = "Подтвердить" }
+text{ key = "menu.title.continue", value = "Продолжить" }
+text{ key = "menu.title.demo", value = "Демоверсия" }
+text{ key = "menu.title.new_game", value = "Новая игра" }
+text{ key = "menu.title.quit", value = "Выйти" }
+text{ key = "menu.title.full_demo", value = "Полная демоверсия" }
+text{ key = "menu.title.beach_demo", value = "Пляж" }
+text{ key = "menu.title.boss_demo", value = "Босс" }
+text{ key = "menu.title.clear_save", value = "Удалить\\nсохранение" }
+text{ key = "player_name", value = "Тилия" }
+text{ key = "menu.status.screenshake", value = "Дрожащий экран" }
+text{ key = "menu.title.corrupted_save", value = "Файл сохранения поврежден!" }
+text{ key = "menu.title.credits", value = "Титры" }
+text{ key = "menu.title.language", value = "Язык" }
+text{ key = "menu.title.options", value = "Настройки" }
+
+text{ key = "menu.hud.command_effect.grab", value = "Взять" }
+text{ key = "menu.hud.command_effect.interact", value = "Взаимодействие" }
+text{ key = "menu.hud.command_effect.lift", value = "Поднять" }
+text{ key = "menu.hud.command_effect.look", value = "Посмотреть" }
+text{ key = "menu.hud.command_effect.next", value = "Далее" }
+text{ key = "menu.hud.command_effect.open", value = "Открыть" }
+text{ key = "menu.hud.command_effect.run", value = "Бежать" }
+text{ key = "menu.hud.command_effect.speak", value = "Говорить" }
+text{ key = "menu.hud.command_effect.swim", value = "Плыть" }
+text{ key = "menu.hud.command_effect.throw", value = "Бросить" }
+
+text{ key = "options.caption.press_action_change_mode", value = "Нажми «Действие», чтобы изменить настройки" }
+text{ key = "options.caption.press_action_customize_key", value = "Нажми «Действие», чтобы настроить клавишу" }
+text{ key = "options.caption.press_key", value = "Нажми любую клавишу или кнопку" }
+text{ key = "options.command.action", value = "Действие" }
+text{ key = "options.command.attack", value = "Атаковать" }
+text{ key = "options.command.down", value = "Вниз" }
+text{ key = "options.command.item_1", value = "Предмет 1" }
+text{ key = "options.command.item_2", value = "Предмет 2" }
+text{ key = "options.command.left", value = "Влево" }
+text{ key = "options.command.pause", value = "Пауза" }
+text{ key = "options.command.right", value = "Вправо" }
+text{ key = "options.command.up", value = "Вверх" }
+text{ key = "options.command.prev_item", value = "Назад" }
+text{ key = "options.command.menu_1", value = "Инвентарь" }
+text{ key = "options.command.menu_2", value = "Журнал заданий" }
+text{ key = "options.command.menu_3", value = "Карта" }
+text{ key = "options.command.menu_4", value = "Настройки" }
+text{ key = "options.command.prev_menu", value = "Назад" }
+text{ key = "options.command.next_menu", value = "Далее" }
+text{ key = "options.command.next_item", value = "Далее" }
+text{ key = "options.commands_column", value = "Команда" }
+text{ key = "options.joypad_column", value = "Геймпад" }
+text{ key = "options.keyboard_column", value = "Клавиатура" }
+
+text{ key = "selection_menu.options.fullscreen", value = "Полноэкранный режим" }
+text{ key = "selection_menu.options.fullscreen_false", value = "Выкл." }
+text{ key = "selection_menu.options.fullscreen_true", value = "Вкл." }
+
+text{ key = "menu.status.stats.armor_level", value = "Уровень брони" }
+text{ key = "menu.status.stats.bow_damage", value = "Урон лука" }
+text{ key = "menu.status.stats.sword_damage", value = "Урон меча" }
+
+text{ key = "menu.crafting.crafting_title", value = "Создание" }
+
+text{ key = "menu.inventory.sewn_hud_life", value = "Жизни" }
+text{ key = "menu.inventory.sewn_hud_magic", value = "Магия" }

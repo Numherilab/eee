@@ -1,0 +1,7 @@
+animation{
+  name = "stopped",
+  src_image = "menus/maps/landmasses/ballast_harbor.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 96, frame_height = 32, origin_x = 0, origin_y = 0 },
+  },
+}

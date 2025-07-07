@@ -1,0 +1,23 @@
+animation{
+  name = "walking",
+  src_image = "enemies/bosses/abyss_beast.png",
+  frame_delay = 170,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 496, frame_width = 48, frame_height = 96, origin_x = 24, origin_y = 93, num_frames = 4 },
+    { x = 0, y = 496, frame_width = 48, frame_height = 96, origin_x = 24, origin_y = 93, num_frames = 4 },
+    { x = 0, y = 496, frame_width = 48, frame_height = 96, origin_x = 24, origin_y = 93, num_frames = 4 },
+    { x = 0, y = 496, frame_width = 48, frame_height = 96, origin_x = 24, origin_y = 93, num_frames = 4 },
+  },
+}
+animation{
+  name = "evaporating",
+  src_image = "enemies/bosses/abyss_beast.png",
+  frame_delay = 120,
+  directions = {
+    { x = 0, y = 592, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 85, num_frames = 4 },
+    { x = 0, y = 592, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 85, num_frames = 4 },
+    { x = 0, y = 592, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 85, num_frames = 4 },
+    { x = 0, y = 592, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 85, num_frames = 4 },
+  },
+}

@@ -1,0 +1,11 @@
+animation{
+  name = "stopped",
+  src_image = "entities/splash.png",
+  frame_delay = 110,
+  directions = {
+    { x = 0, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 5 },
+    { x = 0, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 5 },
+    { x = 0, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 5 },
+    { x = 0, y = 48, frame_width = 32, frame_height = 16, origin_x = 16, origin_y = 13, num_frames = 5 },
+  },
+}

@@ -1,0 +1,333 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "indoors_stone",
+  music = "title_screen",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 96,
+  width = 96,
+  height = 80,
+  pattern = "shallow_water",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 80,
+  width = 64,
+  height = 112,
+  pattern = "shallow_water",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 112,
+  width = 128,
+  height = 48,
+  pattern = "shallow_water",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 88,
+  width = 16,
+  height = 32,
+  pattern = "639",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 72,
+  width = 16,
+  height = 32,
+  pattern = "639",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 56,
+  width = 64,
+  height = 32,
+  pattern = "639",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 72,
+  width = 16,
+  height = 32,
+  pattern = "639",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 88,
+  width = 16,
+  height = 32,
+  pattern = "639",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "shallow_water",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "640",
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 208,
+  y = 189,
+  direction = 1,
+}
+
+teletransporter{
+  layer = 0,
+  x = 200,
+  y = 192,
+  width = 16,
+  height = 16,
+  destination_map = "oakhaven/gull_rock",
+  destination = "from_tree",
+}
+
+npc{
+  name = "sword",
+  layer = 0,
+  x = 208,
+  y = 141,
+  direction = 3,
+  subtype = 1,
+}
+
+custom_entity{
+  name = "hazel",
+  layer = 0,
+  x = 224,
+  y = 189,
+  enabled_at_start = false,
+  width = 16,
+  height = 16,
+  direction = 1,
+  sprite = "npc/hazel",
+  model = "ally",
+}
+
+wall{
+  layer = 0,
+  x = 160,
+  y = 176,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 144,
+  y = 160,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 176,
+  y = 192,
+  width = 24,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 200,
+  y = 208,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 216,
+  y = 192,
+  width = 24,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 240,
+  y = 176,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 256,
+  y = 160,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 128,
+  y = 88,
+  width = 16,
+  height = 72,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 144,
+  y = 72,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 160,
+  y = 56,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 176,
+  y = 40,
+  width = 64,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 240,
+  y = 56,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 256,
+  y = 72,
+  width = 16,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 272,
+  y = 88,
+  width = 16,
+  height = 72,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+dynamic_tile{
+  name = "sword_tile",
+  layer = 1,
+  x = 200,
+  y = 112,
+  width = 16,
+  height = 24,
+  pattern = "641",
+}
+

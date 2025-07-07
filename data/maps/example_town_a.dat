@@ -1,0 +1,8604 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 832,
+  height = 480,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 832,
+  height = 480,
+  pattern = "grass_light",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 288,
+  width = 96,
+  height = 24,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 304,
+  width = 64,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 272,
+  width = 104,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 416,
+  width = 64,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 408,
+  width = 64,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 384,
+  width = 72,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 376,
+  width = 72,
+  height = 24,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 360,
+  width = 56,
+  height = 24,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 424,
+  width = 56,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 432,
+  width = 96,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 336,
+  width = 48,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 312,
+  width = 48,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 296,
+  width = 64,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 288,
+  width = 64,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 392,
+  width = 56,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 400,
+  width = 80,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 408,
+  width = 104,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 424,
+  width = 136,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 264,
+  width = 104,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 272,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 272,
+  width = 8,
+  height = 40,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 280,
+  width = 64,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 288,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 296,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 312,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 312,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 320,
+  width = 64,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 336,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 344,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 352,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 352,
+  width = 32,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 368,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 368,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 376,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 384,
+  width = 56,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 400,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 400,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 424,
+  width = 56,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 424,
+  width = 8,
+  height = 48,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 424,
+  width = 8,
+  height = 48,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 432,
+  width = 8,
+  height = 48,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 440,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 456,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 464,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 472,
+  width = 136,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 480,
+  width = 96,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 264,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 400,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 456,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 456,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 472,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 472,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 480,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 480,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 24,
+  width = 80,
+  height = 72,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 40,
+  width = 32,
+  height = 40,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 8,
+  width = 32,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 32,
+  width = 56,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 24,
+  width = 56,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 48,
+  width = 64,
+  height = 24,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 56,
+  width = 80,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 72,
+  width = 56,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 64,
+  width = 40,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 48,
+  width = 40,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 40,
+  width = 184,
+  height = 64,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 72,
+  width = 72,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 96,
+  width = 56,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 104,
+  width = 64,
+  height = 40,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 128,
+  width = 56,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 0,
+  width = 152,
+  height = 48,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 40,
+  width = 144,
+  height = 16,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 48,
+  width = 112,
+  height = 24,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 64,
+  width = 96,
+  height = 32,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 88,
+  width = 40,
+  height = 24,
+  pattern = "grass_dark",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = -8,
+  width = 152,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 0,
+  width = 32,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 0,
+  width = 8,
+  height = 48,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 0,
+  width = 8,
+  height = 32,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 8,
+  width = 8,
+  height = 48,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 16,
+  width = 56,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 16,
+  width = 56,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 24,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 24,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 32,
+  width = 184,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 40,
+  width = 8,
+  height = 24,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 40,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 40,
+  width = 32,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 40,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 48,
+  width = 40,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 56,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 64,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 712,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 64,
+  width = 8,
+  height = 48,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 72,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 408,
+  y = 72,
+  width = 40,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 80,
+  width = 40,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 80,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 88,
+  width = 8,
+  height = 16,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 88,
+  width = 40,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 96,
+  width = 16,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 96,
+  width = 80,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 96,
+  width = 48,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 104,
+  width = 8,
+  height = 56,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 104,
+  width = 128,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 104,
+  width = 56,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 112,
+  width = 40,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 120,
+  width = 24,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 160,
+  width = 56,
+  height = 8,
+  pattern = "grass_dark_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = -8,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = -8,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 0,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 0,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 16,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 24,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 24,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 32,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 712,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 832,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 848,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 712,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 592,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 104,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 840,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "grass_dark_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 16,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 56,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 808,
+  y = -16,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 24,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 64,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 160,
+  width = 128,
+  height = 32,
+  pattern = "13",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 192,
+  width = 128,
+  height = 16,
+  pattern = "12",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 144,
+  width = 128,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "38",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 208,
+  width = 128,
+  height = 48,
+  pattern = "13",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "15",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 208,
+  width = 16,
+  height = 48,
+  pattern = "14",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 192,
+  width = 128,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 256,
+  width = 128,
+  height = 16,
+  pattern = "12",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "21",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "38",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 208,
+  width = 192,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "15",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 224,
+  width = 16,
+  height = 48,
+  pattern = "14",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 224,
+  width = 192,
+  height = 48,
+  pattern = "13",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 272,
+  width = 192,
+  height = 16,
+  pattern = "12",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 184,
+  width = 32,
+  height = 24,
+  pattern = "158",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 80,
+  width = 32,
+  height = 24,
+  pattern = "158",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 168,
+  width = 32,
+  height = 24,
+  pattern = "158",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 104,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 208,
+  width = 160,
+  height = 128,
+  pattern = "water",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 336,
+  width = 96,
+  height = 144,
+  pattern = "water",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 336,
+  width = 16,
+  height = 32,
+  pattern = "water",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "15",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 160,
+  width = 16,
+  height = 32,
+  pattern = "14",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 144,
+  width = 128,
+  height = 16,
+  pattern = "13",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 160,
+  width = 128,
+  height = 16,
+  pattern = "12",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 128,
+  width = 128,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "38",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 192,
+  width = 112,
+  height = 16,
+  pattern = "69_2",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 208,
+  width = 112,
+  height = 16,
+  pattern = "70_2",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "69_3",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "70_3",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 208,
+  width = 24,
+  height = 8,
+  pattern = "grass_light_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 264,
+  width = 8,
+  height = 64,
+  pattern = "grass_light_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 216,
+  width = 8,
+  height = 112,
+  pattern = "grass_light_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 328,
+  width = 24,
+  height = 8,
+  pattern = "grass_light_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 336,
+  width = 8,
+  height = 144,
+  pattern = "grass_light_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 336,
+  width = 8,
+  height = 24,
+  pattern = "grass_light_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 368,
+  width = 8,
+  height = 112,
+  pattern = "grass_light_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 328,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 256,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "wave_2",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "wave_2",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "wave",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 248,
+  width = 16,
+  height = 16,
+  pattern = "wave",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "wave",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "wave_2",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "19",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "14",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "15",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 96,
+  width = 16,
+  height = 32,
+  pattern = "21",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "31",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 160,
+  width = 16,
+  height = 128,
+  pattern = "22",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 320,
+  width = 32,
+  height = 16,
+  pattern = "12",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "20",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "9",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "10",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 304,
+  width = 32,
+  height = 16,
+  pattern = "13",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "39",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "20",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 160,
+  width = 16,
+  height = 16,
+  pattern = "10",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 80,
+  width = 16,
+  height = 64,
+  pattern = "22",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "9",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "30",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 16,
+  height = 80,
+  pattern = "grass_light",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "vine_nook_3",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 208,
+  width = 16,
+  height = 48,
+  pattern = "vine_nook_2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 264,
+  width = 16,
+  height = 8,
+  pattern = "vine_nook_4",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "vine_nook_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "vine_base",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 248,
+  width = 16,
+  height = 16,
+  pattern = "vine_1",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "vine_5",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 200,
+  width = 16,
+  height = 48,
+  pattern = "vine_2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "vine_4",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "vine_4",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 432,
+  width = 96,
+  height = 16,
+  pattern = "24",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "25",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 448,
+  width = 16,
+  height = 32,
+  pattern = "21",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "33",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 352,
+  width = 32,
+  height = 16,
+  pattern = "24",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "25",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 368,
+  width = 16,
+  height = 64,
+  pattern = "21",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_15",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_22",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_24",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_21",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_20",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_17",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_19",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_14",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_15",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_22",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_24",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_21",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_20",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_17",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "132_19",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "132_14",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 424,
+  width = 128,
+  height = 16,
+  pattern = "shadow",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_18",
+}
+
+tile{
+  layer = 0,
+  x = 400,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_23",
+}
+
+tile{
+  layer = 0,
+  x = 384,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_13",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_16",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_18",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_13",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 424,
+  width = 16,
+  height = 16,
+  pattern = "126",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 424,
+  width = 16,
+  height = 16,
+  pattern = "126",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_23",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "132_16",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 432,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "wave_2",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 232,
+  width = 16,
+  height = 32,
+  pattern = "204",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 232,
+  width = 16,
+  height = 32,
+  pattern = "209",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "202",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 264,
+  width = 96,
+  height = 16,
+  pattern = "202_2",
+}
+
+tile{
+  layer = 0,
+  x = 768,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "208",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "214",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 264,
+  width = 8,
+  height = 16,
+  pattern = "213",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 280,
+  width = 32,
+  height = 8,
+  pattern = "threshold_1",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 264,
+  width = 8,
+  height = 16,
+  pattern = "215",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 176,
+  width = 16,
+  height = 32,
+  pattern = "271",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "waterfall_top",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 200,
+  width = 16,
+  height = 24,
+  pattern = "waterfall_base_deep",
+}
+
+tile{
+  layer = 0,
+  x = 440,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "106_3",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 280,
+  width = 16,
+  height = 16,
+  pattern = "106_2",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "260",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 232,
+  width = 96,
+  height = 32,
+  pattern = "204_2",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 256,
+  width = 24,
+  height = 56,
+  pattern = "196_2",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 256,
+  width = 24,
+  height = 56,
+  pattern = "196",
+}
+
+tile{
+  layer = 0,
+  x = 760,
+  y = 240,
+  width = 24,
+  height = 16,
+  pattern = "197_2",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 272,
+  width = 16,
+  height = 24,
+  pattern = "255",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 288,
+  width = 16,
+  height = 24,
+  pattern = "194_3",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 240,
+  width = 24,
+  height = 16,
+  pattern = "197",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 296,
+  width = 48,
+  height = 24,
+  pattern = "200_3",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "132_7",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "132",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "132_4",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "132_10",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 296,
+  width = 16,
+  height = 24,
+  pattern = "199_3",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 320,
+  width = 64,
+  height = 16,
+  pattern = "132_12",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "132_10",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "132_11",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "214",
+}
+
+tile{
+  layer = 0,
+  x = 552,
+  y = 304,
+  width = 8,
+  height = 16,
+  pattern = "213",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 304,
+  width = 8,
+  height = 16,
+  pattern = "215",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "132_5",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "132_8",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "132_11",
+}
+
+tile{
+  layer = 0,
+  x = 576,
+  y = 256,
+  width = 16,
+  height = 16,
+  pattern = "132_3",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 296,
+  width = 16,
+  height = 24,
+  pattern = "201_3",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "256",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "256",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 264,
+  width = 16,
+  height = 32,
+  pattern = "roof_br_4",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 232,
+  width = 16,
+  height = 32,
+  pattern = "roof_right_4",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 264,
+  width = 48,
+  height = 32,
+  pattern = "roof_bottom_4",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 264,
+  width = 16,
+  height = 32,
+  pattern = "roof_dl_4",
+}
+
+tile{
+  layer = 0,
+  x = 520,
+  y = 232,
+  width = 48,
+  height = 32,
+  pattern = "roof_4",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 232,
+  width = 16,
+  height = 32,
+  pattern = "roof_left_4",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "cobblestone_edge_7",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 352,
+  width = 48,
+  height = 32,
+  pattern = "cobblestone",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "cobblestone_edge_5",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 352,
+  width = 16,
+  height = 32,
+  pattern = "cobblestone_edge_4",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "cobblestone_edge_3",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 336,
+  width = 48,
+  height = 16,
+  pattern = "cobblestone_edge_2",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "cobblestone_edge_1",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 352,
+  width = 16,
+  height = 32,
+  pattern = "cobblestone_edge_8",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 384,
+  width = 48,
+  height = 16,
+  pattern = "cobblestone_edge_6",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 352,
+  width = 48,
+  height = 32,
+  pattern = "264",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "137_8",
+}
+
+tile{
+  layer = 0,
+  x = 464,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "137_6",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 288,
+  width = 16,
+  height = 16,
+  pattern = "137_9",
+}
+
+tile{
+  layer = 0,
+  x = 472,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "137_8",
+}
+
+tile{
+  layer = 0,
+  x = 448,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "137_7",
+}
+
+tile{
+  layer = 0,
+  x = 456,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "137_6",
+}
+
+tile{
+  layer = 0,
+  x = 424,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "137_5",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "137_3",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "137_5",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 264,
+  width = 16,
+  height = 16,
+  pattern = "137_9",
+}
+
+tile{
+  layer = 0,
+  x = 368,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "137_6",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 280,
+  width = 16,
+  height = 16,
+  pattern = "137_7",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "137_7",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 432,
+  width = 16,
+  height = 16,
+  pattern = "137_9",
+}
+
+tile{
+  layer = 0,
+  x = 392,
+  y = 440,
+  width = 16,
+  height = 16,
+  pattern = "137_8",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 456,
+  width = 16,
+  height = 16,
+  pattern = "137_7",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 160,
+  width = 48,
+  height = 32,
+  pattern = "165",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 176,
+  width = 32,
+  height = 24,
+  pattern = "164",
+}
+
+tile{
+  layer = 0,
+  x = 696,
+  y = 0,
+  width = 32,
+  height = 24,
+  pattern = "164",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 32,
+  width = 48,
+  height = 32,
+  pattern = "165",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "roof_left_4",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "roof_right_4",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 256,
+  width = 16,
+  height = 32,
+  pattern = "roof_dl_4",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 256,
+  width = 16,
+  height = 32,
+  pattern = "roof_br_4",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 256,
+  width = 48,
+  height = 32,
+  pattern = "roof_bottom_4",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 240,
+  width = 48,
+  height = 16,
+  pattern = "roof_4",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 288,
+  width = 48,
+  height = 24,
+  pattern = "200_4",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 288,
+  width = 16,
+  height = 24,
+  pattern = "199_4",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 288,
+  width = 16,
+  height = 24,
+  pattern = "201_4",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "roof_left_4",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "roof_right_4",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 344,
+  width = 16,
+  height = 32,
+  pattern = "roof_dl_4",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 344,
+  width = 16,
+  height = 32,
+  pattern = "roof_br_4",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 344,
+  width = 48,
+  height = 32,
+  pattern = "roof_bottom_4",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 328,
+  width = 48,
+  height = 16,
+  pattern = "roof_4",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "199",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 376,
+  width = 16,
+  height = 24,
+  pattern = "201",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 376,
+  width = 48,
+  height = 24,
+  pattern = "200",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 400,
+  width = 32,
+  height = 8,
+  pattern = "threshold_1",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "215",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "214",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 384,
+  width = 8,
+  height = 16,
+  pattern = "213",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 376,
+  width = 16,
+  height = 8,
+  pattern = "113_2",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113_3",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "113",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 376,
+  width = 16,
+  height = 8,
+  pattern = "113_2",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "208",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 64,
+  width = 48,
+  height = 48,
+  pattern = "206",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "202_2",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "202",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "168",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "113_4",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 96,
+  width = 8,
+  height = 16,
+  pattern = "215",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "214",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 96,
+  width = 8,
+  height = 16,
+  pattern = "213",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 112,
+  width = 32,
+  height = 8,
+  pattern = "cobblestone_large_dark_single",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 136,
+  width = 16,
+  height = 8,
+  pattern = "cobblestone_large_dark_single",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 144,
+  width = 16,
+  height = 8,
+  pattern = "cobblestone_large_dark_single",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 160,
+  width = 16,
+  height = 8,
+  pattern = "cobblestone_large_dark_single",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 312,
+  width = 32,
+  height = 8,
+  pattern = "threshold_1",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "214",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 296,
+  width = 8,
+  height = 16,
+  pattern = "215",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 296,
+  width = 8,
+  height = 16,
+  pattern = "213",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 0,
+  width = 32,
+  height = 64,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 48,
+  width = 32,
+  height = 80,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 96,
+  width = 32,
+  height = 112,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 176,
+  width = 48,
+  height = 48,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 208,
+  width = 32,
+  height = 128,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 320,
+  width = 16,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 352,
+  width = 80,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 352,
+  width = 48,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 384,
+  width = 16,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 0,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_1",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_1",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 176,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_1",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 296,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_1",
+}
+
+tile{
+  layer = 0,
+  x = 504,
+  y = 352,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_1",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 264,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_2",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 48,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_2",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 144,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_3",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 224,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_3",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = -8,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 0,
+  width = 8,
+  height = 64,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 0,
+  width = 8,
+  height = 48,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 40,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 48,
+  width = 8,
+  height = 48,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 64,
+  width = 8,
+  height = 64,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 96,
+  width = 8,
+  height = 112,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 128,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 136,
+  width = 8,
+  height = 32,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 168,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 176,
+  width = 8,
+  height = 32,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 200,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 208,
+  width = 8,
+  height = 144,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 208,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 224,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 224,
+  width = 8,
+  height = 112,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 336,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 344,
+  width = 112,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 336,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 352,
+  width = 8,
+  height = 48,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 352,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 368,
+  width = 64,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 368,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 384,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 392,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 384,
+  width = 8,
+  height = 32,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 416,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = -8,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = -8,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 40,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 64,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 88,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 616,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 688,
+  y = 208,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 640,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 600,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 608,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 512,
+  y = 416,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 664,
+  y = 184,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_4",
+}
+
+tile{
+  layer = 0,
+  x = 568,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_4",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_5",
+}
+
+tile{
+  layer = 0,
+  x = 488,
+  y = 400,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_6",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 392,
+  width = 48,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 376,
+  width = 48,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 360,
+  width = 32,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 328,
+  width = 48,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 320,
+  width = 48,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 312,
+  width = 32,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 304,
+  width = 48,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 296,
+  width = 112,
+  height = 16,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 304,
+  width = 32,
+  height = 32,
+  pattern = "dirt",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 312,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_2",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 288,
+  width = 112,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 296,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 296,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 312,
+  width = 8,
+  height = 32,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 312,
+  width = 80,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 312,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 320,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 320,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 320,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 328,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 328,
+  width = 8,
+  height = 32,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 336,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -8,
+  y = 344,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 344,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 352,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 360,
+  width = 48,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 360,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 360,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 368,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 376,
+  width = 16,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 376,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 376,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 384,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_2",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 392,
+  width = 32,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 392,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_4",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 392,
+  width = 8,
+  height = 16,
+  pattern = "dirt_edge_8",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 296,
+  y = 408,
+  width = 48,
+  height = 8,
+  pattern = "dirt_edge_6",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 288,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 296,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_1",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_11",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 320,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_9",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 336,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 344,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 352,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 360,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 376,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_12",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_3",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 392,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_10",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_7",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 408,
+  width = 8,
+  height = 8,
+  pattern = "dirt_edge_5",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 312,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_2",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 328,
+  width = 32,
+  height = 32,
+  pattern = "dirt_variant_3",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_7",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_6",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 392,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_6",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_6",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_4",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_4",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_5",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 320,
+  width = 16,
+  height = 16,
+  pattern = "dirt_variant_4",
+}
+
+tile{
+  layer = 0,
+  x = 704,
+  y = 144,
+  width = 48,
+  height = 48,
+  pattern = "157",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 184,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 744,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_7",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_5",
+}
+
+tile{
+  layer = 0,
+  x = 544,
+  y = 184,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 528,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_3",
+}
+
+tile{
+  layer = 0,
+  x = 624,
+  y = 136,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 680,
+  y = 72,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 584,
+  y = 104,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 80,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_6",
+}
+
+tile{
+  layer = 0,
+  x = 536,
+  y = 104,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 496,
+  y = 80,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_7",
+}
+
+tile{
+  layer = 0,
+  x = 432,
+  y = 104,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_6",
+}
+
+tile{
+  layer = 0,
+  x = 416,
+  y = 112,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_3",
+}
+
+tile{
+  layer = 0,
+  x = 328,
+  y = 112,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 344,
+  y = 128,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_7",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_5",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 144,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 152,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 160,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_7",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 184,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 144,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_5",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 152,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 152,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 184,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_3",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "flower_2",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 128,
+  width = 16,
+  height = 16,
+  pattern = "flower_1",
+}
+
+tile{
+  layer = 0,
+  x = 808,
+  y = 128,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_7",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 120,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 176,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_5",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 256,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_6",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 264,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_3",
+}
+
+tile{
+  layer = 0,
+  x = 792,
+  y = 88,
+  width = 32,
+  height = 16,
+  pattern = "97_4",
+}
+
+tile{
+  layer = 0,
+  x = 784,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 816,
+  y = 104,
+  width = 16,
+  height = 16,
+  pattern = "101_6",
+}
+
+tile{
+  layer = 0,
+  x = 808,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "107_2",
+}
+
+tile{
+  layer = 0,
+  x = 800,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "107_3",
+}
+
+tile{
+  layer = 0,
+  x = 776,
+  y = 64,
+  width = 16,
+  height = 8,
+  pattern = "108_2",
+}
+
+tile{
+  layer = 0,
+  x = 752,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "109_2",
+}
+
+tile{
+  layer = 0,
+  x = 632,
+  y = 368,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 648,
+  y = 360,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 320,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_6",
+}
+
+tile{
+  layer = 0,
+  x = 720,
+  y = 304,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail",
+}
+
+tile{
+  layer = 0,
+  x = 672,
+  y = 280,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_3",
+}
+
+tile{
+  layer = 0,
+  x = 656,
+  y = 288,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail",
+}
+
+tile{
+  layer = 0,
+  x = 736,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 560,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 480,
+  y = 344,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_1",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 328,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_5",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 336,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 312,
+  y = 352,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_7",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 392,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_4",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_5",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 416,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_2",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 400,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_6",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 408,
+  width = 16,
+  height = 8,
+  pattern = "grass_detail_3",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 384,
+  width = 24,
+  height = 16,
+  pattern = "223",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 376,
+  width = 16,
+  height = 16,
+  pattern = "260",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 376,
+  width = 16,
+  height = 16,
+  pattern = "260",
+}
+
+wall{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 560,
+  height = 56,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 144,
+  y = 448,
+  width = 200,
+  height = 24,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 808,
+  y = 336,
+  width = 24,
+  height = 144,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 512,
+  y = 448,
+  width = 296,
+  height = 32,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 640,
+  y = 21,
+  direction = 3,
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 16,
+  width = 128,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = -32,
+  width = 576,
+  height = 72,
+  pattern = "261",
+}
+
+tile{
+  layer = 1,
+  x = 544,
+  y = -24,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 16,
+  width = 384,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 32,
+  y = 56,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = -32,
+  y = 56,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 56,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 792,
+  y = -56,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 720,
+  y = -40,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 768,
+  y = -16,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 800,
+  y = 24,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = -24,
+  y = 152,
+  width = 48,
+  height = 40,
+  pattern = "159",
+}
+
+tile{
+  layer = 1,
+  x = 296,
+  y = 48,
+  width = 48,
+  height = 40,
+  pattern = "159",
+}
+
+tile{
+  layer = 1,
+  x = 296,
+  y = 136,
+  width = 48,
+  height = 40,
+  pattern = "159",
+}
+
+tile{
+  layer = 1,
+  x = 152,
+  y = 424,
+  width = 192,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 456,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 480,
+  y = 456,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 448,
+  width = 192,
+  height = 72,
+  pattern = "261",
+}
+
+tile{
+  layer = 1,
+  x = 808,
+  y = 320,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 776,
+  y = 352,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 808,
+  y = 344,
+  width = 64,
+  height = 144,
+  pattern = "261",
+}
+
+tile{
+  layer = 1,
+  x = 760,
+  y = 400,
+  width = 48,
+  height = 40,
+  pattern = "159",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 424,
+  width = 320,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 512,
+  y = 448,
+  width = 320,
+  height = 72,
+  pattern = "261",
+}
+
+tile{
+  layer = 1,
+  x = 472,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 464,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 352,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 360,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 352,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 360,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 464,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 472,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 216,
+  width = 96,
+  height = 16,
+  pattern = "205_2",
+}
+
+tile{
+  layer = 1,
+  x = 656,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "205",
+}
+
+tile{
+  layer = 1,
+  x = 768,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 1,
+  x = 736,
+  y = 200,
+  width = 24,
+  height = 40,
+  pattern = "198",
+}
+
+tile{
+  layer = 1,
+  x = 760,
+  y = 200,
+  width = 24,
+  height = 40,
+  pattern = "198_2",
+}
+
+tile{
+  layer = 1,
+  x = 696,
+  y = 248,
+  width = 32,
+  height = 16,
+  pattern = "216",
+}
+
+tile{
+  layer = 1,
+  x = 528,
+  y = 288,
+  width = 32,
+  height = 16,
+  pattern = "216",
+}
+
+tile{
+  layer = 1,
+  x = 504,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "roof_ul_corner_4",
+}
+
+tile{
+  layer = 1,
+  x = 568,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "roof_ur_4",
+}
+
+tile{
+  layer = 1,
+  x = 520,
+  y = 216,
+  width = 48,
+  height = 16,
+  pattern = "roof_top_edge_4",
+}
+
+tile{
+  layer = 1,
+  x = 672,
+  y = 336,
+  width = 48,
+  height = 16,
+  pattern = "266",
+}
+
+tile{
+  layer = 1,
+  x = 480,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "137_11",
+}
+
+tile{
+  layer = 1,
+  x = 472,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "137_10",
+}
+
+tile{
+  layer = 1,
+  x = 360,
+  y = 248,
+  width = 16,
+  height = 16,
+  pattern = "137_11",
+}
+
+tile{
+  layer = 1,
+  x = 376,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "137_11",
+}
+
+tile{
+  layer = 1,
+  x = 392,
+  y = 424,
+  width = 16,
+  height = 16,
+  pattern = "137_10",
+}
+
+tile{
+  layer = 1,
+  x = 504,
+  y = 128,
+  width = 48,
+  height = 32,
+  pattern = "167",
+}
+
+tile{
+  layer = 1,
+  x = 488,
+  y = 160,
+  width = 32,
+  height = 24,
+  pattern = "166",
+}
+
+tile{
+  layer = 1,
+  x = 488,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "137_10",
+}
+
+tile{
+  layer = 1,
+  x = 696,
+  y = -24,
+  width = 32,
+  height = 24,
+  pattern = "166",
+}
+
+tile{
+  layer = 1,
+  x = 704,
+  y = 0,
+  width = 48,
+  height = 32,
+  pattern = "167",
+}
+
+tile{
+  layer = 1,
+  x = 320,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "roof_ur_4",
+}
+
+tile{
+  layer = 1,
+  x = 256,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "roof_ul_corner_4",
+}
+
+tile{
+  layer = 1,
+  x = 272,
+  y = 224,
+  width = 48,
+  height = 16,
+  pattern = "roof_top_edge_4",
+}
+
+tile{
+  layer = 1,
+  x = 280,
+  y = 280,
+  width = 32,
+  height = 16,
+  pattern = "216_4",
+}
+
+tile{
+  layer = 1,
+  x = 272,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 312,
+  y = 304,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 312,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 272,
+  y = 312,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "roof_ur_4",
+}
+
+tile{
+  layer = 1,
+  x = 64,
+  y = 312,
+  width = 16,
+  height = 16,
+  pattern = "roof_ul_corner_4",
+}
+
+tile{
+  layer = 1,
+  x = 80,
+  y = 312,
+  width = 48,
+  height = 16,
+  pattern = "roof_top_edge_4",
+}
+
+tile{
+  layer = 1,
+  x = 88,
+  y = 368,
+  width = 32,
+  height = 16,
+  pattern = "216",
+}
+
+tile{
+  layer = 1,
+  x = 56,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 1,
+  x = 32,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114",
+}
+
+tile{
+  layer = 1,
+  x = 40,
+  y = 368,
+  width = 16,
+  height = 8,
+  pattern = "114_2",
+}
+
+tile{
+  layer = 1,
+  x = 168,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114_3",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 368,
+  width = 8,
+  height = 8,
+  pattern = "114",
+}
+
+tile{
+  layer = 1,
+  x = 152,
+  y = 368,
+  width = 16,
+  height = 8,
+  pattern = "114_2",
+}
+
+tile{
+  layer = 1,
+  x = 168,
+  y = 368,
+  width = 8,
+  height = 16,
+  pattern = "117",
+}
+
+tile{
+  layer = 1,
+  x = 168,
+  y = 384,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "210",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 48,
+  width = 48,
+  height = 16,
+  pattern = "207",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "205_2",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "205",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "204",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "209",
+}
+
+tile{
+  layer = 1,
+  x = 128,
+  y = 64,
+  width = 16,
+  height = 32,
+  pattern = "204_2",
+}
+
+tile{
+  layer = 1,
+  x = 200,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 96,
+  width = 48,
+  height = 32,
+  pattern = "169",
+}
+
+tile{
+  layer = 1,
+  x = 80,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 72,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 88,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 232,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 208,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 200,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 136,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 96,
+  y = 144,
+  width = 8,
+  height = 8,
+  pattern = "114_4",
+}
+
+tile{
+  layer = 1,
+  x = 152,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "216",
+}
+
+tile{
+  layer = 1,
+  x = 688,
+  y = 80,
+  width = 80,
+  height = 80,
+  pattern = "156",
+}
+
+tile{
+  layer = 1,
+  x = 792,
+  y = 72,
+  width = 32,
+  height = 16,
+  pattern = "99_3",
+}
+
+tile{
+  layer = 1,
+  x = 32,
+  y = 376,
+  width = 24,
+  height = 8,
+  pattern = "224",
+}
+
+tile{
+  layer = 1,
+  x = 552,
+  y = 216,
+  width = 16,
+  height = 16,
+  pattern = "chimney",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "chimney",
+}
+
+tile{
+  layer = 1,
+  x = 560,
+  y = 184,
+  width = 16,
+  height = 32,
+  pattern = "smoke",
+}
+
+tile{
+  layer = 1,
+  x = 120,
+  y = 296,
+  width = 16,
+  height = 32,
+  pattern = "smoke",
+}
+

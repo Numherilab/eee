@@ -1,0 +1,410 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 416,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "spruce_head",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 8,
+  width = 32,
+  height = 24,
+  pattern = "115",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "96",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 8,
+  width = 32,
+  height = 24,
+  pattern = "116",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 32,
+  width = 352,
+  height = 176,
+  pattern = "61",
+  tileset = "spruce_head",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 32,
+  width = 352,
+  height = 32,
+  pattern = "15",
+  tileset = "spruce_head",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 32,
+  width = 32,
+  height = 40,
+  pattern = "21",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 32,
+  width = 32,
+  height = 40,
+  pattern = "21",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 56,
+  width = 32,
+  height = 16,
+  pattern = "1883",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 0,
+  x = 360,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "2038",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 376,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "2038",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 16,
+  width = 16,
+  height = 48,
+  pattern = "117",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 16,
+  width = 16,
+  height = 48,
+  pattern = "117",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 16,
+  width = 16,
+  height = 48,
+  pattern = "117",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "133",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "131",
+}
+
+tile{
+  layer = 0,
+  x = 320,
+  y = 0,
+  width = 16,
+  height = 16,
+  pattern = "132",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "96",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 336,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "96",
+}
+
+tile{
+  layer = 0,
+  x = 352,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "96",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 8,
+  width = 32,
+  height = 24,
+  pattern = "116",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 8,
+  width = 32,
+  height = 24,
+  pattern = "115",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 8,
+  width = 16,
+  height = 24,
+  pattern = "101",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 8,
+  width = 32,
+  height = 24,
+  pattern = "115",
+}
+
+door{
+  name = "seabird_tear_door_2",
+  layer = 0,
+  x = 80,
+  y = 56,
+  direction = 3,
+  sprite = "entities/door_seabird",
+  cannot_open_dialog = "_game.seabird_door",
+}
+
+door{
+  name = "seabird_tear_door_3",
+  layer = 0,
+  x = 192,
+  y = 56,
+  direction = 3,
+  sprite = "entities/door_seabird",
+  cannot_open_dialog = "_game.seabird_door",
+}
+
+door{
+  name = "seabird_tear_door_4",
+  layer = 0,
+  x = 320,
+  y = 56,
+  direction = 3,
+  sprite = "entities/door_seabird",
+  cannot_open_dialog = "_game.seabird_door",
+}
+
+sensor{
+  name = "door_item_sensor",
+  layer = 0,
+  x = 72,
+  y = 85,
+  width = 48,
+  height = 32,
+}
+
+sensor{
+  name = "door_item_sensor_2",
+  layer = 0,
+  x = 184,
+  y = 85,
+  width = 48,
+  height = 32,
+}
+
+sensor{
+  name = "door_item_sensor_3",
+  layer = 0,
+  x = 312,
+  y = 85,
+  width = 48,
+  height = 32,
+}
+
+npc{
+  name = "monk",
+  layer = 0,
+  x = 336,
+  y = 165,
+  direction = 3,
+  subtype = 1,
+  sprite = "npc/ilex-2",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 200,
+  y = 189,
+  direction = 1,
+}
+
+switch{
+  name = "door_switch",
+  layer = 0,
+  x = 80,
+  y = 16,
+  subtype = "walkable",
+  sprite = "entities/switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+switch{
+  name = "door_switch_2",
+  layer = 0,
+  x = 192,
+  y = 16,
+  subtype = "walkable",
+  sprite = "entities/switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+switch{
+  name = "door_switch_3",
+  layer = 0,
+  x = 320,
+  y = 16,
+  subtype = "walkable",
+  sprite = "entities/switch",
+  sound = "switch",
+  needs_block = false,
+  inactivate_when_leaving = false,
+}
+
+tile{
+  layer = 1,
+  x = 48,
+  y = 24,
+  width = 16,
+  height = 48,
+  pattern = "2205",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 40,
+  y = 32,
+  width = 32,
+  height = 16,
+  pattern = "2199",
+  tileset = "oceanheart_outdoors_1",
+}
+
+tile{
+  layer = 1,
+  x = 216,
+  y = -8,
+  width = 48,
+  height = 64,
+  pattern = "1884",
+  tileset = "overworld_oakhaven",
+}
+
+tile{
+  layer = 1,
+  x = 360,
+  y = 32,
+  width = 16,
+  height = 24,
+  pattern = "2040",
+  tileset = "overworld_yarrowmouth",
+}
+
+tile{
+  layer = 1,
+  x = 376,
+  y = 56,
+  width = 16,
+  height = 24,
+  pattern = "2040",
+  tileset = "overworld_yarrowmouth",
+}
+

@@ -1,0 +1,8 @@
+animation{
+  name = "counter",
+  src_image = "entities/spirit_counter.png",
+  frame_delay = 80,
+  directions = {
+    { x = 0, y = 0, frame_width = 48, frame_height = 48, origin_x = 24, origin_y = 33, num_frames = 6, num_columns = 3 },
+  },
+}

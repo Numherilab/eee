@@ -1,0 +1,7 @@
+animation{
+  name = "stopped",
+  src_image = "menus/maps/landmasses/lotus_shoal.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 48, origin_x = 0, origin_y = 0 },
+  },
+}

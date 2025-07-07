@@ -1,0 +1,91 @@
+animation{
+  name = "walking",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  frame_delay = 110,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 32, frame_width = 24, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 64, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 24, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 128, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 4 },
+  },
+}
+animation{
+  name = "dash_attack_wind_up",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  frame_delay = 310,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  frame_delay = 80,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 96, y = 32, frame_width = 24, frame_height = 32, origin_x = 8, origin_y = 29, num_frames = 2 },
+    { x = 96, y = 64, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+    { x = 96, y = 96, frame_width = 24, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 2 },
+    { x = 96, y = 128, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29, num_frames = 2 },
+  },
+}
+animation{
+  name = "immobilized",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  directions = {
+    { x = 120, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 120, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 120, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 120, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+  },
+}
+animation{
+  name = "licking",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+  },
+}
+animation{
+  name = "shaking",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  directions = {
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+    { x = 96, y = 160, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 29 },
+  },
+}
+animation{
+  name = "shooting",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  frame_delay = 100,
+  directions = {
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+  },
+}
+animation{
+  name = "wind_up",
+  src_image = "enemies/normal_enemies/ophira_goblin.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+    { x = 0, y = 256, frame_width = 40, frame_height = 32, origin_x = 20, origin_y = 29, num_frames = 8, num_columns = 4 },
+  },
+}
